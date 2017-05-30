@@ -1,0 +1,471 @@
+structure_id,slab_num,well_id,slab_type,structure_acronym,structure_name,polygon_id,mri_voxel_x,mri_voxel_y,mri_voxel_z,mni_x,mni_y,mni_z
+4215,13,141667089,CX,"SOG-i","superior occipital gyrus, left, inferior bank of gyrus",127562730,141,88,171,-50.0,-80.0,21.0
+4237,11,141667177,CX,"CgGr-s","cingulate gyrus, retrosplenial part, left, superior bank of gyrus",127512019,109,111,144,-18.0,-53.0,-2.0
+4090,9,141667207,CX,"PoG-pcs","postcentral gyrus, left, bank of the posterior central sulcus",127050458,138,59,118,-47.0,-27.0,50.0
+4107,9,139409861,CX,"SMG-i","supramarginal gyrus, left, inferior bank of gyrus",127050410,159,79,119,-68.0,-28.0,30.0
+4106,9,139409845,CX,"SMG-s","supramarginal gyrus, left, superior bank of gyrus",127050409,149,64,119,-58.0,-28.0,45.0
+4149,7,139409841,CX,"ITG-its","inferior temporal gyrus, left, bank of the its",126525177,125,147,93,-34.0,-2.0,-38.0
+4142,7,139409825,CX,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",126703433,154,126,94,-63.0,-3.0,-17.0
+4224,5,127687007,CX,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",123644654,95,89,71,-4.0,20.0,20.0
+4178,5,127687057,CX,"PLP","planum polare, left",123636950,143,122,74,-52.0,17.0,-13.0
+4898,2,127687001,CX,"SRoG","superior rostral gyrus, left",121081990,95,123,31,-4.0,60.0,-14.0
+4060,2,127687065,CX,"LOrG","lateral orbital gyrus, left",121112951,128,117,32,-37.0,59.0,-8.0
+4194,14,141667185,CX,"LiG-str","lingual gyrus, left, striate",127563328,100,129,177,-9.0,-86.0,-20.0
+4193,14,141667169,CX,"LiG-pest","lingual gyrus, left, peristriate",127563329,113,125,176,-22.0,-85.0,-16.0
+4187,14,141667153,CX,"Cun-str","cuneus, left, striate",127563327,98,110,176,-7.0,-85.0,-1.0
+4186,14,141667137,CX,"Cun-pest","cuneus, left, peristriate",127563326,98,99,177,-7.0,-86.0,10.0
+4120,13,141667229,CX,"Pcu-s","precuneus, left, superior lateral bank of gyrus",127562782,93,59,166,-2.0,-75.0,50.0
+4113,13,141667103,CX,"AnG-s","angular gyrus, left, superior bank of gyrus",127562530,122,60,167,-31.0,-76.0,49.0
+4194,13,141667199,CX,"LiG-str","lingual gyrus, left, striate",127562687,101,107,166,-10.0,-75.0,2.0
+4193,13,141667183,CX,"LiG-pest","lingual gyrus, left, peristriate",127562688,110,109,166,-19.0,-75.0,0.0
+4208,13,141667263,CX,"IOG-i","inferior occipital gyrus, left, inferior bank of gyrus",127562732,144,116,170,-53.0,-79.0,-7.0
+4121,12,141667179,CX,"Pcu-i","precuneus, left, inferior lateral bank of gyrus",127562274,97,49,155,-6.0,-64.0,60.0
+4114,12,141667227,CX,"AnG-i","angular gyrus, left, inferior bank of gyrus",127562172,126,68,156,-35.0,-65.0,41.0
+4099,12,141667195,CX,"SPL-i","superior parietal lobule, left, inferior bank of gyrus",127562174,115,77,156,-24.0,-65.0,32.0
+4231,12,141667133,CX,"CgGp-i","cingulate gyrus, parietal part, left, inferior bank of gyrus",127554739,110,100,153,-19.0,-62.0,9.0
+4230,12,141667117,CX,"CgGp-s","cingulate gyrus, parietal part, left, superior bank of gyrus",127554738,96,90,153,-5.0,-62.0,19.0
+4201,12,141667213,CX,"OTG-i","occipito-temporal gyrus, left, inferior bank of gyrus",127562209,141,123,157,-50.0,-66.0,-14.0
+4200,12,141667197,CX,"OTG-s","occipito-temporal gyrus, left, superior bank of gyrus",127562208,132,117,155,-41.0,-64.0,-8.0
+4230,11,141667255,CX,"CgGp-s","cingulate gyrus, parietal part, left, superior bank of gyrus",127511917,100,63,143,-9.0,-52.0,46.0
+4237,11,141667145,CX,"CgGr-s","cingulate gyrus, retrosplenial part, left, superior bank of gyrus",127512018,107,111,144,-16.0,-53.0,-2.0
+4231,11,141667129,CX,"CgGp-i","cingulate gyrus, parietal part, left, inferior bank of gyrus",127512016,101,75,143,-10.0,-52.0,34.0
+4107,11,141667209,CX,"SMG-i","supramarginal gyrus, left, inferior bank of gyrus",127511948,149,86,146,-58.0,-55.0,23.0
+4106,11,141667193,CX,"SMG-s","supramarginal gyrus, left, superior bank of gyrus",127511947,145,73,146,-54.0,-55.0,36.0
+4193,11,141667131,CX,"LiG-pest","lingual gyrus, left, peristriate",127514491,117,117,145,-26.0,-54.0,-8.0
+4193,11,141667083,CX,"LiG-pest","lingual gyrus, left, peristriate",127514490,115,118,145,-24.0,-54.0,-9.0
+4143,8,139409907,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",127045317,150,129,106,-59.0,-15.0,-20.0
+4136,8,139409811,CX,"STG-i","superior temporal gyrus, left, inferior bank of gyrus",127048540,157,97,107,-66.0,-16.0,12.0
+4013,8,139409749,CX,"PrG-sl","precentral gyrus, left, superior lateral aspect of gyrus",127045208,120,41,104,-29.0,-13.0,68.0
+4106,8,139409795,CX,"SMG-s","supramarginal gyrus, left, superior bank of gyrus",127048706,149,61,105,-58.0,-14.0,48.0
+4088,8,139409779,CX,"PoG-sl","postcentral gyrus, left, superior lateral aspect of gyrus",127048705,135,45,105,-44.0,-14.0,64.0
+4143,9,139409767,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",127050503,155,122,122,-64.0,-31.0,-13.0
+4072,9,139409799,CX,"PCLa","paracentral lobule, anterior part, left",127050746,100,69,118,-9.0,-27.0,40.0
+4098,10,139409847,CX,"SPL-s","superior parietal lobule, left, superior bank of gyrus",127056990,105,38,128,-14.0,-37.0,71.0
+4230,10,139409911,CX,"CgGp-s","cingulate gyrus, parietal part, left, superior bank of gyrus",127056267,95,64,127,-4.0,-36.0,45.0
+4142,10,141667125,CX,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",127056952,161,104,135,-70.0,-44.0,5.0
+4136,10,139409801,CX,"STG-i","superior temporal gyrus, left, inferior bank of gyrus",127056953,155,89,134,-64.0,-43.0,20.0
+4160,10,141667189,CX,"FuG-cos","fusiform gyrus, left, bank of cos",127056052,130,127,132,-39.0,-41.0,-18.0
+4158,10,141667157,CX,"FuG-its","fusiform gyrus, left, bank of the its",127056113,139,129,133,-48.0,-42.0,-20.0
+4151,10,141667253,CX,"ITG-mts","inferior temporal gyrus, left, bank of mts",127055991,157,117,134,-66.0,-43.0,-8.0
+4150,10,141667237,CX,"ITG-l","inferior temporal gyrus, left, lateral bank of gyrus",127055992,156,131,134,-65.0,-43.0,-22.0
+4143,10,141667221,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",127055990,157,111,135,-66.0,-44.0,-2.0
+4223,7,139409921,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",126712218,93,65,90,-2.0,1.0,44.0
+4024,7,139409855,CX,"SFG-l","superior frontal gyrus, left, lateral bank of gyrus",126707525,110,55,90,-19.0,1.0,54.0
+4023,7,139409839,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",126707524,92,39,89,-1.0,2.0,70.0
+4012,7,139409887,CX,"PrG-prc","precentral gyrus, left, bank of the precentral sulcus",126709266,133,55,91,-42.0,0.0,54.0
+4270,7,139409793,CX,"LIG","long insular gyri, left",126712343,133,109,92,-42.0,-1.0,0.0
+4136,7,139409809,CX,"STG-i","superior temporal gyrus, left, inferior bank of gyrus",126703434,148,123,94,-57.0,-3.0,-14.0
+4273,6,139409823,CX,"SIG","short insular gyri, left",125142345,125,104,81,-34.0,10.0,5.0
+4288,6,139409807,CX,"Pu","putamen, left",123591460,110,103,82,-19.0,9.0,6.0
+4178,6,139409775,CX,"PLP","planum polare, left",124123901,145,114,81,-54.0,10.0,-5.0
+4280,5,139409743,CX,"HCd","head of caudate nucleus, left",126679041,108,102,72,-17.0,19.0,7.0
+4291,5,139409917,CX,"Acb","nucleus accumbens, left",126218224,103,114,72,-12.0,19.0,-5.0
+4280,5,139409885,CX,"HCd","head of caudate nucleus, left",122834756,107,102,72,-16.0,19.0,7.0
+4224,6,127687105,CX,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",124122527,95,86,80,-4.0,11.0,23.0
+4223,6,127687089,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",124122526,94,81,80,-3.0,11.0,28.0
+4024,6,127686947,CX,"SFG-l","superior frontal gyrus, left, lateral bank of gyrus",124079430,110,41,78,-19.0,13.0,68.0
+4045,6,127686995,CX,"orIFG","inferior frontal gyrus, orbital part, left",124137414,149,100,80,-58.0,11.0,9.0
+4143,6,127687027,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",124110660,145,140,82,-54.0,9.0,-31.0
+4223,5,127686991,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",123644653,99,80,71,-8.0,20.0,29.0
+4023,5,141667093,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",123644655,94,46,70,-3.0,21.0,63.0
+4031,5,127687055,CX,"MFG-i","middle frontal gyrus, left, inferior bank of gyrus",123650690,140,79,71,-49.0,20.0,30.0
+4030,5,127687039,CX,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",123650689,114,59,70,-23.0,21.0,50.0
+4039,5,127687071,CX,"trIFG","inferior frontal gyrus, triangular part, left",124029938,145,96,73,-54.0,18.0,13.0
+4057,5,127687119,CX,"POrG","posterior orbital gyrus, left",123622766,112,135,73,-21.0,18.0,-26.0
+4051,5,127687103,CX,"MOrG","medial orbital gyrus, left",123622765,108,137,73,-17.0,18.0,-28.0
+4142,5,127687041,CX,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",123636953,142,136,74,-51.0,17.0,-27.0
+4136,5,127687025,CX,"STG-i","superior temporal gyrus, left, inferior bank of gyrus",123636952,138,135,74,-47.0,17.0,-26.0
+4224,4,127686957,CX,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",121130696,97,87,56,-6.0,35.0,22.0
+4031,4,127687005,CX,"MFG-i","middle frontal gyrus, left, inferior bank of gyrus",121130911,129,74,54,-38.0,37.0,35.0
+4060,4,127687085,CX,"LOrG","lateral orbital gyrus, left",125137264,131,123,52,-40.0,39.0,-14.0
+4045,4,127687037,CX,"orIFG","inferior frontal gyrus, orbital part, left",121130998,142,123,52,-51.0,39.0,-14.0
+4039,4,127687021,CX,"trIFG","inferior frontal gyrus, triangular part, left",121130999,147,108,53,-56.0,38.0,1.0
+4223,3,127687097,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",121130126,96,77,43,-5.0,48.0,32.0
+4023,3,141667077,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",121130127,99,73,42,-8.0,49.0,36.0
+4031,3,127686955,CX,"MFG-i","middle frontal gyrus, left, inferior bank of gyrus",121129789,127,84,41,-36.0,50.0,25.0
+4022,3,127687113,CX,"SFG","superior frontal gyrus, left",121129787,114,71,42,-23.0,49.0,38.0
+4054,3,127687067,CX,"AOrG","anterior orbital gyrus, left",121128826,118,125,43,-27.0,48.0,-16.0
+4051,3,127687051,CX,"MOrG","medial orbital gyrus, left",121128825,115,126,43,-24.0,48.0,-17.0
+4023,2,127686937,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",121107685,95,88,31,-4.0,60.0,21.0
+4051,2,127686969,CX,"MOrG","medial orbital gyrus, left",121081997,104,137,32,-13.0,59.0,-28.0
+4054,2,127687049,CX,"AOrG","anterior orbital gyrus, left",121112961,115,124,32,-24.0,59.0,-15.0
+4051,4,127687117,CX,"MOrG","medial orbital gyrus, left",121130687,101,138,54,-10.0,37.0,-29.0
+4048,4,127687101,CX,"GRe","gyrus rectus, left",121130688,101,133,55,-10.0,36.0,-24.0
+4295,6,156434461,CX,"GPe","globus pallidus, external segment, left",126221708,114,125,84,-23.0,7.0,-16.0
+4282,6,156434429,CX,"BCd","body of caudate nucleus, left",126220130,106,100,82,-15.0,9.0,9.0
+4282,7,156434555,CX,"BCd","body of caudate nucleus, left",126715264,103,90,92,-12.0,-1.0,19.0
+4746,61,156434505,CB,"He-X","X, left, lateral hemisphere",146148177,115,148,126,-24.0,-35.0,-39.0
+4743,61,156434489,CB,"He-VIIIB","VIIIB, left, lateral hemisphere",146148077,115,174,142,-24.0,-51.0,-65.0
+4736,61,156434473,CB,"He-V","V, left, lateral hemisphere",146149504,115,126,136,-24.0,-45.0,-17.0
+4735,61,156434457,CB,"He-IV","IV, left, lateral hemisphere",146149594,115,139,125,-24.0,-34.0,-30.0
+4741,61,156434523,CB,"He-VIIB","VIIB, left, lateral hemisphere",146146376,115,167,164,-24.0,-73.0,-58.0
+4738,61,156434475,CB,"He-VI","VI, left, lateral hemisphere",146146285,115,132,168,-24.0,-77.0,-23.0
+4742,61,156434459,CB,"He-VIIIA","VIIIA, left, lateral hemisphere",146146475,115,173,155,-24.0,-64.0,-64.0
+4741,61,156434443,CB,"He-VIIB","VIIB, left, lateral hemisphere",146146375,115,168,162,-24.0,-71.0,-59.0
+4739,61,156434411,CB,"He-Crus I","Crus I, left, lateral hemisphere",146146016,115,140,179,-24.0,-88.0,-31.0
+4738,61,156434585,CB,"He-VI","VI, left, lateral hemisphere",146146284,115,131,166,-24.0,-75.0,-22.0
+4728,62,149052712,CB,"PV-IX","IX, left, paravermis",128130461,105,169,134,-14.0,-43.0,-60.0
+4727,62,147712556,CB,"PV-VIIIB","VIIIB, left, paravermis",128198489,105,165,153,-14.0,-62.0,-56.0
+4725,62,149052744,CB,"PV-VIIB","VIIB, left, paravermis",128198491,105,167,166,-14.0,-75.0,-58.0
+4724,62,147712652,CB,"PV-Crus II","Crus II, left, paravermis",146080228,105,154,180,-14.0,-89.0,-45.0
+4723,62,147712668,CB,"PV-Crus I","Crus I, left, paravermis",146080286,105,142,176,-14.0,-85.0,-33.0
+4722,62,147712700,CB,"PV-VI","VI, left, paravermis",146080299,105,128,168,-14.0,-77.0,-19.0
+4710,63,147712592,CB,"Ve-VIIIB","VIIIB",146140622,94,150,157,-3.0,-66.0,-41.0
+4708,63,147712718,CB,"Ve-VIIB","VIIB",146140660,94,140,161,-3.0,-70.0,-31.0
+4700,63,147712654,CB,"Ve-I-II","I-II",146140536,94,132,134,-3.0,-43.0,-23.0
+4713,63,147712608,CB,"Ve-X","X",146140135,94,138,138,-3.0,-47.0,-29.0
+4710,63,147712576,CB,"Ve-VIIIB","VIIIB",146140617,94,155,156,-3.0,-65.0,-46.0
+4709,63,147712734,CB,"Ve-VIIIA","VIIIA",146806878,94,156,158,-3.0,-67.0,-47.0
+4700,63,147712638,CB,"Ve-I-II","I-II",146140535,94,131,133,-3.0,-42.0,-22.0
+4706,63,147712688,CB,"Ve-VIIAf","VIIAf",146140966,94,129,173,-3.0,-82.0,-20.0
+4705,63,147712656,CB,"Ve-VI","VI",146140945,94,128,161,-3.0,-70.0,-19.0
+4706,63,147712672,CB,"Ve-VIIAf","VIIAf",146140965,94,131,173,-3.0,-82.0,-22.0
+4702,63,147712590,CB,"Ve-IV","IV",146140784,94,113,141,-3.0,-50.0,-4.0
+4703,63,147712606,CB,"Ve-V","V",146140797,94,107,153,-3.0,-62.0,2.0
+4702,63,147712574,CB,"Ve-IV","IV",146140783,94,115,140,-3.0,-49.0,-6.0
+4701,63,147712732,CB,"Ve-III","III",146140729,94,117,133,-3.0,-42.0,-8.0
+4244,9,149052680,CX,"PHG-l","parahippocampal gyrus, left, lateral bank of gyrus",127050011,117,133,119,-26.0,-28.0,-24.0
+4282,9,147712602,CX,"BCd","body of caudate nucleus, left",127945266,112,93,118,-21.0,-27.0,16.0
+4270,9,147712586,CX,"LIG","long insular gyri, left",127050026,134,93,119,-43.0,-28.0,16.0
+4244,9,147712554,CX,"PHG-l","parahippocampal gyrus, left, lateral bank of gyrus",127050008,119,136,119,-28.0,-28.0,-27.0
+4160,9,149052854,CX,"FuG-cos","fusiform gyrus, left, bank of cos",127050010,136,129,119,-45.0,-28.0,-20.0
+4187,15,149052758,CX,"Cun-str","cuneus, left, striate",127749301,94,100,185,-3.0,-94.0,9.0
+4288,8,149052726,CX,"Pu","putamen, left",127764406,122,105,107,-31.0,-16.0,4.0
+4215,14,141667121,CX,"SOG-i","superior occipital gyrus, left, inferior bank of gyrus",127563550,114,90,177,-23.0,-86.0,19.0
+4121,13,141667245,CX,"Pcu-i","precuneus, left, inferior lateral bank of gyrus",127562783,94,68,166,-3.0,-75.0,41.0
+4114,13,141667119,CX,"AnG-i","angular gyrus, left, inferior bank of gyrus",127562529,124,81,167,-33.0,-76.0,28.0
+4098,13,141667261,CX,"SPL-s","superior parietal lobule, left, superior bank of gyrus",127562532,112,58,166,-21.0,-75.0,51.0
+4186,13,141667151,CX,"Cun-pest","cuneus, left, peristriate",127562685,98,100,166,-7.0,-75.0,9.0
+4207,13,141667247,CX,"IOG-s","inferior occipital gyrus, left, superior bank of gyrus",127562731,144,106,170,-53.0,-79.0,3.0
+4113,12,141667211,CX,"AnG-s","angular gyrus, left, superior bank of gyrus",127562173,134,60,157,-43.0,-66.0,49.0
+4113,11,141667113,CX,"AnG-s","angular gyrus, left, superior bank of gyrus",127511066,123,61,142,-32.0,-51.0,48.0
+4149,11,141667241,CX,"ITG-its","inferior temporal gyrus, left, bank of the its",127514487,143,125,146,-52.0,-55.0,-16.0
+4245,8,141667143,CX,"PHG-cos","parahippocampal gyrus, left, bank of the cos",127048915,127,141,106,-36.0,-15.0,-32.0
+4136,9,139409751,CX,"STG-i","superior temporal gyrus, left, inferior bank of gyrus",127050505,150,106,121,-59.0,-30.0,3.0
+4159,9,139409925,CX,"FuG-l","fusiform gyrus, left, lateral bank of gyrus",127050368,135,143,120,-44.0,-29.0,-34.0
+4231,9,139409831,CX,"CgGp-i","cingulate gyrus, parietal part, left, inferior bank of gyrus",127050744,93,85,118,-2.0,-27.0,24.0
+4230,9,139409815,CX,"CgGp-s","cingulate gyrus, parietal part, left, superior bank of gyrus",127050745,100,73,118,-9.0,-27.0,36.0
+4121,10,139409879,CX,"Pcu-i","precuneus, left, inferior lateral bank of gyrus",127057177,106,60,128,-15.0,-37.0,49.0
+4120,10,139409863,CX,"Pcu-s","precuneus, left, superior lateral bank of gyrus",127057176,94,48,128,-3.0,-37.0,61.0
+4135,10,139409785,CX,"STG-l","superior temporal gyrus, left, lateral bank of gyrus",127056954,160,82,132,-69.0,-41.0,27.0
+4224,7,139409747,CX,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",126712217,94,83,91,-3.0,0.0,26.0
+4150,7,139409857,CX,"ITG-l","inferior temporal gyrus, left, lateral bank of gyrus",126525179,134,154,93,-43.0,-2.0,-45.0
+4288,5,139409901,CX,"Pu","putamen, left",122820849,113,111,72,-22.0,19.0,-2.0
+4223,4,127686941,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",121130697,95,80,55,-4.0,36.0,29.0
+4030,4,127686989,CX,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",121130910,126,63,54,-35.0,37.0,46.0
+4898,3,127687003,CX,"SRoG","superior rostral gyrus, left",121128140,97,120,44,-6.0,47.0,-11.0
+4060,3,127687083,CX,"LOrG","lateral orbital gyrus, left",121128827,126,122,43,-35.0,48.0,-13.0
+4039,3,127687019,CX,"trIFG","inferior frontal gyrus, triangular part, left",121128829,136,113,43,-45.0,48.0,-4.0
+4288,6,156434445,CX,"Pu","putamen, left",126221599,120,110,82,-29.0,9.0,-1.0
+4296,7,156434413,CX,"GPi","globus pallidus, internal segment, left",126715267,113,113,92,-22.0,-1.0,-4.0
+4295,7,156434587,CX,"GPe","globus pallidus, external segment, left",126715266,114,109,92,-23.0,-1.0,0.0
+4288,7,156434571,CX,"Pu","putamen, left",126715265,120,107,92,-29.0,-1.0,2.0
+4746,61,156434569,CB,"He-X","X, left, lateral hemisphere",146148179,115,150,125,-24.0,-34.0,-41.0
+4743,61,156434553,CB,"He-VIIIB","VIIIB, left, lateral hemisphere",146148084,115,173,145,-24.0,-54.0,-64.0
+4736,61,156434537,CB,"He-V","V, left, lateral hemisphere",146149505,115,126,138,-24.0,-47.0,-17.0
+4735,61,156434521,CB,"He-IV","IV, left, lateral hemisphere",146149595,115,138,125,-24.0,-34.0,-29.0
+4742,61,156434539,CB,"He-VIIIA","VIIIA, left, lateral hemisphere",146146478,115,172,157,-24.0,-66.0,-63.0
+4740,61,156434507,CB,"He-Crus II","Crus II, left, lateral hemisphere",146145783,115,150,181,-24.0,-90.0,-41.0
+4739,61,156434491,CB,"He-Crus I","Crus I, left, lateral hemisphere",146145918,115,142,180,-24.0,-89.0,-33.0
+4740,61,156434427,CB,"He-Crus II","Crus II, left, lateral hemisphere",146145782,115,147,182,-24.0,-91.0,-38.0
+4728,62,149052696,CB,"PV-IX","IX, left, paravermis",128130460,105,166,134,-14.0,-43.0,-57.0
+4726,62,149052776,CB,"PV-VIIIA","VIIIA, left, paravermis",128198349,105,171,159,-14.0,-68.0,-62.0
+4726,62,149052760,CB,"PV-VIIIA","VIIIA, left, paravermis",128198347,105,172,158,-14.0,-67.0,-63.0
+4725,62,149052728,CB,"PV-VIIB","VIIB, left, paravermis",128198488,105,167,165,-14.0,-74.0,-58.0
+4720,62,147712620,CB,"PV-V","V, left, paravermis",146086913,105,119,150,-14.0,-59.0,-10.0
+4719,62,147712588,CB,"PV-IV","IV, left, paravermis",146087091,105,118,130,-14.0,-39.0,-9.0
+4720,62,147712604,CB,"PV-V","V, left, paravermis",146086821,105,118,149,-14.0,-58.0,-9.0
+4719,62,147712572,CB,"PV-IV","IV, left, paravermis",146087134,105,118,129,-14.0,-38.0,-9.0
+4723,62,147712684,CB,"PV-Crus I","Crus I, left, paravermis",146080276,105,140,175,-14.0,-84.0,-31.0
+4722,62,147712716,CB,"PV-VI","VI, left, paravermis",146080300,105,128,167,-14.0,-76.0,-19.0
+4724,62,147712636,CB,"PV-Crus II","Crus II, left, paravermis",146080227,105,155,179,-14.0,-88.0,-46.0
+4713,63,147712624,CB,"Ve-X","X",146140136,94,141,139,-3.0,-48.0,-32.0
+4711,63,147712686,CB,"Ve-IX","IX",146140605,94,151,147,-3.0,-56.0,-42.0
+4709,63,147712560,CB,"Ve-VIIIA","VIIIA",146806879,94,156,159,-3.0,-68.0,-47.0
+4711,63,147712670,CB,"Ve-IX","IX",146140604,94,151,146,-3.0,-55.0,-42.0
+4708,63,147712702,CB,"Ve-VIIB","VIIB",146140659,94,143,161,-3.0,-70.0,-34.0
+4707,63,147712720,CB,"Ve-VIIAt","VIIAt",146141465,94,145,167,-3.0,-76.0,-36.0
+4707,63,147712704,CB,"Ve-VIIAt","VIIAt",146141482,94,147,165,-3.0,-74.0,-38.0
+4705,63,147712640,CB,"Ve-VI","VI",146140937,94,130,161,-3.0,-70.0,-21.0
+4703,63,147712622,CB,"Ve-V","V",146140798,94,106,159,-3.0,-68.0,3.0
+4701,63,147712558,CB,"Ve-III","III",146140732,94,119,132,-3.0,-41.0,-10.0
+4701,63,149052710,CB,"Ve-III","III",146140732,95,119,132,-4.0,-41.0,-10.0
+4245,9,147712570,CX,"PHG-cos","parahippocampal gyrus, left, bank of the cos",127050009,131,131,119,-40.0,-28.0,-22.0
+4214,15,149052790,CX,"SOG-s","superior occipital gyrus, left, superior bank of gyrus",127749299,115,87,185,-24.0,-94.0,22.0
+4194,15,149052774,CX,"LiG-str","lingual gyrus, left, striate",127749302,97,104,185,-6.0,-94.0,5.0
+4186,15,149052742,CX,"Cun-pest","cuneus, left, peristriate",127749300,98,87,185,-7.0,-94.0,22.0
+4910,15,149052838,CX,"OPi","occipital pole, left, inferior aspect",127752040,117,125,185,-26.0,-94.0,-16.0
+4909,15,149052822,CX,"OPs","occipital pole, left, superior aspect",127752039,119,122,185,-28.0,-94.0,-13.0
+4215,15,149052806,CX,"SOG-i","superior occipital gyrus, left, inferior bank of gyrus",127752038,127,113,185,-36.0,-94.0,-4.0
+4186,14,149052694,CX,"Cun-pest","cuneus, left, peristriate",127563326,97,99,177,-6.0,-86.0,10.0
+4214,13,141667135,CX,"SOG-s","superior occipital gyrus, left, superior bank of gyrus",127562528,128,81,168,-37.0,-77.0,28.0
+4150,12,141667181,CX,"ITG-l","inferior temporal gyrus, left, lateral bank of gyrus",127562211,150,125,158,-59.0,-67.0,-16.0
+4238,11,147712584,CX,"CgGr-i","cingulate gyrus, retrosplenial part, left, inferior bank of gyrus",127512017,114,107,144,-23.0,-53.0,2.0
+4143,11,156434441,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",127514503,152,123,146,-61.0,-55.0,-14.0
+4087,9,141667175,CX,"PoG-cs","postcentral gyrus, left, bank of the central sulcus",127050456,130,55,117,-39.0,-26.0,54.0
+4178,8,139409859,CX,"PLP","planum polare, left",127048538,136,112,107,-45.0,-16.0,-3.0
+4223,8,139409797,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",127045123,99,65,104,-8.0,-13.0,44.0
+4073,8,139409765,CX,"PCLa-s","paracentral lobule, anterior part, left, superior bank of gyrus",127045125,93,40,104,-2.0,-13.0,69.0
+4099,10,139409895,CX,"SPL-i","superior parietal lobule, left, inferior bank of gyrus",127055904,124,42,130,-33.0,-39.0,67.0
+4231,10,139409927,CX,"CgGp-i","cingulate gyrus, parietal part, left, inferior bank of gyrus",127056266,97,86,127,-6.0,-36.0,23.0
+4159,10,141667173,CX,"FuG-l","fusiform gyrus, left, lateral bank of gyrus",127056053,131,132,133,-40.0,-42.0,-23.0
+4135,7,139409761,CX,"STG-l","superior temporal gyrus, left, lateral bank of gyrus",126712347,157,98,93,-66.0,-2.0,11.0
+4023,6,127687073,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",124122525,92,39,78,-1.0,13.0,70.0
+4270,6,127687043,CX,"LIG","long insular gyri, left",124110659,134,127,83,-43.0,8.0,-18.0
+4135,5,156434425,CX,"STG-l","superior temporal gyrus, left, lateral bank of gyrus",123636951,152,117,74,-61.0,17.0,-8.0
+9222,4,127686973,CX,"cc","corpus callosum",125137155,100,104,57,-9.0,34.0,5.0
+4223,3,149052678,CX,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",121130126,95,77,43,-4.0,48.0,32.0
+4030,3,127686939,CX,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",121129788,125,74,42,-34.0,49.0,35.0
+4898,3,139409741,CX,"SRoG","superior rostral gyrus, left",121128140,96,120,44,-5.0,47.0,-11.0
+4224,3,127686987,CX,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",121128139,97,114,43,-6.0,48.0,-5.0
+4060,3,156434409,CX,"LOrG","lateral orbital gyrus, left",121128827,125,122,43,-34.0,48.0,-13.0
+4224,2,127686985,CX,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",121081983,99,113,31,-8.0,60.0,-4.0
+4031,2,127687033,CX,"MFG-i","middle frontal gyrus, left, inferior bank of gyrus",121112947,126,97,31,-35.0,60.0,12.0
+4069,4,127686943,CX,"PaOG","parolfactory gyri, left",121130689,95,134,55,-4.0,36.0,-25.0
+4669,7,156906928,CX,"SuM","supramammillary nucleus, left",146082220,99,115,91,-8.0,0.0,-6.0
+13005,7,156906912,CX,"LHM","lateral hypothalamic area, mammillary region, left",146082294,102,115,91,-11.0,0.0,-6.0
+4679,7,156906864,CX,"PHA","posterior hypothalamic area, left",148223788,98,113,91,-7.0,0.0,-4.0
+4644,7,156906942,CX,"ARH","arcuate nucleus of the hypothalamus, left",148160815,99,118,91,-8.0,0.0,-9.0
+4641,7,156906878,CX,"DMH","dorsomedial hypothalamic nucleus, left",148072329,100,118,91,-9.0,0.0,-9.0
+4573,7,156906830,CX,"PVH","paraventricular nucleus of the hypothalamus, left",148093164,99,112,91,-8.0,0.0,-3.0
+10143,6,156906956,CX,"Pir","piriform cortex, left",147655427,116,128,86,-25.0,5.0,-19.0
+4308,6,156906924,CX,"nbM","basal nucleus of meynert, left",126524993,109,125,85,-18.0,6.0,-16.0
+10145,6,156906892,CX,"OlfT","olfactory tubercle, left",148964485,106,128,85,-15.0,6.0,-19.0
+4313,6,156906876,CX,"BST","bed  nucleus of stria terminalis, left",126222111,99,116,84,-8.0,7.0,-7.0
+4310,6,156906860,CX,"DBv","nucleus of the diagonal band, left, horizontal division",126532035,93,74,82,-2.0,9.0,35.0
+9558,93,156888034,BS,"12","hypoglossal nucleus, left",138375463,92,170,133,-1.0,-42.0,-61.0
+9677,93,156888002,BS,"Sp5","spinal trigeminal nucleus, left",127930877,97,170,133,-6.0,-42.0,-61.0
+9543,93,156887938,BS,"Cu","cuneate nucleus, left",127868579,96,170,134,-5.0,-43.0,-61.0
+9520,93,156888113,BS,"Arc","arcuate nucleus of medulla, left",116152499,95,172,125,-4.0,-34.0,-63.0
+9558,93,156888097,BS,"12","hypoglossal nucleus, left",130944908,95,168,138,-4.0,-47.0,-59.0
+9546,93,156888049,BS,"10","dorsal motor nucleus of the vagus, left",128016754,96,168,138,-5.0,-47.0,-59.0
+9698,93,156888032,BS,"8Ve","vestibular nuclei, left",127884831,97,168,138,-6.0,-47.0,-59.0
+9520,93,156887936,BS,"Arc","arcuate nucleus of medulla, left",146731349,93,169,125,-2.0,-34.0,-60.0
+9614,93,156887988,BS,"LMRt","lateral medullary reticular group, left",146039012,97,176,132,-6.0,-41.0,-67.0
+9561,93,156887956,BS,"IO","inferior olivary complex, left",146664773,94,176,133,-3.0,-42.0,-67.0
+9558,93,156887940,BS,"12","hypoglossal nucleus, left",131360893,93,175,134,-2.0,-43.0,-66.0
+9525,93,156888067,BS,"CGS","central glial substance",116087328,92,175,135,-1.0,-44.0,-66.0
+9529,93,156435972,BS,"8Co","cochlear nuclei, left",128019221,100,166,135,-9.0,-44.0,-57.0
+9143,93,156436138,BS,"7","facial motor nucleus, left",146823314,94,167,133,-3.0,-42.0,-58.0
+4257,10,148955282,CX,"CA4","CA4 field, left",124073666,113,101,130,-22.0,-39.0,8.0
+4256,10,148955266,CX,"CA3","CA3 field, left",138058295,114,101,130,-23.0,-39.0,8.0
+4444,9,148955170,CX,"MG","medial geniculate complex, left",131299383,126,117,119,-35.0,-28.0,-8.0
+9004,9,148955138,CX,"CGMB","central gray substance of midbrain, left",127020881,111,129,119,-20.0,-28.0,-20.0
+4440,9,148955280,CX,"LGd","dorsal lateral geniculate nucleus, left",127537195,133,117,119,-42.0,-28.0,-8.0
+9149,92,148955204,BS,"LC","locus ceruleus, left",126786164,97,151,131,-6.0,-40.0,-42.0
+9677,92,156436150,BS,"Sp5","spinal trigeminal nucleus, left",127888024,97,160,126,-6.0,-35.0,-51.0
+9207,92,156436066,BS,"Pr5","principal sensory nucleus of trigeminal nerve, left",127887923,97,160,130,-6.0,-39.0,-51.0
+9492,92,156436034,BS,"Pn","pontine nuclei, left",116051709,95,161,119,-4.0,-28.0,-52.0
+9137,92,156436120,BS,"6","abducens nucleus, left",120420463,98,165,135,-7.0,-44.0,-56.0
+9492,92,156436052,BS,"Pn","pontine nuclei, left",116079044,92,166,127,-1.0,-36.0,-57.0
+9178,92,156436036,BS,"SOC","superior olivary complex, left",127111622,97,166,128,-6.0,-37.0,-57.0
+9074,91,148955164,BS,"SNC","substantia nigra, pars compacta, left",115717446,99,125,114,-8.0,-23.0,-16.0
+9004,91,148955115,BS,"CGMB","central gray substance of midbrain, left",125252871,94,114,130,-3.0,-39.0,-5.0
+9074,8,147628200,CX,"SNC","substantia nigra, pars compacta, left",127094343,109,120,106,-18.0,-15.0,-11.0
+4400,8,147628315,CX,"DTM","medial group of nuclei, left",126421172,95,100,105,-4.0,-14.0,9.0
+4282,8,147628214,CX,"BCd","body of caudate nucleus, left",127653277,113,90,106,-22.0,-15.0,19.0
+4258,8,147628345,CX,"DG","dentate gyrus, left",127001454,118,131,107,-27.0,-16.0,-22.0
+9074,8,147628274,CX,"SNC","substantia nigra, pars compacta, left",126970581,109,123,106,-18.0,-15.0,-14.0
+4288,8,147628228,CX,"Pu","putamen, left",126968577,129,118,107,-38.0,-16.0,-9.0
+4251,8,147628196,CX,"S","subiculum, left",127001456,114,138,106,-23.0,-15.0,-29.0
+4360,7,147628359,CX,"CeA","central nucleus, left",120660870,119,124,92,-28.0,-1.0,-15.0
+4342,7,147628292,CX,"BLA","basolateral nucleus, left",126686407,118,130,92,-27.0,-1.0,-21.0
+9456,91,148955196,BS,"MBRa","midbrain raphe nuclei, left",127707962,92,116,124,-1.0,-33.0,-7.0
+4437,8,147628279,CX,"ILc","caudal group of intralaminar nuclei, left",126421173,100,108,105,-9.0,-14.0,1.0
+4409,8,147628260,CX,"DTLd","lateral group of nuclei, left, dorsal division",125699701,106,98,106,-15.0,-15.0,11.0
+4507,8,156906866,CX,"ZI","zona incerta, left",127091799,108,112,106,-17.0,-15.0,-3.0
+4506,8,147628363,CX,"R","reticular nucleus of thalamus, left",126426187,113,101,107,-22.0,-16.0,8.0
+4432,8,147628347,CX,"ILr","rostral group of intralaminar nuclei, left",126421169,101,99,106,-10.0,-15.0,10.0
+4417,8,147628331,CX,"DTLv","lateral group of nuclei, left, ventral division",127020516,108,107,106,-17.0,-15.0,2.0
+4322,8,147628277,CX,"Cl","claustrum, left",126995493,125,102,106,-34.0,-15.0,7.0
+4257,8,147628361,CX,"CA4","CA4 field, left",127001567,117,131,107,-26.0,-16.0,-22.0
+4379,7,147628272,CX,"LA","lateral nucleus, left",120660819,121,134,92,-30.0,-1.0,-25.0
+4342,7,147628252,CX,"BLA","basolateral nucleus, left",120660838,117,130,92,-26.0,-1.0,-21.0
+4432,7,156906960,CX,"ILr","rostral group of intralaminar nuclei, left",126787185,96,101,91,-5.0,0.0,8.0
+4507,7,156906880,CX,"ZI","zona incerta, left",122788940,104,107,91,-13.0,0.0,2.0
+4400,7,156906958,CX,"DTM","medial group of nuclei, left",126787173,98,107,91,-7.0,0.0,2.0
+4506,7,156906926,CX,"R","reticular nucleus of thalamus, left",122788913,104,99,91,-13.0,0.0,10.0
+4648,7,156906910,CX,"PeF","perifornical nucleus, left",122819904,101,117,91,-10.0,0.0,-8.0
+4322,6,156906844,CX,"Cl","claustrum, left",126222139,112,123,84,-21.0,7.0,-14.0
+9614,93,156888081,BS,"LMRt","lateral medullary reticular group, left",138023310,98,169,134,-7.0,-43.0,-60.0
+9677,93,156888016,BS,"Sp5","spinal trigeminal nucleus, left",146145148,97,168,135,-6.0,-44.0,-59.0
+9598,93,156887984,BS,"GiRt","gigantocellular group, left",128016866,95,168,136,-4.0,-45.0,-59.0
+9561,93,156436154,BS,"IO","inferior olivary complex, left",116858029,93,167,132,-2.0,-41.0,-58.0
+9598,93,156436070,BS,"GiRt","gigantocellular group, left",128147646,94,167,134,-3.0,-43.0,-58.0
+9143,93,156435988,BS,"7","facial motor nucleus, left",116121892,93,167,133,-2.0,-42.0,-58.0
+9492,92,148955220,BS,"Pn","pontine nuclei, left",115984169,101,135,115,-10.0,-24.0,-26.0
+9103,91,148955182,BS,"IC","inferior colliculus, left",115732675,94,119,131,-3.0,-40.0,-10.0
+4251,10,148955218,CX,"S","subiculum, left",138072210,123,106,131,-32.0,-40.0,3.0
+9115,9,148955154,CX,"SC","superior colliculus, left",128014918,107,119,119,-16.0,-28.0,-10.0
+4506,9,156906898,CX,"R","reticular nucleus of thalamus, left",127423828,124,103,119,-33.0,-28.0,6.0
+4444,9,148955296,CX,"MG","medial geniculate complex, left",127820096,125,117,119,-34.0,-28.0,-8.0
+4428,9,148955264,CX,"DTP","posterior group of nuclei, left",128013585,114,113,119,-23.0,-28.0,-4.0
+4417,9,148955248,CX,"DTLv","lateral group of nuclei, left, ventral division",127810394,121,103,119,-30.0,-28.0,6.0
+4281,9,148955184,CX,"TCd","tail of caudate nucleus, left",127423291,134,114,119,-43.0,-28.0,-5.0
+4256,9,148955136,CX,"CA3","CA3 field, left",127589931,127,118,119,-36.0,-28.0,-9.0
+4255,9,148955119,CX,"CA2","CA2 field, left",127589930,131,117,119,-40.0,-28.0,-8.0
+4251,9,148955278,CX,"S","subiculum, left",138199839,118,124,119,-27.0,-28.0,-15.0
+9161,92,148955140,BS,"PRF","pontine reticular formation, left",127757012,94,142,127,-3.0,-36.0,-33.0
+9492,92,148955123,BS,"Pn","pontine nuclei, left",116006511,101,146,115,-10.0,-24.0,-37.0
+9492,92,148955172,BS,"Pn","pontine nuclei, left",116031410,97,154,120,-6.0,-29.0,-45.0
+9161,92,148955156,BS,"PRF","pontine reticular formation, left",127760653,94,152,129,-3.0,-38.0,-43.0
+9158,92,156436134,BS,"RPn","pontine raphe nucleus, left",127803695,92,160,128,-1.0,-37.0,-51.0
+9206,92,156436118,BS,"Mo5","motor nucleus of trigeminal nerve, left",146022990,96,160,129,-5.0,-38.0,-51.0
+9178,92,156436016,BS,"SOC","superior olivary complex, left",127110285,95,161,125,-4.0,-34.0,-52.0
+9698,92,156436085,BS,"8Ve","vestibular nuclei, left",139450953,99,164,136,-8.0,-45.0,-55.0
+9161,92,156906930,BS,"PRF","pontine reticular formation, left",127950665,93,165,134,-2.0,-43.0,-56.0
+9492,91,148955276,BS,"Pn","pontine nuclei, left",114671950,99,130,111,-8.0,-20.0,-21.0
+9103,91,148955212,BS,"IC","inferior colliculus, left",114689478,96,114,130,-5.0,-39.0,-5.0
+4597,7,156906626,CX,"PalHy","pallidohypothalamic nucleus, left",146082206,103,115,91,-12.0,0.0,-6.0
+4672,7,156906896,CX,"MM","medial mammillary nucleus, left",146081755,101,118,91,-10.0,0.0,-9.0
+4395,7,156906848,CX,"DTA","anterior group of nuclei, left",122788902,97,95,91,-6.0,0.0,14.0
+4667,7,156907006,CX,"TM","tuberomammillary nucleus, left",148209591,103,118,91,-12.0,0.0,-9.0
+13008,7,156906894,CX,"LHT","lateral hypothalamic area, tuberal region, left",148150284,104,117,91,-13.0,0.0,-8.0
+4637,7,156906862,CX,"VMH","ventromedial hypothalamic nucleus, left",148072328,101,120,91,-10.0,0.0,-11.0
+4308,7,156906972,CX,"nbM","basal nucleus of meynert, left",123242450,118,119,92,-27.0,-1.0,-10.0
+4542,6,156906622,CX,"PrOR","preoptic region, left",148917298,94,115,86,-3.0,5.0,-6.0
+4291,6,156906828,CX,"Acb","nucleus accumbens, left",149038910,96,128,87,-5.0,4.0,-19.0
+9589,93,156888051,BS,"CMRt","central medullary reticular group, left",128062442,94,170,132,-3.0,-41.0,-61.0
+9546,93,156888018,BS,"10","dorsal motor nucleus of the vagus, left",138375464,93,170,134,-2.0,-43.0,-61.0
+9614,93,156887986,BS,"LMRt","lateral medullary reticular group, left",146595107,96,171,131,-5.0,-40.0,-62.0
+9598,93,156887970,BS,"GiRt","gigantocellular group, left",131010211,92,170,132,-1.0,-41.0,-61.0
+9543,93,156888065,BS,"Cu","cuneate nucleus, left",127884830,98,168,138,-7.0,-47.0,-59.0
+9642,93,156888000,BS,"RaM","raphe nuclei of medulla",146818612,93,168,137,-2.0,-46.0,-59.0
+9677,93,156888004,BS,"Sp5","spinal trigeminal nucleus, left",146040883,97,175,134,-6.0,-43.0,-66.0
+4782,62,156436024,CB,"Dt","dentate nucleus, left",127346147,105,144,152,-14.0,-61.0,-35.0
+4782,62,156436006,CB,"Dt","dentate nucleus, left",146086421,105,141,143,-14.0,-52.0,-32.0
+9529,93,156435990,BS,"8Co","cochlear nuclei, left",146823373,99,166,135,-8.0,-44.0,-57.0
+9642,93,156436087,BS,"RaM","raphe nuclei of medulla",128084185,92,167,133,-1.0,-42.0,-58.0
+9520,93,156436054,BS,"Arc","arcuate nucleus of medulla, left",116087076,93,168,126,-2.0,-35.0,-59.0
+9492,93,156436038,BS,"Pn","pontine nuclei, left",146694811,91,168,128,0.0,-37.0,-59.0
+9492,91,148955214,BS,"Pn","pontine nuclei, left",127372703,95,124,118,-4.0,-27.0,-15.0
+9456,91,148955198,BS,"MBRa","midbrain raphe nuclei, left",127800633,90,121,125,1.0,-34.0,-12.0
+9075,91,148955166,BS,"SNR","substantia nigra, pars reticulata, left",127360711,97,124,121,-6.0,-30.0,-15.0
+9004,91,148955292,BS,"CGMB","central gray substance of midbrain, left",127346421,93,118,132,-2.0,-41.0,-9.0
+4258,10,148955298,CX,"DG","dentate gyrus, left",124073525,112,101,130,-21.0,-39.0,8.0
+4281,10,148955202,CX,"TCd","tail of caudate nucleus, left",124073506,123,98,132,-32.0,-41.0,11.0
+9115,9,148955186,CX,"SC","superior colliculus, left",131238196,106,119,119,-15.0,-28.0,-10.0
+4409,9,148955232,CX,"DTLd","lateral group of nuclei, left, dorsal division",127538166,116,106,119,-25.0,-28.0,3.0
+4288,9,148955200,CX,"Pu","putamen, left",127423737,123,99,119,-32.0,-28.0,10.0
+4258,9,148955168,CX,"DG","dentate gyrus, left",127537206,125,120,119,-34.0,-28.0,-11.0
+4257,9,148955152,CX,"CA4","CA4 field, left",127589932,125,119,119,-34.0,-28.0,-10.0
+4254,9,148955294,CX,"CA1","CA1 field, left",138199757,132,123,119,-41.0,-28.0,-14.0
+9698,92,156435968,BS,"8Ve","vestibular nuclei, left",141825225,98,160,131,-7.0,-40.0,-51.0
+9206,92,156436100,BS,"Mo5","motor nucleus of trigeminal nerve, left",115875164,95,160,129,-4.0,-38.0,-51.0
+9207,92,156436082,BS,"Pr5","principal sensory nucleus of trigeminal nerve, left",146022985,96,160,130,-5.0,-39.0,-51.0
+9161,92,156436000,BS,"PRF","pontine reticular formation, left",131462972,93,160,128,-2.0,-37.0,-51.0
+9152,92,156435984,BS,"MPB","medial parabrachial nucleus, left",145961353,98,159,133,-7.0,-42.0,-50.0
+9149,92,156435966,BS,"LC","locus ceruleus, left",126789834,96,159,134,-5.0,-43.0,-50.0
+9677,92,156436068,BS,"Sp5","spinal trigeminal nucleus, left",127950448,99,165,134,-8.0,-43.0,-56.0
+9020,91,148955244,BS,"CnF","cuneiform nucleus, left",126684817,97,114,128,-6.0,-37.0,-5.0
+9054,91,148955131,BS,"RN","red nucleus, left",127503683,99,127,113,-8.0,-22.0,-18.0
+9054,8,156906564,CX,"RN","red nucleus, left",126917538,93,114,105,-2.0,-14.0,-5.0
+4518,8,147628395,CX,"Sb","subthalamic nucleus, left",126910134,106,113,106,-15.0,-15.0,-4.0
+4395,8,147628297,CX,"DTA","anterior group of nuclei, left",125582055,94,92,105,-3.0,-14.0,17.0
+4256,8,147628198,CX,"CA3","CA3 field, left",127094416,110,129,106,-19.0,-15.0,-20.0
+4281,8,147628393,CX,"TCd","tail of caudate nucleus, left",120899342,131,126,107,-40.0,-16.0,-17.0
+4255,8,147628377,CX,"CA2","CA2 field, left",127094417,120,126,107,-29.0,-16.0,-17.0
+4329,7,147628391,CX,"ATZ","amygdalohippocampal transition zone, left",126769121,107,126,92,-16.0,-1.0,-17.0
+4672,7,147628343,CX,"MM","medial mammillary nucleus, left",126528477,101,121,91,-10.0,0.0,-12.0
+4351,7,147628311,CX,"BMA","basomedial nucleus, left",120660851,115,126,92,-24.0,-1.0,-17.0
+4322,7,147628226,CX,"Cl","claustrum, left",120985899,130,121,92,-39.0,-1.0,-12.0
+4322,6,147628210,CX,"Cl","claustrum, left",122692231,118,114,83,-27.0,8.0,-5.0
+4214,14,141667105,CX,"SOG-s","superior occipital gyrus, left, superior bank of gyrus",127563549,108,72,177,-17.0,-86.0,37.0
+4911,14,141667217,CX,"OPl","occipital pole, left, lateral aspect",127563531,139,114,176,-48.0,-85.0,-5.0
+4099,13,141667087,CX,"SPL-i","superior parietal lobule, left, inferior bank of gyrus",127562531,109,70,167,-18.0,-76.0,39.0
+4187,13,141667167,CX,"Cun-str","cuneus, left, striate",127562686,106,99,166,-15.0,-75.0,10.0
+4201,13,141667231,CX,"OTG-i","occipito-temporal gyrus, left, inferior bank of gyrus",127562733,136,120,169,-45.0,-78.0,-11.0
+4200,13,141667215,CX,"OTG-s","occipito-temporal gyrus, left, superior bank of gyrus",127562734,129,120,168,-38.0,-77.0,-11.0
+4120,12,141667163,CX,"Pcu-s","precuneus, left, superior lateral bank of gyrus",127562273,103,41,155,-12.0,-64.0,68.0
+4194,12,141667101,CX,"LiG-str","lingual gyrus, left, striate",127554742,112,113,154,-21.0,-63.0,-4.0
+4193,12,141667085,CX,"LiG-pest","lingual gyrus, left, peristriate",127554743,113,114,154,-22.0,-63.0,-5.0
+4187,12,141667259,CX,"Cun-str","cuneus, left, striate",127554741,113,112,154,-22.0,-63.0,-3.0
+4186,12,141667243,CX,"Cun-pest","cuneus, left, peristriate",127554740,121,107,154,-30.0,-63.0,2.0
+4142,12,141667149,CX,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",127552495,135,94,157,-44.0,-66.0,15.0
+4149,12,141667165,CX,"ITG-its","inferior temporal gyrus, left, bank of the its",127562210,143,121,158,-52.0,-67.0,-12.0
+4121,11,141667239,CX,"Pcu-i","precuneus, left, inferior lateral bank of gyrus",127511916,99,57,143,-8.0,-52.0,52.0
+4120,11,141667223,CX,"Pcu-s","precuneus, left, superior lateral bank of gyrus",127511915,96,41,143,-5.0,-52.0,68.0
+4099,11,141667097,CX,"SPL-i","superior parietal lobule, left, inferior bank of gyrus",127511065,122,47,142,-31.0,-51.0,62.0
+4098,11,141667081,CX,"SPL-s","superior parietal lobule, left, superior bank of gyrus",127511064,122,38,143,-31.0,-52.0,71.0
+4238,11,141667161,CX,"CgGr-i","cingulate gyrus, retrosplenial part, left, inferior bank of gyrus",127512017,113,107,144,-22.0,-53.0,2.0
+4142,11,141667225,CX,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",127511949,149,92,146,-58.0,-55.0,17.0
+4201,11,141667115,CX,"OTG-i","occipito-temporal gyrus, left, inferior bank of gyrus",127514488,142,127,146,-51.0,-55.0,-18.0
+4200,11,141667099,CX,"OTG-s","occipito-temporal gyrus, left, superior bank of gyrus",127514489,133,121,146,-42.0,-55.0,-12.0
+4150,11,141667257,CX,"ITG-l","inferior temporal gyrus, left, lateral bank of gyrus",127514486,145,128,146,-54.0,-55.0,-19.0
+4143,11,141667147,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",127514503,151,123,146,-60.0,-55.0,-14.0
+4088,9,141667191,CX,"PoG-sl","postcentral gyrus, left, superior lateral aspect of gyrus",127050457,130,39,118,-39.0,-27.0,70.0
+4245,8,141667159,CX,"PHG-cos","parahippocampal gyrus, left, bank of the cos",127048919,128,138,107,-37.0,-16.0,-29.0
+4244,8,141667127,CX,"PHG-l","parahippocampal gyrus, left, lateral bank of gyrus",127048914,115,144,106,-24.0,-15.0,-35.0
+4160,8,141667111,CX,"FuG-cos","fusiform gyrus, left, bank of cos",127048916,133,142,106,-42.0,-15.0,-33.0
+4159,8,141667095,CX,"FuG-l","fusiform gyrus, left, lateral bank of gyrus",127048917,141,148,106,-50.0,-15.0,-39.0
+4158,8,141667079,CX,"FuG-its","fusiform gyrus, left, bank of the its",127048918,141,146,106,-50.0,-15.0,-37.0
+4142,8,139409891,CX,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",127045316,147,118,107,-56.0,-16.0,-9.0
+4270,8,139409875,CX,"LIG","long insular gyri, left",127048536,135,104,106,-44.0,-15.0,5.0
+4169,8,139409843,CX,"TG","transverse gyri, left",127048539,158,88,107,-67.0,-16.0,21.0
+4166,8,139409827,CX,"HG","Heschl's gyrus, left",127048537,141,103,107,-50.0,-16.0,6.0
+4074,8,139409781,CX,"PCLa-i","paracentral lobule, anterior part, left, inferior bank of gyrus",127045124,91,54,104,0.0,-13.0,55.0
+4087,8,139409763,CX,"PoG-cs","postcentral gyrus, left, bank of the central sulcus",127048704,129,51,105,-38.0,-14.0,58.0
+4151,9,139409783,CX,"ITG-mts","inferior temporal gyrus, left, bank of mts",127050502,153,126,122,-62.0,-31.0,-17.0
+4158,9,139409909,CX,"FuG-its","fusiform gyrus, left, bank of the its",127050369,145,138,120,-54.0,-29.0,-29.0
+4149,9,139409893,CX,"ITG-its","inferior temporal gyrus, left, bank of the its",127050370,147,137,121,-56.0,-30.0,-28.0
+4169,9,139409877,CX,"TG","transverse gyri, left",127050411,148,95,119,-57.0,-28.0,14.0
+4073,9,139409829,CX,"PCLa-s","paracentral lobule, anterior part, left, superior bank of gyrus",127050522,95,37,116,-4.0,-25.0,72.0
+4012,9,139409813,CX,"PrG-prc","precentral gyrus, left, bank of the precentral sulcus",127050523,101,26,117,-10.0,-26.0,83.0
+4107,10,139409769,CX,"SMG-i","supramarginal gyrus, left, inferior bank of gyrus",127056955,152,73,131,-61.0,-40.0,36.0
+4106,10,139409753,CX,"SMG-s","supramarginal gyrus, left, superior bank of gyrus",127056956,154,63,131,-63.0,-40.0,46.0
+4245,10,141667205,CX,"PHG-cos","parahippocampal gyrus, left, bank of the cos",127056051,130,123,132,-39.0,-41.0,-14.0
+4149,10,141667141,CX,"ITG-its","inferior temporal gyrus, left, bank of the its",127056114,143,127,133,-52.0,-42.0,-18.0
+4245,7,139409905,CX,"PHG-cos","parahippocampal gyrus, left, bank of the cos",126525176,115,144,93,-24.0,-2.0,-35.0
+4244,7,139409889,CX,"PHG-l","parahippocampal gyrus, left, lateral bank of gyrus",126525175,108,137,93,-17.0,-2.0,-28.0
+4151,7,139409873,CX,"ITG-mts","inferior temporal gyrus, left, bank of mts",126525178,136,148,93,-45.0,-2.0,-39.0
+4030,7,139409871,CX,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",126707526,114,53,90,-23.0,1.0,56.0
+4013,7,139409903,CX,"PrG-sl","precentral gyrus, left, superior lateral aspect of gyrus",126709267,140,54,91,-49.0,0.0,55.0
+4178,7,139409777,CX,"PLP","planum polare, left",126712346,151,98,93,-60.0,-2.0,11.0
+4079,7,139409745,CX,"fro","frontal operculum, left",126712344,138,102,92,-47.0,-1.0,7.0
+4014,7,139409919,CX,"PrG-il","precentral gyrus, left, inferior lateral aspect of gyrus",126712345,156,83,92,-65.0,-1.0,26.0
+4273,6,139409791,CX,"SIG","short insular gyri, left",124123902,125,106,81,-34.0,10.0,3.0
+4079,6,139409759,CX,"fro","frontal operculum, left",124123903,136,109,80,-45.0,11.0,0.0
+4273,5,139409869,CX,"SIG","short insular gyri, left",124064389,127,107,73,-36.0,18.0,2.0
+9222,6,127687121,CX,"cc","corpus callosum",125142322,108,89,80,-17.0,11.0,20.0
+4023,6,139409853,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",124122525,91,39,78,0.0,13.0,70.0
+4031,6,127686979,CX,"MFG-i","middle frontal gyrus, left, inferior bank of gyrus",124079421,143,65,78,-52.0,13.0,44.0
+4030,6,127686963,CX,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",124079422,121,57,78,-30.0,13.0,52.0
+4135,6,127687011,CX,"STG-l","superior temporal gyrus, left, lateral bank of gyrus",124137415,156,104,82,-65.0,9.0,5.0
+4143,6,141667109,CX,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",124110660,144,140,82,-53.0,9.0,-31.0
+4023,5,127686975,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",123644655,93,46,70,-2.0,21.0,63.0
+4024,5,127687023,CX,"SFG-l","superior frontal gyrus, left, lateral bank of gyrus",123650688,117,51,70,-26.0,21.0,58.0
+4079,5,127687087,CX,"fro","frontal operculum, left",124027372,134,109,73,-43.0,18.0,0.0
+4135,5,127687009,CX,"STG-l","superior temporal gyrus, left, lateral bank of gyrus",123636951,151,117,74,-60.0,17.0,-8.0
+4024,4,127687115,CX,"SFG-l","superior frontal gyrus, left, lateral bank of gyrus",121130859,111,68,54,-20.0,37.0,41.0
+4023,4,127687099,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",121130860,98,50,54,-7.0,37.0,59.0
+4060,4,127687069,CX,"LOrG","lateral orbital gyrus, left",121130997,131,125,52,-40.0,39.0,-16.0
+4057,4,127687053,CX,"POrG","posterior orbital gyrus, left",121130996,128,123,52,-37.0,39.0,-14.0
+4023,3,127687081,CX,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",121130127,98,73,42,-7.0,49.0,36.0
+4048,3,127686971,CX,"GRe","gyrus rectus, left",121128141,99,134,43,-8.0,48.0,-25.0
+4045,3,127687035,CX,"orIFG","inferior frontal gyrus, orbital part, left",121128828,134,118,43,-43.0,48.0,-9.0
+4024,2,127686953,CX,"SFG-l","superior frontal gyrus, left, lateral bank of gyrus",121107686,112,79,30,-21.0,61.0,30.0
+4048,4,139409757,CX,"GRe","gyrus rectus, left",121130688,100,133,55,-9.0,36.0,-24.0
+4030,2,127687017,CX,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",121112946,117,93,31,-26.0,60.0,16.0
+4675,7,156906976,CX,"LM","lateral mammillary nucleus, left",148093168,102,118,91,-11.0,0.0,-9.0
+4417,7,156906832,CX,"DTLv","lateral group of nuclei, left, ventral division",122788910,101,102,91,-10.0,0.0,7.0
+10151,7,156906990,CX,"LTu","lateral tuberal nucleus, left",148160720,106,119,91,-15.0,0.0,-10.0
+4311,6,156906908,CX,"DBh","nucleus of the diagonal band, left, vertical division",148907120,98,124,86,-7.0,5.0,-15.0
+9561,93,156887954,BS,"IO","inferior olivary complex, left",117405307,94,171,130,-3.0,-39.0,-62.0
+9561,93,156887968,BS,"IO","inferior olivary complex, left",117366926,97,169,129,-6.0,-38.0,-60.0
+9677,93,156436104,BS,"Sp5","spinal trigeminal nucleus, left",138030139,96,166,134,-5.0,-43.0,-57.0
+9149,91,148955246,BS,"LC","locus ceruleus, left",127107914,95,121,126,-4.0,-35.0,-12.0
+9074,91,148955150,BS,"SNC","substantia nigra, pars compacta, left",115836648,96,124,121,-5.0,-30.0,-15.0
+9067,91,148955134,BS,"VTA","ventral tegmental area, left",127361028,97,123,122,-6.0,-31.0,-14.0
+9020,91,148955117,BS,"CnF","cuneiform nucleus, left",126728644,97,119,131,-6.0,-40.0,-10.0
+4255,10,148955250,CX,"CA2","CA2 field, left",138059755,116,99,130,-25.0,-39.0,10.0
+9143,92,156436102,BS,"7","facial motor nucleus, left",116835005,98,165,130,-7.0,-39.0,-56.0
+9158,92,156436002,BS,"RPn","pontine raphe nucleus, left",139322886,95,165,133,-4.0,-42.0,-56.0
+9155,92,156435986,BS,"SubC","nucleus subceruleus, left",127958612,96,165,134,-5.0,-43.0,-56.0
+9022,91,148955260,BS,"SubCn","subcuneiform nucleus, left",126679117,98,116,125,-7.0,-34.0,-7.0
+9075,91,148955180,BS,"SNR","substantia nigra, pars reticulata, left",125252868,102,124,116,-11.0,-25.0,-15.0
+9075,8,147628216,CX,"SNR","substantia nigra, pars reticulata, left",127094342,111,118,106,-20.0,-15.0,-9.0
+9067,8,156907008,CX,"VTA","ventral tegmental area, left",126972550,103,121,105,-12.0,-14.0,-12.0
+9075,8,156906992,CX,"SNR","substantia nigra, pars reticulata, left",126971019,108,123,106,-17.0,-15.0,-14.0
+4322,8,147628255,CX,"Cl","claustrum, left",121079176,132,117,107,-41.0,-16.0,-8.0
+4254,8,147628212,CX,"CA1","CA1 field, left",127004958,124,132,107,-33.0,-16.0,-23.0
+4367,7,147628327,CX,"COMA","cortico-medial group, left",121120920,110,124,92,-19.0,-1.0,-15.0

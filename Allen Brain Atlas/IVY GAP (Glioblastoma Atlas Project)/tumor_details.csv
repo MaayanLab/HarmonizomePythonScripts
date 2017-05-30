@@ -1,0 +1,43 @@
+donor_id,tumor_name,molecular_subtype,extent_of_resection,surgery,mgmt_methylation,survival_days,egfr_amplification,initial_kps,age_in_years
+12111,W10-1-1,Proneural,Complete,primary,Yes,,No,100,44 yrs
+12112,W11-1-1,"Classical, Mesenchymal",Complete,primary,Yes,1076,No,100,57 yrs
+10865,W1-1-2,Classical,Complete,primary,No,105,Yes,100,66 yrs
+12165,W12-1-1,Classical,Sub-total,primary,No,80,Yes,70,61 yrs
+12877,W13-1-1,Mesenchymal,Complete,primary,No,250,Yes,90,59 yrs
+12996,W16-1-1,"Neural, Proneural",Complete,primary,No,353,Yes,100,76 yrs
+159992499,W18-1-1,,Sub-total,primary,Yes,903,No,90,36 yrs
+159994896,W19-1-1,Proneural,Complete,primary,No,615,No,80,67 yrs
+277805907,W20-2-1,Mesenchymal,Complete,recurrent,No,363,No,90,43 yrs
+10926,W2-1-1,"Classical, Neural",Complete,primary,Yes,1096,Yes,90,64 yrs
+12995,W21-1-1,Proneural,Complete,primary,No,446,Yes,80,54 yrs
+12997,W22-1-1,"Classical, Neural",Complete,primary,Yes,,Yes,90,52 yrs
+268091685,W22-2-1,Neural,Complete,recurrent,,,Yes,90,52 yrs
+13988,W26-1-1,Neural,Complete,primary,Yes,1293,,100,57 yrs
+277857061,W27-2-1,Classical,Complete,recurrent,No,72,,90,64 yrs
+14220,W28-1-1,"Mesenchymal, Neural",Sub-total,primary,No,300,,100,68 yrs
+14221,W29-1-1,"Classical, Neural",Complete,primary,No,260,Yes,100,73 yrs
+14545,W30-1-1,,Sub-total,primary,Yes,759,Yes,70,59 yrs
+12102,W3-1-1,"Classical, Mesenchymal",Complete,primary,No,982,Yes,100,65 yrs
+14734,W31-1-1,Proneural,Complete,primary,No,871,No,90,17 yrs
+14737,W32-1-1,Proneural,Complete,primary,Yes,,No,90,56 yrs
+14738,W33-1-1,Classical,Complete,primary,Yes,,Yes,80,60 yrs
+14762,W34-1-1,"Classical, Mesenchymal",Complete,primary,No,351,No,90,73 yrs
+292023102,W35-1-1,,Complete,primary,Yes,,No,100,36 yrs
+14763,W36-1-1,Mesenchymal,Sub-total,primary,No,544,No,80,61 yrs
+15343,W38-1-1,Proneural,Sub-total,primary,Yes,311,No,70,64 yrs
+15350,W39-1-1,Classical,Sub-total,primary,Yes,880,Yes,60,67 yrs
+15400,W40-1-1,Neural,Complete,primary,No,184,Yes,100,64 yrs
+12106,W4-1-1,"Mesenchymal, Neural",Complete,primary,No,540,No,90,50 yrs
+113597455,W42-1-1,"Neural, Proneural",Complete,primary,Yes,197,,70,59 yrs
+113597961,W43-1-1,"Mesenchymal, Neural",Complete,primary,No,300,,90,61 yrs
+159446123,W45-1-1,,Complete,primary,,542,,80,63 yrs
+161243620,W48-1-1,Neural,Complete,primary,No,456,,80,51 yrs
+180682564,W50-1-1,,Complete,primary,Yes,,,90,26 yrs
+12109,W5-1-1,"Classical, Neural",Complete,primary,No,,Yes,90,64 yrs
+268091642,W53-1-1,Classical,Complete,primary,Yes,,,90,54 yrs
+286825896,W54-1-1,Proneural,Complete,primary,No,62,,70,57 yrs
+292023109,W55-1-1,Classical,Complete,primary,Yes,,,100,52 yrs
+12107,W6-1-1,Mesenchymal,Complete,primary,No,633,No,90,72 yrs
+12105,W7-1-1,Mesenchymal,Sub-total,primary,Yes,437,No,100,60 yrs
+12108,W8-1-1,"Classical, Mesenchymal",Complete,primary,No,442,No,70,49 yrs
+12110,W9-1-1,Proneural,Complete,primary,No,145,No,90,50 yrs
