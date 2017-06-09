@@ -1,127 +1,479 @@
 GO Phrase	GO	NA
-extracellular space	GO:0014704	na
-plasma membrane	GO:0014704	na
-external side of plasma membrane	GO:0014704	na
-blood microparticle	GO:0014704	na
-intracellular	GO:0014704	na
-cytoplasm	GO:0014704	na
-mitochondrion	GO:0014704	na
-centrosome	GO:0014704	na
-late endosome membrane	GO:0014704	na
-cilium	GO:0014704	na
-endoplasmic reticulum	GO:0014704	na
-endoplasmic reticulum membrane	GO:0014704	na
-nucleus	GO:0014704	na
-nucleoplasm	GO:0014704	na
-nucleolus	GO:0014704	na
-cytosol	GO:0014704	na
-integral component of plasma membrane	GO:0014704	na
-extrinsic component of cytoplasmic side of plasma membrane	GO:0014704	na
-nuclear body	GO:0014704	na
-microtubule cytoskeleton	GO:0014704	na
-lamellipodium	GO:0014704	na
-filopodium	GO:0014704	na
-axon	GO:0014704	na
-growth cone	GO:0014704	na
-perikaryon	GO:0014704	na
-perinuclear region of cytoplasm	GO:0014704	na
-extracellular exosome	GO:0014704	na
-Golgi membrane	GO:0014704	na
-Golgi apparatus	GO:0014704	na
-integral component of membrane	GO:0014704	na
-cell periphery	GO:0014704	na
-extracellular matrix	GO:0014704	na
-centriole	GO:0014704	na
-intracellular membrane-bounded organelle	GO:0014704	na
-cytoskeleton	GO:0014704	na
-sarcolemma	GO:0014704	na
-Z disc	GO:0014704	na
-trans-Golgi network	GO:0014704	na
-basolateral plasma membrane	GO:0014704	na
-endosome	GO:0014704	na
-spindle pole	GO:0014704	na
-mitotic spindle	GO:0014704	na
-stress fiber	GO:0014704	na
-focal adhesion	GO:0014704	na
-endosome membrane	GO:0014704	na
-ruffle membrane	GO:0014704	na
-lysosome	GO:0014704	na
-cell surface	GO:0014704	na
-microvillus	GO:0014704	na
-nuclear envelope	GO:0014704	na
-secretory granule membrane	GO:0014704	na
-nuclear chromosome, telomeric region	GO:0014704	na
-ubiquitin ligase complex	GO:0014704	na
-membrane raft	GO:0014704	na
-cell cortex	GO:0014704	na
-actin cytoskeleton	GO:0014704	na
-early endosome	GO:0014704	na
-recycling endosome	GO:0014704	na
-spindle	GO:0014704	na
-midbody	GO:0014704	na
-cytoplasmic vesicle	GO:0014704	na
-U4 snRNP	GO:0014704	na
-catalytic step 2 spliceosome	GO:0014704	na
-voltage-gated potassium channel complex	GO:0014704	na
-specific granule membrane	GO:0014704	na
-tertiary granule membrane	GO:0014704	na
-lysosomal membrane	GO:0014704	na
-intracellular ribonucleoprotein complex	GO:0014704	na
-nuclear speck	GO:0014704	na
-cell-cell adherens junction	GO:0014704	na
-basal plasma membrane	GO:0014704	na
-lateral plasma membrane	GO:0014704	na
-phagocytic vesicle membrane	GO:0014704	na
-SNARE complex	GO:0014704	na
-mitochondrial outer membrane	GO:0014704	na
-trans-Golgi network membrane	GO:0014704	na
-secretory granule	GO:0014704	na
-presynaptic membrane	GO:0014704	na
-secretory granule lumen	GO:0014704	na
-ficolin-1-rich granule lumen	GO:0014704	na
-receptor complex	GO:0014704	na
-clathrin-coated vesicle	GO:0014704	na
-platelet alpha granule lumen	GO:0014704	na
-vesicle	GO:0014704	na
-cytoplasmic side of plasma membrane	GO:0014704	na
-endoplasmic reticulum lumen	GO:0014704	na
-specific granule lumen	GO:0014704	na
-endocytic vesicle membrane	GO:0014704	na
-nuclear membrane	GO:0014704	na
-microtubule	GO:0014704	na
-transport vesicle	GO:0014704	na
-endocytic vesicle	GO:0014704	na
-azurophil granule membrane	GO:0014704	na
-apical plasma membrane	GO:0014704	na
-cortical actin cytoskeleton	GO:0014704	na
-extracellular vesicle	GO:0014704	na
-actin filament	GO:0014704	na
-ruffle	GO:0014704	na
-clathrin-coated pit	GO:0014704	na
-kinetochore	GO:0014704	na
-cytoplasmic ribonucleoprotein granule	GO:0014704	na
-neuron projection	GO:0014704	na
-ER to Golgi transport vesicle membrane	GO:0014704	na
-endoplasmic reticulum-Golgi intermediate compartment membrane	GO:0014704	na
-synaptic vesicle	GO:0014704	na
-cytoplasmic vesicle membrane	GO:0014704	na
-chromatin	GO:0014704	na
-late endosome	GO:0014704	na
-dendritic spine	GO:0014704	na
-dendrite	GO:0014704	na
-nuclear matrix	GO:0014704	na
-recycling endosome membrane	GO:0014704	na
-postsynaptic membrane	GO:0014704	na
-ficolin-1-rich granule membrane	GO:0014704	na
-integral component of lumenal side of endoplasmic reticulum membrane	GO:0014704	na
-neuronal cell body	GO:0014704	na
-postsynaptic density	GO:0014704	na
-clathrin-coated vesicle membrane	GO:0014704	na
-clathrin-coated endocytic vesicle membrane	GO:0014704	na
-apical part of cell	GO:0014704	na
-transport vesicle membrane	GO:0014704	na
-early endosome membrane	GO:0014704	na
-caveola	GO:0014704	na
-PML body	GO:0014704	na
-phagocytic vesicle	GO:0014704	na
-intercalated disc	GO:0014704	na
+plasma membrane	GO:0005816	na
+external side of plasma membrane	GO:0005816	na
+blood microparticle	GO:0005816	na
+condensed chromosome kinetochore	GO:0005816	na
+condensed nuclear chromosome, centromeric region	GO:0005816	na
+cytoplasm	GO:0005816	na
+mitochondrion	GO:0005816	na
+centrosome	GO:0005816	na
+P-body	GO:0005816	na
+late endosome membrane	GO:0005816	na
+cilium	GO:0005816	na
+intraciliary transport particle B	GO:0005816	na
+ciliary tip	GO:0005816	na
+endoplasmic reticulum	GO:0005816	na
+endoplasmic reticulum membrane	GO:0005816	na
+nucleus	GO:0005816	na
+nucleoplasm	GO:0005816	na
+nucleolus	GO:0005816	na
+cytosol	GO:0005816	na
+integral component of plasma membrane	GO:0005816	na
+extrinsic component of cytoplasmic side of plasma membrane	GO:0005816	na
+nuclear body	GO:0005816	na
+microtubule associated complex	GO:0005816	na
+microtubule cytoskeleton	GO:0005816	na
+lamellipodium	GO:0005816	na
+filopodium	GO:0005816	na
+axon	GO:0005816	na
+growth cone	GO:0005816	na
+perikaryon	GO:0005816	na
+axonal growth cone	GO:0005816	na
+perinuclear region of cytoplasm	GO:0005816	na
+extracellular exosome	GO:0005816	na
+nuclear inner membrane	GO:0005816	na
+Golgi membrane	GO:0005816	na
+Golgi apparatus	GO:0005816	na
+integral component of membrane	GO:0005816	na
+chromosome	GO:0005816	na
+podosome	GO:0005816	na
+centriole	GO:0005816	na
+ciliary base	GO:0005816	na
+intracellular membrane-bounded organelle	GO:0005816	na
+cytoskeleton	GO:0005816	na
+sarcoplasmic reticulum	GO:0005816	na
+sarcolemma	GO:0005816	na
+COP9 signalosome	GO:0005816	na
+mitochondrial matrix	GO:0005816	na
+muscle myosin complex	GO:0005816	na
+Z disc	GO:0005816	na
+M band	GO:0005816	na
+trans-Golgi network	GO:0005816	na
+basolateral plasma membrane	GO:0005816	na
+endosome	GO:0005816	na
+spindle pole	GO:0005816	na
+mitotic spindle	GO:0005816	na
+nuclear chromatin	GO:0005816	na
+stress fiber	GO:0005816	na
+focal adhesion	GO:0005816	na
+filamentous actin	GO:0005816	na
+integral component of endoplasmic reticulum membrane	GO:0005816	na
+ESCRT I complex	GO:0005816	na
+endosome membrane	GO:0005816	na
+axoneme	GO:0005816	na
+ciliary basal body	GO:0005816	na
+cleavage furrow	GO:0005816	na
+ruffle membrane	GO:0005816	na
+CCR4-NOT complex	GO:0005816	na
+lysosome	GO:0005816	na
+Cul3-RING ubiquitin ligase complex	GO:0005816	na
+nuclear pore central transport channel	GO:0005816	na
+nuclear pore nuclear basket	GO:0005816	na
+microvillus	GO:0005816	na
+motile cilium	GO:0005816	na
+nuclear envelope	GO:0005816	na
+anchored component of external side of plasma membrane	GO:0005816	na
+integral component of Golgi membrane	GO:0005816	na
+secretory granule membrane	GO:0005816	na
+fibrillar center	GO:0005816	na
+Cajal body	GO:0005816	na
+box C/D snoRNP complex	GO:0005816	na
+small-subunit processome	GO:0005816	na
+ESC/E(Z) complex	GO:0005816	na
+nuclear chromosome, telomeric region	GO:0005816	na
+GATOR2 complex	GO:0005816	na
+ciliary transition zone	GO:0005816	na
+transcription factor complex	GO:0005816	na
+ubiquitin ligase complex	GO:0005816	na
+membrane raft	GO:0005816	na
+AMPA glutamate receptor complex	GO:0005816	na
+chaperonin-containing T-complex	GO:0005816	na
+mRNA cap binding complex	GO:0005816	na
+proteinaceous extracellular matrix	GO:0005816	na
+SCF ubiquitin ligase complex	GO:0005816	na
+cell cortex	GO:0005816	na
+actin cytoskeleton	GO:0005816	na
+early endosome	GO:0005816	na
+autophagosome	GO:0005816	na
+recycling endosome	GO:0005816	na
+WASH complex	GO:0005816	na
+intermediate filament cytoskeleton	GO:0005816	na
+photoreceptor outer segment	GO:0005816	na
+photoreceptor inner segment	GO:0005816	na
+heterotrimeric G-protein complex	GO:0005816	na
+BBSome	GO:0005816	na
+spindle	GO:0005816	na
+pre-autophagosomal structure	GO:0005816	na
+cytoplasmic vesicle	GO:0005816	na
+U5 snRNP	GO:0005816	na
+U1 snRNP	GO:0005816	na
+U2 snRNP	GO:0005816	na
+U4 snRNP	GO:0005816	na
+U12-type spliceosomal complex	GO:0005816	na
+SMN-Sm protein complex	GO:0005816	na
+P granule	GO:0005816	na
+U2-type prespliceosome	GO:0005816	na
+precatalytic spliceosome	GO:0005816	na
+catalytic step 2 spliceosome	GO:0005816	na
+spliceosomal tri-snRNP complex	GO:0005816	na
+stereocilium	GO:0005816	na
+peroxisomal matrix	GO:0005816	na
+voltage-gated potassium channel complex	GO:0005816	na
+nuclear pore	GO:0005816	na
+phagocytic cup	GO:0005816	na
+brush border	GO:0005816	na
+ionotropic glutamate receptor complex	GO:0005816	na
+eukaryotic translation initiation factor 3 complex	GO:0005816	na
+specific granule membrane	GO:0005816	na
+tertiary granule membrane	GO:0005816	na
+Golgi-associated vesicle membrane	GO:0005816	na
+kinesin complex	GO:0005816	na
+mitochondrial membrane	GO:0005816	na
+lysosomal membrane	GO:0005816	na
+intrinsic component of the cytoplasmic side of the plasma membrane	GO:0005816	na
+intracellular ribonucleoprotein complex	GO:0005816	na
+cytoplasmic stress granule	GO:0005816	na
+peroxisome	GO:0005816	na
+peroxisomal membrane	GO:0005816	na
+spindle microtubule	GO:0005816	na
+nuclear speck	GO:0005816	na
+spliceosomal complex	GO:0005816	na
+cell-cell adherens junction	GO:0005816	na
+basal plasma membrane	GO:0005816	na
+lateral plasma membrane	GO:0005816	na
+phagocytic vesicle membrane	GO:0005816	na
+SNARE complex	GO:0005816	na
+specific granule	GO:0005816	na
+azurophil granule	GO:0005816	na
+mitochondrial outer membrane	GO:0005816	na
+mitochondrial intermembrane space	GO:0005816	na
+cytoplasmic exosome (RNase complex)	GO:0005816	na
+platelet alpha granule	GO:0005816	na
+Golgi trans cisterna	GO:0005816	na
+AP-type membrane coat adaptor complex	GO:0005816	na
+endosome lumen	GO:0005816	na
+trans-Golgi network membrane	GO:0005816	na
+Golgi stack	GO:0005816	na
+trans-Golgi network transport vesicle	GO:0005816	na
+secretory granule	GO:0005816	na
+platelet dense granule membrane	GO:0005816	na
+multivesicular body membrane	GO:0005816	na
+melanosome	GO:0005816	na
+intrinsic component of plasma membrane	GO:0005816	na
+mitochondrial respiratory chain complex I	GO:0005816	na
+presynaptic membrane	GO:0005816	na
+proteasome complex	GO:0005816	na
+proteasome regulatory particle, lid subcomplex	GO:0005816	na
+proteasome accessory complex	GO:0005816	na
+secretory granule lumen	GO:0005816	na
+ficolin-1-rich granule lumen	GO:0005816	na
+proteasome regulatory particle	GO:0005816	na
+nuclear proteasome complex	GO:0005816	na
+proteasome regulatory particle, base subcomplex	GO:0005816	na
+receptor complex	GO:0005816	na
+HFE-transferrin receptor complex	GO:0005816	na
+Golgi lumen	GO:0005816	na
+PcG protein complex	GO:0005816	na
+PRC1 complex	GO:0005816	na
+transcription factor TFIID complex	GO:0005816	na
+transcription factor TFTC complex	GO:0005816	na
+MLL1 complex	GO:0005816	na
+lipid particle	GO:0005816	na
+clathrin-coated vesicle	GO:0005816	na
+postsynapse	GO:0005816	na
+AP-2 adaptor complex	GO:0005816	na
+platelet alpha granule lumen	GO:0005816	na
+voltage-gated calcium channel complex	GO:0005816	na
+cytoplasmic side of plasma membrane	GO:0005816	na
+phosphatidylinositol 3-kinase complex	GO:0005816	na
+endoplasmic reticulum lumen	GO:0005816	na
+specific granule lumen	GO:0005816	na
+tertiary granule lumen	GO:0005816	na
+endocytic vesicle membrane	GO:0005816	na
+nuclear membrane	GO:0005816	na
+nuclear periphery	GO:0005816	na
+mitochondrial nucleoid	GO:0005816	na
+histone deacetylase complex	GO:0005816	na
+exon-exon junction complex	GO:0005816	na
+mitotic spindle pole	GO:0005816	na
+mitotic spindle midzone	GO:0005816	na
+microtubule	GO:0005816	na
+synaptic vesicle membrane	GO:0005816	na
+cis-Golgi network	GO:0005816	na
+transport vesicle	GO:0005816	na
+endocytic vesicle	GO:0005816	na
+azurophil granule membrane	GO:0005816	na
+lysosomal lumen	GO:0005816	na
+CD40 receptor complex	GO:0005816	na
+transcription elongation factor complex	GO:0005816	na
+apical plasma membrane	GO:0005816	na
+brush border membrane	GO:0005816	na
+RNA polymerase II transcription factor complex	GO:0005816	na
+mitochondrial inner membrane	GO:0005816	na
+preribosome, large subunit precursor	GO:0005816	na
+T-tubule	GO:0005816	na
+I band	GO:0005816	na
+node of Ranvier	GO:0005816	na
+axon initial segment	GO:0005816	na
+bicellular tight junction	GO:0005816	na
+cortical actin cytoskeleton	GO:0005816	na
+azurophil granule lumen	GO:0005816	na
+extracellular vesicle	GO:0005816	na
+small nucleolar ribonucleoprotein complex	GO:0005816	na
+cytosolic small ribosomal subunit	GO:0005816	na
+actin filament	GO:0005816	na
+ruffle	GO:0005816	na
+microtubule organizing center	GO:0005816	na
+microvillus membrane	GO:0005816	na
+extrinsic component of external side of plasma membrane	GO:0005816	na
+sarcoplasmic reticulum membrane	GO:0005816	na
+anaphase-promoting complex	GO:0005816	na
+SWI/SNF complex	GO:0005816	na
+npBAF complex	GO:0005816	na
+nBAF complex	GO:0005816	na
+clathrin-coated pit	GO:0005816	na
+immunological synapse	GO:0005816	na
+kinetochore	GO:0005816	na
+cytoplasmic dynein complex	GO:0005816	na
+cytoplasmic ribonucleoprotein granule	GO:0005816	na
+COPI vesicle coat	GO:0005816	na
+cornified envelope	GO:0005816	na
+neuron projection	GO:0005816	na
+aggresome	GO:0005816	na
+clathrin-coated endocytic vesicle	GO:0005816	na
+ER to Golgi transport vesicle membrane	GO:0005816	na
+endoplasmic reticulum-Golgi intermediate compartment membrane	GO:0005816	na
+synaptic vesicle	GO:0005816	na
+cytoplasmic vesicle membrane	GO:0005816	na
+Golgi cisterna	GO:0005816	na
+Golgi-associated vesicle	GO:0005816	na
+histone methyltransferase complex	GO:0005816	na
+methylosome	GO:0005816	na
+chromatin	GO:0005816	na
+condensed nuclear chromosome	GO:0005816	na
+chromosome, telomeric region	GO:0005816	na
+chromosome, centromeric region	GO:0005816	na
+sorting endosome	GO:0005816	na
+very-low-density lipoprotein particle	GO:0005816	na
+high-density lipoprotein particle	GO:0005816	na
+terminal bouton	GO:0005816	na
+presynaptic active zone	GO:0005816	na
+DNA-directed RNA polymerase III complex	GO:0005816	na
+proteasome core complex	GO:0005816	na
+late endosome	GO:0005816	na
+SMN complex	GO:0005816	na
+Gemini of coiled bodies	GO:0005816	na
+vesicle membrane	GO:0005816	na
+dendritic spine	GO:0005816	na
+dendritic shaft	GO:0005816	na
+IkappaB kinase complex	GO:0005816	na
+dendrite	GO:0005816	na
+mitochondrial inner membrane presequence translocase complex	GO:0005816	na
+integral component of mitochondrial inner membrane	GO:0005816	na
+basement membrane	GO:0005816	na
+nuclear matrix	GO:0005816	na
+ciliary membrane	GO:0005816	na
+cell cortex region	GO:0005816	na
+junctional sarcoplasmic reticulum membrane	GO:0005816	na
+calcium channel complex	GO:0005816	na
+spindle pole centrosome	GO:0005816	na
+chromosome passenger complex	GO:0005816	na
+spindle midzone	GO:0005816	na
+PTW/PP1 phosphatase complex	GO:0005816	na
+platelet dense tubular network membrane	GO:0005816	na
+uropod	GO:0005816	na
+Set1C/COMPASS complex	GO:0005816	na
+intermediate filament	GO:0005816	na
+costamere	GO:0005816	na
+photoreceptor connecting cilium	GO:0005816	na
+centriolar satellite	GO:0005816	na
+MKS complex	GO:0005816	na
+gamma-tubulin complex	GO:0005816	na
+cytoplasmic microtubule	GO:0005816	na
+catenin complex	GO:0005816	na
+recycling endosome membrane	GO:0005816	na
+Arp2/3 protein complex	GO:0005816	na
+postsynaptic membrane	GO:0005816	na
+DNA-directed RNA polymerase I complex	GO:0005816	na
+beta-catenin destruction complex	GO:0005816	na
+SMAD protein complex	GO:0005816	na
+90S preribosome	GO:0005816	na
+endoplasmic reticulum-Golgi intermediate compartment	GO:0005816	na
+histone acetyltransferase complex	GO:0005816	na
+replication fork	GO:0005816	na
+endoplasmic reticulum exit site	GO:0005816	na
+transcriptional repressor complex	GO:0005816	na
+telomerase holoenzyme complex	GO:0005816	na
+ficolin-1-rich granule membrane	GO:0005816	na
+nuclear chromosome	GO:0005816	na
+chromatin silencing complex	GO:0005816	na
+endolysosome membrane	GO:0005816	na
+DNA-directed RNA polymerase II, core complex	GO:0005816	na
+death-inducing signaling complex	GO:0005816	na
+integral component of lumenal side of endoplasmic reticulum membrane	GO:0005816	na
+neuronal cell body	GO:0005816	na
+TORC2 complex	GO:0005816	na
+postsynaptic density	GO:0005816	na
+U4/U6 x U5 tri-snRNP complex	GO:0005816	na
+site of double-strand break	GO:0005816	na
+septin complex	GO:0005816	na
+Swr1 complex	GO:0005816	na
+kinetochore microtubule	GO:0005816	na
+Ada2/Gcn5/Ada3 transcription activator complex	GO:0005816	na
+membrane coat	GO:0005816	na
+synaptic membrane	GO:0005816	na
+heterochromatin	GO:0005816	na
+clathrin-coated vesicle membrane	GO:0005816	na
+dystrophin-associated glycoprotein complex	GO:0005816	na
+early phagosome	GO:0005816	na
+ribosome	GO:0005816	na
+ESCRT III complex	GO:0005816	na
+Cul4-RING E3 ubiquitin ligase complex	GO:0005816	na
+DNA replication factor A complex	GO:0005816	na
+pseudopodium	GO:0005816	na
+nucleotide-activated protein kinase complex	GO:0005816	na
+clathrin-coated endocytic vesicle membrane	GO:0005816	na
+paraspeckles	GO:0005816	na
+protein phosphatase type 2A complex	GO:0005816	na
+myofibril	GO:0005816	na
+origin recognition complex	GO:0005816	na
+nuclear origin of replication recognition complex	GO:0005816	na
+cohesin complex	GO:0005816	na
+platelet alpha granule membrane	GO:0005816	na
+condensed chromosome	GO:0005816	na
+NURF complex	GO:0005816	na
+transport vesicle membrane	GO:0005816	na
+ER-mitochondrion membrane contact site	GO:0005816	na
+early endosome membrane	GO:0005816	na
+retromer complex	GO:0005816	na
+CRD-mediated mRNA stability complex	GO:0005816	na
+histone pre-mRNA 3'end processing complex	GO:0005816	na
+cyclin/CDK positive transcription elongation factor complex	GO:0005816	na
+caveola	GO:0005816	na
+excitatory synapse	GO:0005816	na
+PML body	GO:0005816	na
+Mre11 complex	GO:0005816	na
+nuclear inclusion body	GO:0005816	na
+phagocytic vesicle	GO:0005816	na
+flotillin complex	GO:0005816	na
+ATG1/ULK1 kinase complex	GO:0005816	na
+dendrite cytoplasm	GO:0005816	na
+intercalated disc	GO:0005816	na
+transcription export complex	GO:0005816	na
+Sin3 complex	GO:0005816	na
+Wnt signalosome	GO:0005816	na
+Flemming body	GO:0005816	na
+nucleosome	GO:0005816	na
+pericentric heterochromatin	GO:0005816	na
+pre-autophagosomal structure membrane	GO:0005816	na
+intraciliary transport particle A	GO:0005816	na
+mitochondrial large ribosomal subunit	GO:0005816	na
+tubular endosome	GO:0005816	na
+transcriptionally active chromatin	GO:0005816	na
+STAGA complex	GO:0005816	na
+RISC-loading complex	GO:0005816	na
+integrin complex	GO:0005816	na
+cytosolic large ribosomal subunit	GO:0005816	na
+filopodium membrane	GO:0005816	na
+AP-1 adaptor complex	GO:0005816	na
+mitochondrial proton-transporting ATP synthase complex	GO:0005816	na
+apical dendrite	GO:0005816	na
+DNA-directed RNA polymerase II, holoenzyme	GO:0005816	na
+NuRD complex	GO:0005816	na
+ER to Golgi transport vesicle	GO:0005816	na
+myelin sheath	GO:0005816	na
+VCP-NPL4-UFD1 AAA ATPase complex	GO:0005816	na
+pericentriolar material	GO:0005816	na
+autophagosome membrane	GO:0005816	na
+multivesicular body	GO:0005816	na
+rough endoplasmic reticulum	GO:0005816	na
+BLOC-1 complex	GO:0005816	na
+small nuclear ribonucleoprotein complex	GO:0005816	na
+low-density lipoprotein particle	GO:0005816	na
+spherical high-density lipoprotein particle	GO:0005816	na
+NuA4 histone acetyltransferase complex	GO:0005816	na
+lamellipodium membrane	GO:0005816	na
+T cell receptor complex	GO:0005816	na
+integral component of mitochondrial outer membrane	GO:0005816	na
+Ino80 complex	GO:0005816	na
+endocytic vesicle lumen	GO:0005816	na
+axon terminus	GO:0005816	na
+MHC class II protein complex	GO:0005816	na
+keratin filament	GO:0005816	na
+spectrin-associated cytoskeleton	GO:0005816	na
+chylomicron	GO:0005816	na
+fibrinogen complex	GO:0005816	na
+acetylcholine-gated channel complex	GO:0005816	na
+cortical cytoskeleton	GO:0005816	na
+autolysosome	GO:0005816	na
+smooth endoplasmic reticulum	GO:0005816	na
+axolemma	GO:0005816	na
+neuronal cell body membrane	GO:0005816	na
+vacuole	GO:0005816	na
+NADPH oxidase complex	GO:0005816	na
+exocytic vesicle	GO:0005816	na
+polysome	GO:0005816	na
+nuclear euchromatin	GO:0005816	na
+invadopodium membrane	GO:0005816	na
+sarcomere	GO:0005816	na
+cyclin-dependent protein kinase holoenzyme complex	GO:0005816	na
+RISC complex	GO:0005816	na
+melanosome membrane	GO:0005816	na
+neuron projection terminus	GO:0005816	na
+commitment complex	GO:0005816	na
+sperm flagellum	GO:0005816	na
+actin filament bundle	GO:0005816	na
+filopodium tip	GO:0005816	na
+nuclear nucleosome	GO:0005816	na
+clathrin complex	GO:0005816	na
+nuclear heterochromatin	GO:0005816	na
+inclusion body	GO:0005816	na
+plasma membrane raft	GO:0005816	na
+myosin complex	GO:0005816	na
+cardiac myofibril	GO:0005816	na
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	GO:0005816	na
+nuclear telomere cap complex	GO:0005816	na
+nonhomologous end joining complex	GO:0005816	na
+extrinsic component of plasma membrane	GO:0005816	na
+non-motile cilium	GO:0005816	na
+insulin-responsive compartment	GO:0005816	na
+U7 snRNP	GO:0005816	na
+desmosome	GO:0005816	na
+vacuolar proton-transporting V-type ATPase complex	GO:0005816	na
+juxtaparanode region of axon	GO:0005816	na
+cytosolic proteasome complex	GO:0005816	na
+holo TFIIH complex	GO:0005816	na
+exosome (RNase complex)	GO:0005816	na
+NLRP3 inflammasome complex	GO:0005816	na
+microtubule plus-end	GO:0005816	na
+macropinosome	GO:0005816	na
+nuclear stress granule	GO:0005816	na
+BRISC complex	GO:0005816	na
+actomyosin	GO:0005816	na
+gamma-tubulin ring complex	GO:0005816	na
+BRCA1-A complex	GO:0005816	na
+condensed chromosome, centromeric region	GO:0005816	na
+Cul4A-RING E3 ubiquitin ligase complex	GO:0005816	na
+ciliary transition fiber	GO:0005816	na
+HOPS complex	GO:0005816	na
+gamma-secretase complex	GO:0005816	na
+nuclear outer membrane	GO:0005816	na
+nuclear pore outer ring	GO:0005816	na
+pICln-Sm protein complex	GO:0005816	na
+shelterin complex	GO:0005816	na
+Derlin-1 retrotranslocation complex	GO:0005816	na
+SCAR complex	GO:0005816	na
+Golgi transport complex	GO:0005816	na
+endoplasmic reticulum tubular network	GO:0005816	na
+small ribosomal subunit	GO:0005816	na
+U6 snRNP	GO:0005816	na
+Cul2-RING ubiquitin ligase complex	GO:0005816	na
+nuclear exosome (RNase complex)	GO:0005816	na
+messenger ribonucleoprotein complex	GO:0005816	na
+Golgi cis cisterna	GO:0005816	na
+equatorial microtubule organizing center	GO:0005816	na
+integral component of cytoplasmic side of endoplasmic reticulum membrane	GO:0005816	na
+THO complex	GO:0005816	na
+THO complex part of transcription export complex	GO:0005816	na
+uniplex complex	GO:0005816	na
+spindle pole body	GO:0005816	na

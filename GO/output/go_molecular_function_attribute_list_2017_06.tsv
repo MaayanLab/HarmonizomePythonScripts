@@ -1,65 +1,408 @@
 GO Phrase	GO	NA
-RNA binding	GO:0033613	na
-RNA polymerase II core promoter proximal region sequence-specific DNA binding	GO:0033613	na
-core promoter binding	GO:0033613	na
-transcriptional repressor activity, RNA polymerase II core promoter proximal region sequence-specific binding	GO:0033613	na
-transcription factor activity, sequence-specific DNA binding	GO:0033613	na
-transcription corepressor activity	GO:0033613	na
-calcium ion binding	GO:0033613	na
-identical protein binding	GO:0033613	na
-cadherin binding	GO:0033613	na
-transcription factor binding	GO:0033613	na
-magnesium ion binding	GO:0033613	na
-protein kinase binding	GO:0033613	na
-protein homodimerization activity	GO:0033613	na
-single-stranded DNA binding	GO:0033613	na
-ATPase activity	GO:0033613	na
-actin binding	GO:0033613	na
-ubiquitin protein ligase binding	GO:0033613	na
-protein domain specific binding	GO:0033613	na
-ion channel binding	GO:0033613	na
-RNA polymerase II transcription factor activity, sequence-specific DNA binding	GO:0033613	na
-transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding	GO:0033613	na
-RNA polymerase II regulatory region sequence-specific DNA binding	GO:0033613	na
-transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	GO:0033613	na
-DNA binding	GO:0033613	na
-double-stranded DNA binding	GO:0033613	na
-transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding	GO:0033613	na
-receptor binding	GO:0033613	na
-protein C-terminus binding	GO:0033613	na
-protein serine/threonine kinase activity	GO:0033613	na
-protein heterodimerization activity	GO:0033613	na
-ATP binding	GO:0033613	na
-protein N-terminus binding	GO:0033613	na
-transcription coactivator activity	GO:0033613	na
-enzyme binding	GO:0033613	na
-protein phosphatase binding	GO:0033613	na
-protease binding	GO:0033613	na
-SMAD binding	GO:0033613	na
-protein complex binding	GO:0033613	na
-RNA polymerase II transcription factor binding	GO:0033613	na
-protein kinase activity	GO:0033613	na
-transcription regulatory region sequence-specific DNA binding	GO:0033613	na
-sequence-specific DNA binding	GO:0033613	na
-Hsp90 protein binding	GO:0033613	na
-phosphatidylinositol-4,5-bisphosphate 3-kinase activity	GO:0033613	na
-Ras guanyl-nucleotide exchange factor activity	GO:0033613	na
-RNA polymerase II distal enhancer sequence-specific DNA binding	GO:0033613	na
-RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding	GO:0033613	na
-transcription regulatory region DNA binding	GO:0033613	na
-zinc ion binding	GO:0033613	na
-core promoter sequence-specific DNA binding	GO:0033613	na
-protein tyrosine kinase activity	GO:0033613	na
-beta-catenin binding	GO:0033613	na
-protein self-association	GO:0033613	na
-p53 binding	GO:0033613	na
-damaged DNA binding	GO:0033613	na
-heat shock protein binding	GO:0033613	na
-histone deacetylase binding	GO:0033613	na
-chromatin DNA binding	GO:0033613	na
-kinase binding	GO:0033613	na
-nuclear hormone receptor binding	GO:0033613	na
-androgen receptor binding	GO:0033613	na
-protein dimerization activity	GO:0033613	na
-ligand-dependent nuclear receptor transcription coactivator activity	GO:0033613	na
-activating transcription factor binding	GO:0033613	na
+serine-type endopeptidase activity	GO:0016279	na
+GTPase activator activity	GO:0016279	na
+Rab GTPase binding	GO:0016279	na
+RNA binding	GO:0016279	na
+ubiquitin protein ligase activity	GO:0016279	na
+ubiquitin protein ligase activity involved in ERAD pathway	GO:0016279	na
+RNA polymerase II core promoter proximal region sequence-specific DNA binding	GO:0016279	na
+core promoter binding	GO:0016279	na
+transcriptional repressor activity, RNA polymerase II core promoter proximal region sequence-specific binding	GO:0016279	na
+transcription factor activity, sequence-specific DNA binding	GO:0016279	na
+transcription corepressor activity	GO:0016279	na
+calcium ion binding	GO:0016279	na
+calcium-dependent phospholipid binding	GO:0016279	na
+phosphatidylcholine binding	GO:0016279	na
+phosphatidylinositol binding	GO:0016279	na
+cadherin binding	GO:0016279	na
+actin filament binding	GO:0016279	na
+magnesium ion binding	GO:0016279	na
+protein kinase binding	GO:0016279	na
+protein serine/threonine kinase activator activity	GO:0016279	na
+organic anion transmembrane transporter activity	GO:0016279	na
+Rho guanyl-nucleotide exchange factor activity	GO:0016279	na
+heme binding	GO:0016279	na
+laminin binding	GO:0016279	na
+phosphatidylinositol-5-phosphate binding	GO:0016279	na
+phosphatidylinositol-3-phosphate binding	GO:0016279	na
+SH2 domain binding	GO:0016279	na
+phosphatidylinositol-4-phosphate binding	GO:0016279	na
+phosphatidylinositol-3,5-bisphosphate binding	GO:0016279	na
+structural constituent of cytoskeleton	GO:0016279	na
+protein tyrosine phosphatase activity	GO:0016279	na
+ATP-dependent RNA helicase activity	GO:0016279	na
+tRNA binding	GO:0016279	na
+iron ion binding	GO:0016279	na
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors	GO:0016279	na
+protein homodimerization activity	GO:0016279	na
+amyloid-beta binding	GO:0016279	na
+protein serine/threonine phosphatase activity	GO:0016279	na
+single-stranded DNA binding	GO:0016279	na
+ATPase activity	GO:0016279	na
+transmembrane signaling receptor activity	GO:0016279	na
+actin binding	GO:0016279	na
+peptidase activity	GO:0016279	na
+signal transducer activity	GO:0016279	na
+ubiquitin protein ligase binding	GO:0016279	na
+estrogen receptor binding	GO:0016279	na
+protein complex scaffold	GO:0016279	na
+retinoic acid receptor binding	GO:0016279	na
+armadillo repeat domain binding	GO:0016279	na
+microtubule binding	GO:0016279	na
+ubiquitin-protein transferase activity	GO:0016279	na
+phosphoprotein phosphatase activity	GO:0016279	na
+methyl-CpG binding	GO:0016279	na
+metalloendopeptidase activity	GO:0016279	na
+mRNA binding	GO:0016279	na
+dynein complex binding	GO:0016279	na
+RNA polymerase II transcription factor activity, sequence-specific DNA binding	GO:0016279	na
+copper ion binding	GO:0016279	na
+transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding	GO:0016279	na
+protein kinase inhibitor activity	GO:0016279	na
+inorganic anion exchanger activity	GO:0016279	na
+RNA polymerase II regulatory region sequence-specific DNA binding	GO:0016279	na
+transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	GO:0016279	na
+hormone activity	GO:0016279	na
+syntaxin binding	GO:0016279	na
+protein binding involved in protein folding	GO:0016279	na
+endoribonuclease activity	GO:0016279	na
+amino acid transmembrane transporter activity	GO:0016279	na
+thiol-dependent ubiquitin-specific protease activity	GO:0016279	na
+Lys63-specific deubiquitinase activity	GO:0016279	na
+RNA cap binding	GO:0016279	na
+alpha-tubulin binding	GO:0016279	na
+chloride channel activity	GO:0016279	na
+phosphatase binding	GO:0016279	na
+DNA binding	GO:0016279	na
+double-stranded DNA binding	GO:0016279	na
+G-protein coupled receptor binding	GO:0016279	na
+GTPase activity	GO:0016279	na
+GTP binding	GO:0016279	na
+G-protein beta/gamma-subunit complex binding	GO:0016279	na
+SUMO transferase activity	GO:0016279	na
+serine-type endopeptidase inhibitor activity	GO:0016279	na
+transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding	GO:0016279	na
+voltage-gated potassium channel activity	GO:0016279	na
+potassium channel activity	GO:0016279	na
+phosphatidylinositol-4,5-bisphosphate binding	GO:0016279	na
+phosphatidylinositol-3,4,5-trisphosphate binding	GO:0016279	na
+phosphatidylinositol-3,4-bisphosphate binding	GO:0016279	na
+SH3 domain binding	GO:0016279	na
+histone demethylase activity (H3-K9 specific)	GO:0016279	na
+translation initiation factor activity	GO:0016279	na
+ubiquitin binding	GO:0016279	na
+cytokine activity	GO:0016279	na
+FAD binding	GO:0016279	na
+motor activity	GO:0016279	na
+protein serine/threonine kinase activity	GO:0016279	na
+protein serine/threonine/tyrosine kinase activity	GO:0016279	na
+calcium channel regulator activity	GO:0016279	na
+potassium channel regulator activity	GO:0016279	na
+sodium channel regulator activity	GO:0016279	na
+chloride channel regulator activity	GO:0016279	na
+protein heterodimerization activity	GO:0016279	na
+ATP binding	GO:0016279	na
+transcription coactivator activity	GO:0016279	na
+receptor agonist activity	GO:0016279	na
+transporter activity	GO:0016279	na
+GDP binding	GO:0016279	na
+protein phosphatase binding	GO:0016279	na
+cholesterol binding	GO:0016279	na
+steroid hormone binding	GO:0016279	na
+lipopolysaccharide binding	GO:0016279	na
+protease binding	GO:0016279	na
+G-protein coupled receptor activity	GO:0016279	na
+bHLH transcription factor binding	GO:0016279	na
+glycoprotein binding	GO:0016279	na
+transmembrane receptor protein serine/threonine kinase activity	GO:0016279	na
+phosphatidylinositol phospholipase C activity	GO:0016279	na
+SUMO binding	GO:0016279	na
+aryl hydrocarbon receptor binding	GO:0016279	na
+transcription factor activity, RNA polymerase II core promoter sequence-specific binding involved in preinitiation complex assembly	GO:0016279	na
+epidermal growth factor receptor binding	GO:0016279	na
+transforming growth factor beta receptor binding	GO:0016279	na
+protein complex binding	GO:0016279	na
+calcium channel activity	GO:0016279	na
+voltage-gated calcium channel activity	GO:0016279	na
+RNA polymerase II transcription factor binding	GO:0016279	na
+protein kinase activity	GO:0016279	na
+kinase activity	GO:0016279	na
+transcription regulatory region sequence-specific DNA binding	GO:0016279	na
+transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	GO:0016279	na
+sequence-specific DNA binding	GO:0016279	na
+Hsp90 protein binding	GO:0016279	na
+repressing transcription factor binding	GO:0016279	na
+E-box binding	GO:0016279	na
+1-phosphatidylinositol-3-kinase activity	GO:0016279	na
+phosphatidylinositol-4,5-bisphosphate 3-kinase activity	GO:0016279	na
+3',5'-cyclic-AMP phosphodiesterase activity	GO:0016279	na
+cAMP binding	GO:0016279	na
+TPR domain binding	GO:0016279	na
+GTPase inhibitor activity	GO:0016279	na
+translation factor activity, RNA binding	GO:0016279	na
+histone deacetylase activity	GO:0016279	na
+tubulin binding	GO:0016279	na
+mRNA 3'-UTR binding	GO:0016279	na
+mRNA 5'-UTR binding	GO:0016279	na
+Ras guanyl-nucleotide exchange factor activity	GO:0016279	na
+phosphotyrosine residue binding	GO:0016279	na
+receptor tyrosine kinase binding	GO:0016279	na
+thioesterase binding	GO:0016279	na
+heparan sulfate proteoglycan binding	GO:0016279	na
+RNA polymerase II distal enhancer sequence-specific DNA binding	GO:0016279	na
+RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding	GO:0016279	na
+phospholipid binding	GO:0016279	na
+transcription regulatory region DNA binding	GO:0016279	na
+metallopeptidase activity	GO:0016279	na
+zinc ion binding	GO:0016279	na
+tau protein binding	GO:0016279	na
+RNA polymerase binding	GO:0016279	na
+signal transducer, downstream of receptor, with serine/threonine kinase activity	GO:0016279	na
+cysteine-type peptidase activity	GO:0016279	na
+co-SMAD binding	GO:0016279	na
+Tat protein binding	GO:0016279	na
+phosphatidic acid binding	GO:0016279	na
+snoRNA binding	GO:0016279	na
+core promoter sequence-specific DNA binding	GO:0016279	na
+ATP-dependent DNA helicase activity	GO:0016279	na
+poly(A) binding	GO:0016279	na
+RNA strand annealing activity	GO:0016279	na
+ribosomal small subunit binding	GO:0016279	na
+transcription cofactor activity	GO:0016279	na
+metal ion binding	GO:0016279	na
+enzyme inhibitor activity	GO:0016279	na
+ATPase binding	GO:0016279	na
+pyridoxal phosphate binding	GO:0016279	na
+potassium ion binding	GO:0016279	na
+sodium ion binding	GO:0016279	na
+oxidoreductase activity	GO:0016279	na
+SH3/SH2 adaptor activity	GO:0016279	na
+ligand-dependent nuclear receptor binding	GO:0016279	na
+RNA polymerase II activating transcription factor binding	GO:0016279	na
+insulin-like growth factor receptor binding	GO:0016279	na
+protein tyrosine kinase activity	GO:0016279	na
+DNA polymerase binding	GO:0016279	na
+phospholipid transporter activity	GO:0016279	na
+fatty acid binding	GO:0016279	na
+spectrin binding	GO:0016279	na
+PDZ domain binding	GO:0016279	na
+histone demethylase activity	GO:0016279	na
+protein disulfide oxidoreductase activity	GO:0016279	na
+heparin binding	GO:0016279	na
+methylated histone binding	GO:0016279	na
+insulin receptor binding	GO:0016279	na
+kinesin binding	GO:0016279	na
+endopeptidase activity	GO:0016279	na
+integrin binding	GO:0016279	na
+ATPase activity, coupled to transmembrane movement of substances	GO:0016279	na
+histone-lysine N-methyltransferase activity	GO:0016279	na
+cysteine-type endopeptidase activator activity involved in apoptotic process	GO:0016279	na
+MAP kinase kinase activity	GO:0016279	na
+beta-tubulin binding	GO:0016279	na
+histone-arginine N-methyltransferase activity	GO:0016279	na
+protein-arginine N-methyltransferase activity	GO:0016279	na
+RNA polymerase II repressing transcription factor binding	GO:0016279	na
+RNA polymerase II transcription corepressor activity	GO:0016279	na
+coreceptor activity	GO:0016279	na
+protein binding, bridging	GO:0016279	na
+guanyl-nucleotide exchange factor activity	GO:0016279	na
+Hsp70 protein binding	GO:0016279	na
+mitogen-activated protein kinase kinase kinase binding	GO:0016279	na
+ferrous iron binding	GO:0016279	na
+myosin binding	GO:0016279	na
+histone acetyltransferase activity	GO:0016279	na
+growth factor activity	GO:0016279	na
+transcription factor activity, transcription factor binding	GO:0016279	na
+phosphatidylinositol-3-phosphatase activity	GO:0016279	na
+Rho GTPase binding	GO:0016279	na
+signal transducer activity, downstream of receptor	GO:0016279	na
+type I transforming growth factor beta receptor binding	GO:0016279	na
+activin binding	GO:0016279	na
+I-SMAD binding	GO:0016279	na
+lysine-acetylated histone binding	GO:0016279	na
+R-SMAD binding	GO:0016279	na
+flavin adenine dinucleotide binding	GO:0016279	na
+thiol-dependent ubiquitinyl hydrolase activity	GO:0016279	na
+titin binding	GO:0016279	na
+damaged DNA binding	GO:0016279	na
+histone acetyltransferase activity (H4-K5 specific)	GO:0016279	na
+histone acetyltransferase activity (H4-K8 specific)	GO:0016279	na
+histone acetyltransferase activity (H4-K16 specific)	GO:0016279	na
+mitogen-activated protein kinase binding	GO:0016279	na
+recombinase activity	GO:0016279	na
+DNA-dependent ATPase activity	GO:0016279	na
+four-way junction DNA binding	GO:0016279	na
+endodeoxyribonuclease activity	GO:0016279	na
+enzyme activator activity	GO:0016279	na
+DNA binding, bending	GO:0016279	na
+RNA polymerase II transcription coactivator activity	GO:0016279	na
+protein deacetylase activity	GO:0016279	na
+histone deacetylase binding	GO:0016279	na
+NF-kappaB binding	GO:0016279	na
+double-stranded RNA binding	GO:0016279	na
+chemoattractant activity	GO:0016279	na
+phospholipase A2 activity	GO:0016279	na
+single-stranded RNA binding	GO:0016279	na
+transcriptional activator activity, RNA polymerase II transcription factor binding	GO:0016279	na
+chromatin DNA binding	GO:0016279	na
+fibroblast growth factor receptor binding	GO:0016279	na
+endonuclease activity	GO:0016279	na
+DNA N-glycosylase activity	GO:0016279	na
+oxidized purine DNA binding	GO:0016279	na
+phospholipase binding	GO:0016279	na
+MHC class I protein binding	GO:0016279	na
+kinase binding	GO:0016279	na
+phosphatidylserine binding	GO:0016279	na
+RNA helicase activity	GO:0016279	na
+protein kinase A catalytic subunit binding	GO:0016279	na
+protein kinase A regulatory subunit binding	GO:0016279	na
+retinoic acid binding	GO:0016279	na
+nuclear hormone receptor binding	GO:0016279	na
+leucine zipper domain binding	GO:0016279	na
+MAP kinase kinase kinase activity	GO:0016279	na
+androgen receptor binding	GO:0016279	na
+Rac GTPase binding	GO:0016279	na
+actin monomer binding	GO:0016279	na
+inositol-1,3,4,5,6-pentakisphosphate kinase activity	GO:0016279	na
+inositol hexakisphosphate kinase activity	GO:0016279	na
+inositol heptakisphosphate kinase activity	GO:0016279	na
+collagen binding	GO:0016279	na
+fibroblast growth factor binding	GO:0016279	na
+peptidyl-prolyl cis-trans isomerase activity	GO:0016279	na
+histone methyltransferase activity	GO:0016279	na
+core promoter proximal region sequence-specific DNA binding	GO:0016279	na
+glucuronosyltransferase activity	GO:0016279	na
+bicarbonate transmembrane transporter activity	GO:0016279	na
+chloride transmembrane transporter activity	GO:0016279	na
+sulfate transmembrane transporter activity	GO:0016279	na
+anion:anion antiporter activity	GO:0016279	na
+oxalate transmembrane transporter activity	GO:0016279	na
+transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding	GO:0016279	na
+ankyrin binding	GO:0016279	na
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process	GO:0016279	na
+receptor signaling complex scaffold activity	GO:0016279	na
+ribosome binding	GO:0016279	na
+ligand-dependent nuclear receptor transcription coactivator activity	GO:0016279	na
+protein phosphatase regulator activity	GO:0016279	na
+protein phosphatase 2A binding	GO:0016279	na
+microfilament motor activity	GO:0016279	na
+low-density lipoprotein particle receptor binding	GO:0016279	na
+aminopeptidase activity	GO:0016279	na
+platelet-derived growth factor receptor binding	GO:0016279	na
+RNA polymerase II transcription cofactor activity	GO:0016279	na
+vitamin D receptor binding	GO:0016279	na
+ubiquitin conjugating enzyme binding	GO:0016279	na
+ubiquitin-specific protease binding	GO:0016279	na
+telomeric DNA binding	GO:0016279	na
+transcription coactivator binding	GO:0016279	na
+transcription factor activity, RNA polymerase II core promoter sequence-specific	GO:0016279	na
+3'-5' exonuclease activity	GO:0016279	na
+non-membrane spanning protein tyrosine kinase activity	GO:0016279	na
+calcium, potassium:sodium antiporter activity	GO:0016279	na
+monooxygenase activity	GO:0016279	na
+telomerase RNA binding	GO:0016279	na
+ATPase activator activity	GO:0016279	na
+RNA polymerase II core binding	GO:0016279	na
+cysteine-type endopeptidase activity	GO:0016279	na
+nitric-oxide synthase binding	GO:0016279	na
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	GO:0016279	na
+phosphatase activity	GO:0016279	na
+RNA polymerase II core promoter sequence-specific DNA binding	GO:0016279	na
+nucleosomal DNA binding	GO:0016279	na
+thyroid hormone receptor binding	GO:0016279	na
+GTPase binding	GO:0016279	na
+5'-3' exonuclease activity	GO:0016279	na
+ADP binding	GO:0016279	na
+low-density lipoprotein receptor activity	GO:0016279	na
+enhancer binding	GO:0016279	na
+gamma-tubulin binding	GO:0016279	na
+calcium-release channel activity	GO:0016279	na
+cyclin-dependent protein serine/threonine kinase activity	GO:0016279	na
+RNA polymerase II carboxy-terminal domain kinase activity	GO:0016279	na
+transmembrane transporter activity	GO:0016279	na
+acetylcholine receptor activity	GO:0016279	na
+NADP binding	GO:0016279	na
+disordered domain specific binding	GO:0016279	na
+bubble DNA binding	GO:0016279	na
+helicase activity	GO:0016279	na
+four-way junction helicase activity	GO:0016279	na
+ATP-dependent 3'-5' DNA helicase activity	GO:0016279	na
+DNA helicase activity	GO:0016279	na
+proteoglycan binding	GO:0016279	na
+actin-dependent ATPase activity	GO:0016279	na
+tumor necrosis factor receptor binding	GO:0016279	na
+lipid transporter activity	GO:0016279	na
+delayed rectifier potassium channel activity	GO:0016279	na
+NAD+ ADP-ribosyltransferase activity	GO:0016279	na
+histone acetyltransferase binding	GO:0016279	na
+1-phosphatidylinositol binding	GO:0016279	na
+antioxidant activity	GO:0016279	na
+nuclease activity	GO:0016279	na
+manganese ion binding	GO:0016279	na
+cholesterol transporter activity	GO:0016279	na
+small GTPase binding	GO:0016279	na
+transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific binding	GO:0016279	na
+enhancer sequence-specific DNA binding	GO:0016279	na
+protein kinase C binding	GO:0016279	na
+m7G(5')pppN diphosphatase activity	GO:0016279	na
+protein kinase B binding	GO:0016279	na
+protein kinase activator activity	GO:0016279	na
+NAD binding	GO:0016279	na
+NAD+ binding	GO:0016279	na
+translation repressor activity, nucleic acid binding	GO:0016279	na
+transmembrane receptor protein tyrosine kinase activity	GO:0016279	na
+nitric-oxide synthase regulator activity	GO:0016279	na
+activating transcription factor binding	GO:0016279	na
+low-density lipoprotein particle binding	GO:0016279	na
+type II transforming growth factor beta receptor binding	GO:0016279	na
+MHC class II protein complex binding	GO:0016279	na
+phosphatidylcholine-sterol O-acyltransferase activator activity	GO:0016279	na
+ligand-gated ion channel activity	GO:0016279	na
+acetylcholine-gated cation-selective channel activity	GO:0016279	na
+acetylcholine binding	GO:0016279	na
+steroid binding	GO:0016279	na
+TBP-class protein binding	GO:0016279	na
+estrogen receptor activity	GO:0016279	na
+mitogen-activated protein kinase kinase binding	GO:0016279	na
+RAGE receptor binding	GO:0016279	na
+insulin-like growth factor I binding	GO:0016279	na
+protein kinase C activity	GO:0016279	na
+arachidonic acid epoxygenase activity	GO:0016279	na
+interleukin-6 receptor binding	GO:0016279	na
+cAMP response element binding	GO:0016279	na
+poly(U) RNA binding	GO:0016279	na
+ephrin receptor binding	GO:0016279	na
+DNA-(apurinic or apyrimidinic site) lyase activity	GO:0016279	na
+transforming growth factor beta binding	GO:0016279	na
+epinephrine binding	GO:0016279	na
+single-stranded DNA endodeoxyribonuclease activity	GO:0016279	na
+G-rich strand telomeric DNA binding	GO:0016279	na
+C3HC4-type RING finger domain binding	GO:0016279	na
+double-stranded telomeric DNA binding	GO:0016279	na
+alpha-actinin binding	GO:0016279	na
+dynactin binding	GO:0016279	na
+retinoid X receptor binding	GO:0016279	na
+primary miRNA binding	GO:0016279	na
+MutLalpha complex binding	GO:0016279	na
+transcription factor activity, RNA polymerase II transcription factor binding	GO:0016279	na
+tau-protein kinase activity	GO:0016279	na
+C2H2 zinc finger domain binding	GO:0016279	na
+AT DNA binding	GO:0016279	na
+neurotrophin TRKA receptor binding	GO:0016279	na
+LBD domain binding	GO:0016279	na
+miRNA binding	GO:0016279	na
+mRNA 3'-UTR AU-rich region binding	GO:0016279	na
+transmembrane receptor protein tyrosine kinase adaptor activity	GO:0016279	na
+WW domain binding	GO:0016279	na
+G-quadruplex DNA binding	GO:0016279	na
+RNA-dependent ATPase activity	GO:0016279	na
+acetyltransferase activity	GO:0016279	na
+polyubiquitin binding	GO:0016279	na
+L-alanine transmembrane transporter activity	GO:0016279	na
+ionotropic glutamate receptor binding	GO:0016279	na
+sodium channel inhibitor activity	GO:0016279	na
+calmodulin-dependent protein kinase activity	GO:0016279	na
+small protein activating enzyme binding	GO:0016279	na
+3'-5'-exoribonuclease activity	GO:0016279	na
+siRNA binding	GO:0016279	na
+protein-lysine N-methyltransferase activity	GO:0016279	na

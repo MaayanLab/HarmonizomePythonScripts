@@ -1,873 +1,2642 @@
 GO Phrase	GO	NA
-immune response	GO:0072661	na
-receptor-mediated endocytosis	GO:0072661	na
-complement activation	GO:0072661	na
-complement activation, classical pathway	GO:0072661	na
-regulation of complement activation	GO:0072661	na
-Fc-epsilon receptor signaling pathway	GO:0072661	na
-Fc-gamma receptor signaling pathway involved in phagocytosis	GO:0072661	na
-regulation of immune response	GO:0072661	na
-leukocyte migration	GO:0072661	na
-phagocytosis, recognition	GO:0072661	na
-phagocytosis, engulfment	GO:0072661	na
-defense response to bacterium	GO:0072661	na
-innate immune response	GO:0072661	na
-B cell receptor signaling pathway	GO:0072661	na
-positive regulation of B cell activation	GO:0072661	na
-intracellular protein transport	GO:0072661	na
-activation of GTPase activity	GO:0072661	na
-xenobiotic metabolic process	GO:0072661	na
-arachidonic acid metabolic process	GO:0072661	na
-activation of protein kinase activity	GO:0072661	na
-cellular response to amino acid stimulus	GO:0072661	na
-smoothened signaling pathway	GO:0072661	na
-cilium assembly	GO:0072661	na
-protein polyubiquitination	GO:0072661	na
-protein ubiquitination	GO:0072661	na
-ubiquitin-dependent ERAD pathway	GO:0072661	na
-negative regulation of transcription from RNA polymerase II promoter	GO:0072661	na
-placenta development	GO:0072661	na
-sprouting angiogenesis	GO:0072661	na
-DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO:0072661	na
-positive regulation of transcription from RNA polymerase II promoter	GO:0072661	na
-ubiquitin-dependent protein catabolic process	GO:0072661	na
-Ras protein signal transduction	GO:0072661	na
-axonogenesis	GO:0072661	na
-neuron projection morphogenesis	GO:0072661	na
-negative regulation of autophagy	GO:0072661	na
-cellular response to amino acid starvation	GO:0072661	na
-apoptotic signaling pathway	GO:0072661	na
-fat cell differentiation	GO:0072661	na
-regulation of small GTPase mediated signal transduction	GO:0072661	na
-positive regulation of protein phosphorylation	GO:0072661	na
-positive regulation of autophagy	GO:0072661	na
-positive regulation of peptidyl-threonine phosphorylation	GO:0072661	na
-protein destabilization	GO:0072661	na
-positive regulation of peptidyl-serine phosphorylation	GO:0072661	na
-regulation of protein complex assembly	GO:0072661	na
-protein stabilization	GO:0072661	na
-defense response to Gram-negative bacterium	GO:0072661	na
-cellular response to lipopolysaccharide	GO:0072661	na
-positive regulation of protein serine/threonine kinase activity	GO:0072661	na
-cellular response to virus	GO:0072661	na
-transcription from RNA polymerase II promoter	GO:0072661	na
-positive regulation of transcription, DNA-templated	GO:0072661	na
-ion transmembrane transport	GO:0072661	na
-inflammatory response	GO:0072661	na
-positive regulation of gene expression	GO:0072661	na
-regulation of actin cytoskeleton organization	GO:0072661	na
-positive regulation of GTPase activity	GO:0072661	na
-cellular protein metabolic process	GO:0072661	na
-oxidation-reduction process	GO:0072661	na
-cell surface receptor signaling pathway	GO:0072661	na
-spermatogenesis	GO:0072661	na
-skeletal system development	GO:0072661	na
-eye development	GO:0072661	na
-heart development	GO:0072661	na
-extracellular matrix disassembly	GO:0072661	na
-bone development	GO:0072661	na
-negative regulation of cell proliferation	GO:0072661	na
-cellular response to DNA damage stimulus	GO:0072661	na
-regulation of transcription, DNA-templated	GO:0072661	na
-retrograde vesicle-mediated transport, Golgi to ER	GO:0072661	na
-striated muscle contraction	GO:0072661	na
-actin filament organization	GO:0072661	na
-sarcomere organization	GO:0072661	na
-endosome to lysosome transport	GO:0072661	na
-membrane organization	GO:0072661	na
-negative regulation of canonical Wnt signaling pathway	GO:0072661	na
-G-protein coupled receptor signaling pathway	GO:0072661	na
-signal transduction	GO:0072661	na
-mismatch repair	GO:0072661	na
-double-strand break repair	GO:0072661	na
-replication fork processing	GO:0072661	na
-retina homeostasis	GO:0072661	na
-endosomal transport	GO:0072661	na
-macroautophagy	GO:0072661	na
-viral life cycle	GO:0072661	na
-multivesicular body assembly	GO:0072661	na
-viral budding via host ESCRT complex	GO:0072661	na
-intracellular transport of virus	GO:0072661	na
-determination of left/right symmetry	GO:0072661	na
-MAPK cascade	GO:0072661	na
-stimulatory C-type lectin receptor signaling pathway	GO:0072661	na
-antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	GO:0072661	na
-proteolysis	GO:0072661	na
-regulation of cellular amino acid metabolic process	GO:0072661	na
-negative regulation of G2/M transition of mitotic cell cycle	GO:0072661	na
-protein deubiquitination	GO:0072661	na
-anaphase-promoting complex-dependent catabolic process	GO:0072661	na
-SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	GO:0072661	na
-tumor necrosis factor-mediated signaling pathway	GO:0072661	na
-NIK/NF-kappaB signaling	GO:0072661	na
-proteasome-mediated ubiquitin-dependent protein catabolic process	GO:0072661	na
-regulation of mRNA stability	GO:0072661	na
-post-translational protein modification	GO:0072661	na
-T cell receptor signaling pathway	GO:0072661	na
-positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	GO:0072661	na
-transmembrane transport	GO:0072661	na
-Wnt signaling pathway, planar cell polarity pathway	GO:0072661	na
-regulation of transcription from RNA polymerase II promoter in response to hypoxia	GO:0072661	na
-positive regulation of canonical Wnt signaling pathway	GO:0072661	na
-negative regulation of translation	GO:0072661	na
-cell-cell signaling	GO:0072661	na
-nervous system development	GO:0072661	na
-positive regulation of cytokine production	GO:0072661	na
-cytoplasmic microtubule organization	GO:0072661	na
-positive regulation of T cell proliferation	GO:0072661	na
-positive regulation of T cell activation	GO:0072661	na
-transcription, DNA-templated	GO:0072661	na
-positive regulation of cell proliferation	GO:0072661	na
-cell differentiation	GO:0072661	na
-negative regulation of apoptotic process	GO:0072661	na
-BMP signaling pathway	GO:0072661	na
-response to lipopolysaccharide	GO:0072661	na
-male gonad development	GO:0072661	na
-cell-matrix adhesion	GO:0072661	na
-regulation of mitotic cell cycle	GO:0072661	na
-response to virus	GO:0072661	na
-negative regulation of viral genome replication	GO:0072661	na
-RNA export from nucleus	GO:0072661	na
-protein import into nucleus	GO:0072661	na
-cellular response to starvation	GO:0072661	na
-negative regulation of cell cycle arrest	GO:0072661	na
-negative regulation of Wnt signaling pathway	GO:0072661	na
-sensory perception of sound	GO:0072661	na
-regulation of alternative mRNA splicing, via spliceosome	GO:0072661	na
-positive regulation of cell migration	GO:0072661	na
-vesicle-mediated transport	GO:0072661	na
-regulation of transcription from RNA polymerase II promoter	GO:0072661	na
-neuron differentiation	GO:0072661	na
-response to hypoxia	GO:0072661	na
-cytoskeleton organization	GO:0072661	na
-negative regulation of protein kinase activity	GO:0072661	na
-cytokine-mediated signaling pathway	GO:0072661	na
-negative regulation of JAK-STAT cascade	GO:0072661	na
-defense response	GO:0072661	na
-negative regulation of NF-kappaB transcription factor activity	GO:0072661	na
-negative regulation of type I interferon production	GO:0072661	na
-negative regulation of inflammatory response	GO:0072661	na
-cellular response to interferon-gamma	GO:0072661	na
-cellular response to interleukin-1	GO:0072661	na
-cellular response to tumor necrosis factor	GO:0072661	na
-positive regulation of reactive oxygen species metabolic process	GO:0072661	na
-cerebral cortex development	GO:0072661	na
-hormone-mediated signaling pathway	GO:0072661	na
-transcription elongation from RNA polymerase II promoter	GO:0072661	na
-vesicle fusion	GO:0072661	na
-chaperone-mediated protein folding	GO:0072661	na
-collagen catabolic process	GO:0072661	na
-positive regulation of apoptotic process	GO:0072661	na
-mRNA splicing, via spliceosome	GO:0072661	na
-protein ubiquitination involved in ubiquitin-dependent protein catabolic process	GO:0072661	na
-SMAD protein signal transduction	GO:0072661	na
-cognition	GO:0072661	na
-mRNA export from nucleus	GO:0072661	na
-tRNA export from nucleus	GO:0072661	na
-mitotic nuclear envelope disassembly	GO:0072661	na
-regulation of glucose transport	GO:0072661	na
-viral process	GO:0072661	na
-protein sumoylation	GO:0072661	na
-viral transcription	GO:0072661	na
-regulation of gene silencing by miRNA	GO:0072661	na
-regulation of cellular response to heat	GO:0072661	na
-exocytosis	GO:0072661	na
-regulation of protein ubiquitination	GO:0072661	na
-retrograde transport, endosome to Golgi	GO:0072661	na
-Rho protein signal transduction	GO:0072661	na
-regulation of cell shape	GO:0072661	na
-positive regulation of actin filament polymerization	GO:0072661	na
-transport	GO:0072661	na
-G2/M transition of mitotic cell cycle	GO:0072661	na
-ciliary basal body docking	GO:0072661	na
-chemical synaptic transmission	GO:0072661	na
-positive regulation of protein ubiquitination	GO:0072661	na
-interstrand cross-link repair	GO:0072661	na
-adenylate cyclase-modulating G-protein coupled receptor signaling pathway	GO:0072661	na
-adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	GO:0072661	na
-positive regulation of vasoconstriction	GO:0072661	na
-centrosome cycle	GO:0072661	na
-autophagy	GO:0072661	na
-positive regulation of dendritic spine development	GO:0072661	na
-actin filament bundle assembly	GO:0072661	na
-apoptotic process	GO:0072661	na
-cell cycle arrest	GO:0072661	na
-visual perception	GO:0072661	na
-muscle organ development	GO:0072661	na
-translational initiation	GO:0072661	na
-neutrophil degranulation	GO:0072661	na
-negative regulation of transcription, DNA-templated	GO:0072661	na
-positive regulation of I-kappaB kinase/NF-kappaB signaling	GO:0072661	na
-mitochondrion organization	GO:0072661	na
-microtubule-based movement	GO:0072661	na
-regulation of protein stability	GO:0072661	na
-negative regulation of proteasomal ubiquitin-dependent protein catabolic process	GO:0072661	na
-defense response to virus	GO:0072661	na
-mitotic spindle organization	GO:0072661	na
-sister chromatid cohesion	GO:0072661	na
-antigen processing and presentation of exogenous peptide antigen via MHC class II	GO:0072661	na
-mitotic spindle assembly	GO:0072661	na
-regulation of cell growth	GO:0072661	na
-protein phosphorylation	GO:0072661	na
-regulation of blood pressure	GO:0072661	na
-peptidyl-serine phosphorylation	GO:0072661	na
-regulation of cell migration	GO:0072661	na
-intracellular signal transduction	GO:0072661	na
-regulation of cell proliferation	GO:0072661	na
-regulation of apoptotic process	GO:0072661	na
-regulation of sequence-specific DNA binding transcription factor activity	GO:0072661	na
-ossification	GO:0072661	na
-release of cytochrome c from mitochondria	GO:0072661	na
-positive regulation of bone mineralization	GO:0072661	na
-negative regulation of neuron apoptotic process	GO:0072661	na
-regulation of cytosolic calcium ion concentration	GO:0072661	na
-termination of RNA polymerase II transcription	GO:0072661	na
-regulation of gene expression	GO:0072661	na
-mRNA 3'-end processing	GO:0072661	na
-response to oxidative stress	GO:0072661	na
-positive regulation of gene expression, epigenetic	GO:0072661	na
-membrane fusion	GO:0072661	na
-positive regulation of phosphatidylinositol 3-kinase signaling	GO:0072661	na
-positive regulation of peptidyl-tyrosine phosphorylation	GO:0072661	na
-positive regulation of protein kinase B signaling	GO:0072661	na
-cellular response to cytokine stimulus	GO:0072661	na
-regulation of mitophagy	GO:0072661	na
-positive regulation of actin cytoskeleton reorganization	GO:0072661	na
-positive regulation of DNA repair	GO:0072661	na
-negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO:0072661	na
-muscle contraction	GO:0072661	na
-regulation of heart contraction	GO:0072661	na
-regulation of cardiac conduction	GO:0072661	na
-positive regulation of endothelial cell proliferation	GO:0072661	na
-monocyte chemotaxis	GO:0072661	na
-chemotaxis	GO:0072661	na
-neutrophil chemotaxis	GO:0072661	na
-lymphocyte chemotaxis	GO:0072661	na
-chemokine-mediated signaling pathway	GO:0072661	na
-positive regulation of ERK1 and ERK2 cascade	GO:0072661	na
-sodium ion transmembrane transport	GO:0072661	na
-cardiac conduction	GO:0072661	na
-potassium ion transmembrane transport	GO:0072661	na
-female pregnancy	GO:0072661	na
-negative regulation of gene expression	GO:0072661	na
-negative regulation of interferon-gamma production	GO:0072661	na
-negative regulation of tumor necrosis factor production	GO:0072661	na
-positive regulation of interleukin-4 production	GO:0072661	na
-positive regulation of NF-kappaB import into nucleus	GO:0072661	na
-positive regulation of interleukin-1 beta secretion	GO:0072661	na
-positive regulation of NF-kappaB transcription factor activity	GO:0072661	na
-ERK1 and ERK2 cascade	GO:0072661	na
-response to interleukin-1	GO:0072661	na
-positive regulation of interleukin-6 secretion	GO:0072661	na
-toll-like receptor 4 signaling pathway	GO:0072661	na
-platelet aggregation	GO:0072661	na
-platelet degranulation	GO:0072661	na
-positive regulation of exocytosis	GO:0072661	na
-positive regulation of release of cytochrome c from mitochondria	GO:0072661	na
-steroid metabolic process	GO:0072661	na
-activation of MAPK activity	GO:0072661	na
-toll-like receptor signaling pathway	GO:0072661	na
-MyD88-dependent toll-like receptor signaling pathway	GO:0072661	na
-MyD88-independent toll-like receptor signaling pathway	GO:0072661	na
-I-kappaB kinase/NF-kappaB signaling	GO:0072661	na
-lipopolysaccharide-mediated signaling pathway	GO:0072661	na
-negative regulation of interleukin-6 production	GO:0072661	na
-positive regulation of chemokine production	GO:0072661	na
-positive regulation of interferon-beta production	GO:0072661	na
-positive regulation of interferon-gamma production	GO:0072661	na
-positive regulation of interleukin-10 production	GO:0072661	na
-positive regulation of interleukin-12 production	GO:0072661	na
-positive regulation of interleukin-6 production	GO:0072661	na
-positive regulation of interleukin-8 production	GO:0072661	na
-positive regulation of tumor necrosis factor production	GO:0072661	na
-TRIF-dependent toll-like receptor signaling pathway	GO:0072661	na
-positive regulation of inflammatory response	GO:0072661	na
-necroptotic process	GO:0072661	na
-negative regulation of ERK1 and ERK2 cascade	GO:0072661	na
-cellular response to mechanical stimulus	GO:0072661	na
-lamellipodium assembly	GO:0072661	na
-positive regulation of cell adhesion	GO:0072661	na
-focal adhesion assembly	GO:0072661	na
-negative regulation of cell growth	GO:0072661	na
-activation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0072661	na
-activation of NF-kappaB-inducing kinase activity	GO:0072661	na
-multicellular organism development	GO:0072661	na
-extrinsic apoptotic signaling pathway via death domain receptors	GO:0072661	na
-extrinsic apoptotic signaling pathway	GO:0072661	na
-activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO:0072661	na
-regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO:0072661	na
-negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO:0072661	na
-negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	GO:0072661	na
-positive regulation of insulin secretion	GO:0072661	na
-negative regulation of insulin secretion	GO:0072661	na
-central nervous system development	GO:0072661	na
-positive regulation of cell differentiation	GO:0072661	na
-positive regulation of osteoblast differentiation	GO:0072661	na
-cellular response to BMP stimulus	GO:0072661	na
-antimicrobial humoral response	GO:0072661	na
-neuropeptide signaling pathway	GO:0072661	na
-blood coagulation	GO:0072661	na
-response to wounding	GO:0072661	na
-platelet activation	GO:0072661	na
-positive regulation of Rho protein signal transduction	GO:0072661	na
-chromatin remodeling	GO:0072661	na
-7-methylguanosine mRNA capping	GO:0072661	na
-response to organic substance	GO:0072661	na
-positive regulation of macroautophagy	GO:0072661	na
-positive regulation of viral transcription	GO:0072661	na
-transcription initiation from RNA polymerase II promoter	GO:0072661	na
-regulation of signal transduction by p53 class mediator	GO:0072661	na
-regulation of endocytosis	GO:0072661	na
-positive regulation of epidermal growth factor receptor signaling pathway	GO:0072661	na
-positive regulation of receptor-mediated endocytosis	GO:0072661	na
-transforming growth factor beta receptor signaling pathway	GO:0072661	na
-positive regulation of pathway-restricted SMAD protein phosphorylation	GO:0072661	na
-regulation of MAPK cascade	GO:0072661	na
-cell development	GO:0072661	na
-positive regulation of phagocytosis	GO:0072661	na
-cellular protein modification process	GO:0072661	na
-regulation of membrane potential	GO:0072661	na
-negative regulation of sequence-specific DNA binding transcription factor activity	GO:0072661	na
-viral entry into host cell	GO:0072661	na
-protein autoubiquitination	GO:0072661	na
-protein K63-linked ubiquitination	GO:0072661	na
-G1/S transition of mitotic cell cycle	GO:0072661	na
-DNA replication	GO:0072661	na
-phagocytosis	GO:0072661	na
-positive regulation of G2/M transition of mitotic cell cycle	GO:0072661	na
-epithelial cell differentiation	GO:0072661	na
-protein oligomerization	GO:0072661	na
-negative regulation of TOR signaling	GO:0072661	na
-circadian regulation of gene expression	GO:0072661	na
-negative regulation of fat cell differentiation	GO:0072661	na
-regulation of insulin secretion	GO:0072661	na
-regulation of cell cycle	GO:0072661	na
-adaptive immune response	GO:0072661	na
-phosphatidylinositol biosynthetic process	GO:0072661	na
-axon guidance	GO:0072661	na
-phosphatidylinositol 3-kinase signaling	GO:0072661	na
-regulation of phosphatidylinositol 3-kinase signaling	GO:0072661	na
-phosphorylation	GO:0072661	na
-T cell differentiation	GO:0072661	na
-T cell activation	GO:0072661	na
-B cell activation	GO:0072661	na
-phosphatidylinositol-mediated signaling	GO:0072661	na
-ion transport	GO:0072661	na
-anatomical structure morphogenesis	GO:0072661	na
-cell migration	GO:0072661	na
-thymus development	GO:0072661	na
-ER to Golgi vesicle-mediated transport	GO:0072661	na
-protein complex assembly	GO:0072661	na
-movement of cell or subcellular component	GO:0072661	na
-ephrin receptor signaling pathway	GO:0072661	na
-regulation of nitric-oxide synthase activity	GO:0072661	na
-positive regulation of filopodium assembly	GO:0072661	na
-dendritic spine morphogenesis	GO:0072661	na
-cAMP-mediated signaling	GO:0072661	na
-cellular response to drug	GO:0072661	na
-establishment of endothelial barrier	GO:0072661	na
-cellular response to transforming growth factor beta stimulus	GO:0072661	na
-protein import into nucleus, translocation	GO:0072661	na
-protein autophosphorylation	GO:0072661	na
-microtubule cytoskeleton organization	GO:0072661	na
-brain development	GO:0072661	na
-translation	GO:0072661	na
-regulation of mitochondrion organization	GO:0072661	na
-positive regulation of protein secretion	GO:0072661	na
-protein homotetramerization	GO:0072661	na
-positive regulation of mitochondrial fission	GO:0072661	na
-execution phase of apoptosis	GO:0072661	na
-positive regulation of intrinsic apoptotic signaling pathway	GO:0072661	na
-endocytosis	GO:0072661	na
-epidermal growth factor receptor signaling pathway	GO:0072661	na
-insulin receptor signaling pathway	GO:0072661	na
-platelet-derived growth factor receptor signaling pathway	GO:0072661	na
-transmembrane receptor protein tyrosine kinase signaling pathway	GO:0072661	na
-regulation of autophagy	GO:0072661	na
-cellular response to insulin stimulus	GO:0072661	na
-response to endoplasmic reticulum stress	GO:0072661	na
-positive regulation of transcription factor import into nucleus	GO:0072661	na
-vascular endothelial growth factor receptor signaling pathway	GO:0072661	na
-positive regulation of sequence-specific DNA binding transcription factor activity	GO:0072661	na
-retinoid metabolic process	GO:0072661	na
-extracellular matrix organization	GO:0072661	na
-receptor clustering	GO:0072661	na
-synapse organization	GO:0072661	na
-snRNA transcription from RNA polymerase II promoter	GO:0072661	na
-embryo development	GO:0072661	na
-positive regulation of viral genome replication	GO:0072661	na
-double-strand break repair via homologous recombination	GO:0072661	na
-double-strand break repair via nonhomologous end joining	GO:0072661	na
-nucleus organization	GO:0072661	na
-outflow tract morphogenesis	GO:0072661	na
-learning	GO:0072661	na
-palate development	GO:0072661	na
-response to hydrogen peroxide	GO:0072661	na
-regulation of cell differentiation	GO:0072661	na
-beta-catenin-TCF complex assembly	GO:0072661	na
-regulation of transforming growth factor beta receptor signaling pathway	GO:0072661	na
-negative regulation of endothelial cell proliferation	GO:0072661	na
-negative regulation of endothelial cell migration	GO:0072661	na
-negative regulation of angiogenesis	GO:0072661	na
-cell redox homeostasis	GO:0072661	na
-negative regulation of endothelial cell apoptotic process	GO:0072661	na
-rRNA processing	GO:0072661	na
-heart looping	GO:0072661	na
-Notch signaling pathway	GO:0072661	na
-Notch receptor processing	GO:0072661	na
-hemopoiesis	GO:0072661	na
-regulation of cell adhesion	GO:0072661	na
-negative regulation of neuron differentiation	GO:0072661	na
-positive regulation of Notch signaling pathway	GO:0072661	na
-positive regulation of cytosolic calcium ion concentration	GO:0072661	na
-cell death	GO:0072661	na
-calcium ion transmembrane transport	GO:0072661	na
-positive regulation of epithelial to mesenchymal transition	GO:0072661	na
-actin cytoskeleton organization	GO:0072661	na
-positive regulation of cell growth	GO:0072661	na
-positive regulation of transforming growth factor beta receptor signaling pathway	GO:0072661	na
-positive regulation of phosphorylation	GO:0072661	na
-positive regulation of JNK cascade	GO:0072661	na
-positive regulation of exosomal secretion	GO:0072661	na
-lipid metabolic process	GO:0072661	na
-RNA splicing	GO:0072661	na
-chromatin organization	GO:0072661	na
-chromosome segregation	GO:0072661	na
-Wnt signaling pathway	GO:0072661	na
-negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0072661	na
-positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0072661	na
-positive regulation of translation	GO:0072661	na
-intrinsic apoptotic signaling pathway	GO:0072661	na
-positive regulation of cell-matrix adhesion	GO:0072661	na
-dendritic cell chemotaxis	GO:0072661	na
-T cell costimulation	GO:0072661	na
-positive regulation of phosphatidylinositol 3-kinase activity	GO:0072661	na
-positive regulation of protein kinase activity	GO:0072661	na
-positive regulation of chemotaxis	GO:0072661	na
-release of sequestered calcium ion into cytosol	GO:0072661	na
-cell chemotaxis	GO:0072661	na
-positive regulation of neutrophil chemotaxis	GO:0072661	na
-negative regulation of cell adhesion	GO:0072661	na
-protein localization to cell surface	GO:0072661	na
-positive regulation of BMP signaling pathway	GO:0072661	na
-regulation of ERK1 and ERK2 cascade	GO:0072661	na
-protein monoubiquitination	GO:0072661	na
-calcium ion transport	GO:0072661	na
-interferon-gamma-mediated signaling pathway	GO:0072661	na
-chondrocyte differentiation	GO:0072661	na
-protein dephosphorylation	GO:0072661	na
-COPII vesicle coating	GO:0072661	na
-cell fate commitment	GO:0072661	na
-canonical Wnt signaling pathway	GO:0072661	na
-cellular response to retinoic acid	GO:0072661	na
-positive regulation of cellular protein metabolic process	GO:0072661	na
-embryonic digit morphogenesis	GO:0072661	na
-positive regulation of synapse assembly	GO:0072661	na
-positive regulation of excitatory postsynaptic potential	GO:0072661	na
-gluconeogenesis	GO:0072661	na
-protein K48-linked ubiquitination	GO:0072661	na
-protein K11-linked ubiquitination	GO:0072661	na
-phospholipid metabolic process	GO:0072661	na
-regulation of lipid metabolic process	GO:0072661	na
-androgen receptor signaling pathway	GO:0072661	na
-negative regulation of protein phosphorylation	GO:0072661	na
-JAK-STAT cascade	GO:0072661	na
-cellular response to hormone stimulus	GO:0072661	na
-negative regulation of insulin receptor signaling pathway	GO:0072661	na
-ERBB2 signaling pathway	GO:0072661	na
-regulation of cell motility	GO:0072661	na
-homophilic cell adhesion via plasma membrane adhesion molecules	GO:0072661	na
-positive regulation of angiogenesis	GO:0072661	na
-mitotic cell cycle	GO:0072661	na
-mitotic cytokinesis	GO:0072661	na
-cytokinesis	GO:0072661	na
-positive regulation of cytokinesis	GO:0072661	na
-neuron apoptotic process	GO:0072661	na
-IRE1-mediated unfolded protein response	GO:0072661	na
-positive regulation of protein complex assembly	GO:0072661	na
-cellular response to oxidative stress	GO:0072661	na
-positive regulation of leukocyte chemotaxis	GO:0072661	na
-positive regulation of release of sequestered calcium ion into cytosol	GO:0072661	na
-animal organ morphogenesis	GO:0072661	na
-epidermis development	GO:0072661	na
-keratinocyte differentiation	GO:0072661	na
-neurotransmitter secretion	GO:0072661	na
-positive regulation of Wnt signaling pathway	GO:0072661	na
-negative regulation of protein binding	GO:0072661	na
-positive regulation of proteasomal ubiquitin-dependent protein catabolic process	GO:0072661	na
-protein localization to nucleus	GO:0072661	na
-beta-catenin destruction complex disassembly	GO:0072661	na
-neural tube closure	GO:0072661	na
-positive regulation of JUN kinase activity	GO:0072661	na
-positive regulation by host of viral transcription	GO:0072661	na
-neuron projection development	GO:0072661	na
-protein homooligomerization	GO:0072661	na
-in utero embryonic development	GO:0072661	na
-membrane protein ectodomain proteolysis	GO:0072661	na
-integrin-mediated signaling pathway	GO:0072661	na
-response to tumor necrosis factor	GO:0072661	na
-positive regulation of endothelial cell migration	GO:0072661	na
-protein transport	GO:0072661	na
-activation of protein kinase B activity	GO:0072661	na
-regulation of cell adhesion mediated by integrin	GO:0072661	na
-cellular response to vascular endothelial growth factor stimulus	GO:0072661	na
-regulation of GTPase activity	GO:0072661	na
-cellular response to fibroblast growth factor stimulus	GO:0072661	na
-positive regulation of stress fiber assembly	GO:0072661	na
-negative regulation of focal adhesion assembly	GO:0072661	na
-negative regulation of I-kappaB kinase/NF-kappaB signaling	GO:0072661	na
-JNK cascade	GO:0072661	na
-activation of JUN kinase activity	GO:0072661	na
-response to heat	GO:0072661	na
-response to UV	GO:0072661	na
-positive regulation of telomere maintenance via telomerase	GO:0072661	na
-stress-activated MAPK cascade	GO:0072661	na
-positive regulation of telomerase activity	GO:0072661	na
-positive regulation of telomere capping	GO:0072661	na
-regulation of cell size	GO:0072661	na
-negative regulation of mitotic cell cycle	GO:0072661	na
-negative regulation of protein kinase B signaling	GO:0072661	na
-establishment of protein localization to plasma membrane	GO:0072661	na
-DNA damage checkpoint	GO:0072661	na
-DNA repair	GO:0072661	na
-peptidyl-threonine phosphorylation	GO:0072661	na
-G2 DNA damage checkpoint	GO:0072661	na
-positive regulation of cell cycle	GO:0072661	na
-intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	GO:0072661	na
-angiogenesis	GO:0072661	na
-branching involved in blood vessel morphogenesis	GO:0072661	na
-neuron migration	GO:0072661	na
-cell migration involved in sprouting angiogenesis	GO:0072661	na
-artery morphogenesis	GO:0072661	na
-positive chemotaxis	GO:0072661	na
-cellular response to glucose stimulus	GO:0072661	na
-positive regulation of type I interferon production	GO:0072661	na
-positive regulation of protein targeting to mitochondrion	GO:0072661	na
-positive regulation of calcium ion transport	GO:0072661	na
-positive regulation of defense response to virus by host	GO:0072661	na
-response to toxic substance	GO:0072661	na
-regulation of transcription involved in G1/S transition of mitotic cell cycle	GO:0072661	na
-type I interferon signaling pathway	GO:0072661	na
-mitotic cell cycle checkpoint	GO:0072661	na
-response to retinoic acid	GO:0072661	na
-endothelial cell migration	GO:0072661	na
-regulation of synaptic plasticity	GO:0072661	na
-synapse assembly	GO:0072661	na
-regulation of tumor necrosis factor-mediated signaling pathway	GO:0072661	na
-cortical actin cytoskeleton organization	GO:0072661	na
-nucleotide-binding oligomerization domain containing signaling pathway	GO:0072661	na
-interleukin-1-mediated signaling pathway	GO:0072661	na
-heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO:0072661	na
-translesion synthesis	GO:0072661	na
-cell motility	GO:0072661	na
-wound healing	GO:0072661	na
-positive regulation of DNA replication	GO:0072661	na
-positive regulation of mitotic nuclear division	GO:0072661	na
-positive regulation of fibroblast proliferation	GO:0072661	na
-positive regulation of smooth muscle cell proliferation	GO:0072661	na
-negative regulation of epithelial cell proliferation	GO:0072661	na
-regulation of heart rate	GO:0072661	na
-regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO:0072661	na
-regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	GO:0072661	na
-cardiac muscle contraction	GO:0072661	na
-regulation of membrane repolarization	GO:0072661	na
-negative regulation of epidermal growth factor receptor signaling pathway	GO:0072661	na
-regulation of cytokinesis	GO:0072661	na
-Golgi organization	GO:0072661	na
-response to bacterium	GO:0072661	na
-negative regulation of neuron projection development	GO:0072661	na
-regulation of neuron death	GO:0072661	na
-negative regulation of protein catabolic process	GO:0072661	na
-protein export from nucleus	GO:0072661	na
-substantia nigra development	GO:0072661	na
-regulation of protein phosphorylation	GO:0072661	na
-positive regulation of neuron projection development	GO:0072661	na
-positive regulation of axonogenesis	GO:0072661	na
-negative regulation of protein ubiquitination	GO:0072661	na
-regulation of circadian rhythm	GO:0072661	na
-histone H3 deacetylation	GO:0072661	na
-protein processing	GO:0072661	na
-collagen fibril organization	GO:0072661	na
-negative regulation of epithelial to mesenchymal transition	GO:0072661	na
-negative regulation of cell migration	GO:0072661	na
-negative regulation of transforming growth factor beta receptor signaling pathway	GO:0072661	na
-negative regulation of BMP signaling pathway	GO:0072661	na
-negative regulation of peptidyl-serine phosphorylation	GO:0072661	na
-ventricular cardiac muscle tissue morphogenesis	GO:0072661	na
-regulation of cardiac muscle contraction	GO:0072661	na
-pathway-restricted SMAD protein phosphorylation	GO:0072661	na
-ventricular septum morphogenesis	GO:0072661	na
-cellular response to reactive oxygen species	GO:0072661	na
-cellular response to cadmium ion	GO:0072661	na
-cholesterol efflux	GO:0072661	na
-low-density lipoprotein particle clearance	GO:0072661	na
-cholesterol homeostasis	GO:0072661	na
-cell aging	GO:0072661	na
-cellular senescence	GO:0072661	na
-negative regulation of blood vessel endothelial cell migration	GO:0072661	na
-memory	GO:0072661	na
-DNA damage response, signal transduction by p53 class mediator	GO:0072661	na
-cellular response to hypoxia	GO:0072661	na
-transcription initiation from RNA polymerase I promoter	GO:0072661	na
-transcription elongation from RNA polymerase I promoter	GO:0072661	na
-termination of RNA polymerase I transcription	GO:0072661	na
-acute-phase response	GO:0072661	na
-cellular protein complex assembly	GO:0072661	na
-positive regulation of protein catabolic process	GO:0072661	na
-heart morphogenesis	GO:0072661	na
-response to interferon-gamma	GO:0072661	na
-substrate adhesion-dependent cell spreading	GO:0072661	na
-nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	GO:0072661	na
-single organismal cell-cell adhesion	GO:0072661	na
-defense response to Gram-positive bacterium	GO:0072661	na
-antimicrobial humoral immune response mediated by antimicrobial peptide	GO:0072661	na
-muscle filament sliding	GO:0072661	na
-positive regulation of proteolysis	GO:0072661	na
-positive regulation of macrophage derived foam cell differentiation	GO:0072661	na
-negative regulation of cell cycle	GO:0072661	na
-response to radiation	GO:0072661	na
-DNA synthesis involved in DNA repair	GO:0072661	na
-strand displacement	GO:0072661	na
-DNA recombination	GO:0072661	na
-response to ionizing radiation	GO:0072661	na
-cell growth	GO:0072661	na
-regulation of macroautophagy	GO:0072661	na
-transferrin transport	GO:0072661	na
-DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO:0072661	na
-intrinsic apoptotic signaling pathway in response to DNA damage	GO:0072661	na
-cellular response to UV	GO:0072661	na
-intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO:0072661	na
-positive regulation of cell cycle arrest	GO:0072661	na
-positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO:0072661	na
-positive regulation of MAPK cascade	GO:0072661	na
-positive regulation of TOR signaling	GO:0072661	na
-response to exogenous dsRNA	GO:0072661	na
-transcription-coupled nucleotide-excision repair	GO:0072661	na
-fibroblast growth factor receptor signaling pathway	GO:0072661	na
-RNA metabolic process	GO:0072661	na
-somatic stem cell population maintenance	GO:0072661	na
-cellular response to ionizing radiation	GO:0072661	na
-skeletal muscle tissue development	GO:0072661	na
-regulation of necroptotic process	GO:0072661	na
-negative regulation of extrinsic apoptotic signaling pathway	GO:0072661	na
-metanephros development	GO:0072661	na
-mesonephros development	GO:0072661	na
-positive regulation of epithelial cell migration	GO:0072661	na
-actin cytoskeleton reorganization	GO:0072661	na
-positive regulation of epithelial cell proliferation	GO:0072661	na
-liver development	GO:0072661	na
-base-excision repair	GO:0072661	na
-nucleotide-excision repair, DNA incision	GO:0072661	na
-calcium-mediated signaling	GO:0072661	na
-regulation of I-kappaB kinase/NF-kappaB signaling	GO:0072661	na
-cellular response to epidermal growth factor stimulus	GO:0072661	na
-positive regulation of establishment of protein localization to plasma membrane	GO:0072661	na
-histone H3 acetylation	GO:0072661	na
-bicellular tight junction assembly	GO:0072661	na
-glucose homeostasis	GO:0072661	na
-cellular response to glucose starvation	GO:0072661	na
-intrinsic apoptotic signaling pathway by p53 class mediator	GO:0072661	na
-reactive oxygen species metabolic process	GO:0072661	na
-mitotic metaphase plate congression	GO:0072661	na
-positive regulation of cell death	GO:0072661	na
-activation of MAPKK activity	GO:0072661	na
-regulation of focal adhesion assembly	GO:0072661	na
-renal water homeostasis	GO:0072661	na
-cAMP biosynthetic process	GO:0072661	na
-cGMP biosynthetic process	GO:0072661	na
-adenylate cyclase-activating G-protein coupled receptor signaling pathway	GO:0072661	na
-activation of adenylate cyclase activity	GO:0072661	na
-cellular response to glucagon stimulus	GO:0072661	na
-cellular response to cAMP	GO:0072661	na
-endocrine pancreas development	GO:0072661	na
-Wnt signaling pathway, calcium modulating pathway	GO:0072661	na
-positive regulation of interleukin-2 production	GO:0072661	na
-cellular response to calcium ion	GO:0072661	na
-neurogenesis	GO:0072661	na
-cellular protein localization	GO:0072661	na
-blood vessel development	GO:0072661	na
-outflow tract septum morphogenesis	GO:0072661	na
-social behavior	GO:0072661	na
-inner ear morphogenesis	GO:0072661	na
-endoplasmic reticulum unfolded protein response	GO:0072661	na
-membrane protein intracellular domain proteolysis	GO:0072661	na
-cellular response to heat	GO:0072661	na
-cellular response to growth factor stimulus	GO:0072661	na
-negative regulation of neuron death	GO:0072661	na
-negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO:0072661	na
-stem cell population maintenance	GO:0072661	na
-positive regulation of nitric oxide biosynthetic process	GO:0072661	na
-cardiac muscle cell action potential involved in contraction	GO:0072661	na
-regulation of heart rate by cardiac conduction	GO:0072661	na
-positive regulation of extrinsic apoptotic signaling pathway	GO:0072661	na
-regulation of protein localization	GO:0072661	na
-positive regulation of neuron apoptotic process	GO:0072661	na
-positive regulation of erythrocyte differentiation	GO:0072661	na
-pulmonary valve morphogenesis	GO:0072661	na
-telomere maintenance via recombination	GO:0072661	na
-regulation of centrosome duplication	GO:0072661	na
-negative regulation of MAP kinase activity	GO:0072661	na
-protein localization	GO:0072661	na
-phospholipase C-activating G-protein coupled receptor signaling pathway	GO:0072661	na
-learning or memory	GO:0072661	na
-osteoblast differentiation	GO:0072661	na
-epithelial to mesenchymal transition	GO:0072661	na
-negative regulation of DNA damage response, signal transduction by p53 class mediator	GO:0072661	na
-negative regulation of anoikis	GO:0072661	na
-cell separation after cytokinesis	GO:0072661	na
-establishment of protein localization	GO:0072661	na
-negative regulation of cell death	GO:0072661	na
-regulation of mitotic spindle assembly	GO:0072661	na
-ureteric bud development	GO:0072661	na
-branching involved in ureteric bud morphogenesis	GO:0072661	na
-kidney development	GO:0072661	na
-negative regulation of androgen receptor signaling pathway	GO:0072661	na
-positive regulation of NIK/NF-kappaB signaling	GO:0072661	na
-negative regulation of release of cytochrome c from mitochondria	GO:0072661	na
-negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO:0072661	na
-regulation of defense response to virus by virus	GO:0072661	na
-erythrocyte differentiation	GO:0072661	na
-cartilage development	GO:0072661	na
-positive regulation of membrane protein ectodomain proteolysis	GO:0072661	na
-response to calcium ion	GO:0072661	na
-cellular defense response	GO:0072661	na
-positive regulation of monocyte chemotaxis	GO:0072661	na
-regulation of angiogenesis	GO:0072661	na
-neuron development	GO:0072661	na
-mitophagy	GO:0072661	na
-regulation of dopamine secretion	GO:0072661	na
-positive regulation of protein binding	GO:0072661	na
-positive regulation of DNA binding	GO:0072661	na
-positive regulation of muscle cell differentiation	GO:0072661	na
-negative regulation of DNA binding	GO:0072661	na
-cellular response to gamma radiation	GO:0072661	na
-positive regulation of neuron differentiation	GO:0072661	na
-lung development	GO:0072661	na
-adenylate cyclase-activating adrenergic receptor signaling pathway	GO:0072661	na
-positive regulation of fat cell differentiation	GO:0072661	na
-positive regulation of glucose import	GO:0072661	na
-regulation of cyclin-dependent protein serine/threonine kinase activity	GO:0072661	na
-cell morphogenesis	GO:0072661	na
-positive regulation of receptor internalization	GO:0072661	na
-error-prone translesion synthesis	GO:0072661	na
-peptidyl-tyrosine phosphorylation	GO:0072661	na
-peptidyl-tyrosine autophosphorylation	GO:0072661	na
-positive regulation of tyrosine phosphorylation of STAT protein	GO:0072661	na
-regulation of inflammatory response	GO:0072661	na
-JAK-STAT cascade involved in growth hormone signaling pathway	GO:0072661	na
-response to drug	GO:0072661	na
-cellular calcium ion homeostasis	GO:0072661	na
-antibacterial humoral response	GO:0072661	na
-telomere maintenance via telomerase	GO:0072661	na
-positive regulation of cAMP biosynthetic process	GO:0072661	na
-receptor internalization	GO:0072661	na
-protein localization to plasma membrane	GO:0072661	na
-vasculogenesis	GO:0072661	na
-cellular response to estradiol stimulus	GO:0072661	na
-histone deacetylation	GO:0072661	na
-nucleotide-excision repair	GO:0072661	na
-telomere maintenance	GO:0072661	na
-DNA double-strand break processing	GO:0072661	na
-positive regulation of protein autophosphorylation	GO:0072661	na
-membrane depolarization during cardiac muscle cell action potential	GO:0072661	na
-cellular iron ion homeostasis	GO:0072661	na
-positive regulation of nitric-oxide synthase activity	GO:0072661	na
-regulation of ventricular cardiac muscle cell membrane repolarization	GO:0072661	na
-positive regulation of activated T cell proliferation	GO:0072661	na
-negative regulation of osteoblast differentiation	GO:0072661	na
-positive regulation of p38MAPK cascade	GO:0072661	na
-positive regulation of histone acetylation	GO:0072661	na
-humoral immune response	GO:0072661	na
-positive regulation of mitotic cell cycle	GO:0072661	na
-sensory perception of pain	GO:0072661	na
-negative regulation of adenylate cyclase activity	GO:0072661	na
-triglyceride metabolic process	GO:0072661	na
-cholesterol metabolic process	GO:0072661	na
-positive regulation of heterotypic cell-cell adhesion	GO:0072661	na
-negative regulation of G1/S transition of mitotic cell cycle	GO:0072661	na
-positive regulation of cardiac muscle hypertrophy	GO:0072661	na
-positive regulation of MAP kinase activity	GO:0072661	na
-SRP-dependent cotranslational protein targeting to membrane	GO:0072661	na
-calcium-mediated signaling using intracellular calcium source	GO:0072661	na
-cellular response to hydrogen peroxide	GO:0072661	na
-nitric oxide mediated signal transduction	GO:0072661	na
-positive regulation of catalytic activity	GO:0072661	na
-DNA damage response, detection of DNA damage	GO:0072661	na
-response to cytokine	GO:0072661	na
-positive regulation of neuron death	GO:0072661	na
-negative regulation of smooth muscle cell proliferation	GO:0072661	na
-autophagosome maturation	GO:0072661	na
-positive regulation of protein localization to nucleus	GO:0072661	na
-activin receptor signaling pathway	GO:0072661	na
-positive regulation of cardiac muscle cell proliferation	GO:0072661	na
-high-density lipoprotein particle remodeling	GO:0072661	na
-reverse cholesterol transport	GO:0072661	na
-negative regulation of macrophage derived foam cell differentiation	GO:0072661	na
-positive regulation of cholesterol efflux	GO:0072661	na
-phospholipid efflux	GO:0072661	na
-inner ear development	GO:0072661	na
-positive regulation of cytokine secretion	GO:0072661	na
-blood circulation	GO:0072661	na
-regulation of mitochondrial membrane potential	GO:0072661	na
-activation of phospholipase C activity	GO:0072661	na
-ovarian follicle development	GO:0072661	na
-positive regulation of collagen biosynthetic process	GO:0072661	na
-fibrinolysis	GO:0072661	na
-blood vessel remodeling	GO:0072661	na
-positive regulation of branching involved in ureteric bud morphogenesis	GO:0072661	na
-positive regulation of vascular endothelial growth factor production	GO:0072661	na
-response to hormone	GO:0072661	na
-positive regulation of pri-miRNA transcription from RNA polymerase II promoter	GO:0072661	na
-negative regulation of fibroblast proliferation	GO:0072661	na
-positive regulation of blood vessel endothelial cell migration	GO:0072661	na
-positive regulation of interleukin-17 production	GO:0072661	na
-protein kinase B signaling	GO:0072661	na
-positive regulation of SMAD protein import into nucleus	GO:0072661	na
-cellular response to organic cyclic compound	GO:0072661	na
-positive regulation of transcription regulatory region DNA binding	GO:0072661	na
-positive regulation of heart rate	GO:0072661	na
-positive regulation of JAK-STAT cascade	GO:0072661	na
-positive regulation of glycogen biosynthetic process	GO:0072661	na
-G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	GO:0072661	na
-positive regulation of osteoclast differentiation	GO:0072661	na
-T cell activation involved in immune response	GO:0072661	na
-natural killer cell activation involved in immune response	GO:0072661	na
-B cell differentiation	GO:0072661	na
-positive regulation of peptidyl-serine phosphorylation of STAT protein	GO:0072661	na
-B cell proliferation	GO:0072661	na
-regulation of type I interferon-mediated signaling pathway	GO:0072661	na
-positive regulation of vascular endothelial growth factor receptor signaling pathway	GO:0072661	na
-skin development	GO:0072661	na
-triglyceride homeostasis	GO:0072661	na
-positive regulation of substrate adhesion-dependent cell spreading	GO:0072661	na
-response to glucose	GO:0072661	na
-endodermal cell differentiation	GO:0072661	na
-positive regulation of B cell proliferation	GO:0072661	na
-cell adhesion mediated by integrin	GO:0072661	na
-positive regulation of focal adhesion assembly	GO:0072661	na
-sympathetic nervous system development	GO:0072661	na
-drug metabolic process	GO:0072661	na
-epoxygenase P450 pathway	GO:0072661	na
-cell communication by electrical coupling involved in cardiac conduction	GO:0072661	na
-regulation of NMDA receptor activity	GO:0072661	na
-leukocyte cell-cell adhesion	GO:0072661	na
-negative regulation of phosphorylation	GO:0072661	na
-lipid homeostasis	GO:0072661	na
-nucleotide-excision repair, DNA gap filling	GO:0072661	na
-macrophage differentiation	GO:0072661	na
-odontogenesis	GO:0072661	na
-nucleotide-excision repair, preincision complex stabilization	GO:0072661	na
-nucleotide-excision repair, DNA incision, 3'-to lesion	GO:0072661	na
-nucleotide-excision repair, DNA incision, 5'-to lesion	GO:0072661	na
-global genome nucleotide-excision repair	GO:0072661	na
-positive regulation of endothelial cell apoptotic process	GO:0072661	na
-nucleotide-excision repair, DNA damage recognition	GO:0072661	na
-nucleotide-excision repair, DNA duplex unwinding	GO:0072661	na
-nucleotide-excision repair, preincision complex assembly	GO:0072661	na
-regulation of type I interferon production	GO:0072661	na
-error-free translesion synthesis	GO:0072661	na
-mRNA transcription from RNA polymerase II promoter	GO:0072661	na
-endocardial cushion morphogenesis	GO:0072661	na
-cardiac right ventricle morphogenesis	GO:0072661	na
-ventricular cardiac muscle cell action potential	GO:0072661	na
-protein targeting to plasma membrane	GO:0072661	na
+receptor-mediated endocytosis	GO:0016573	na
+complement activation	GO:0016573	na
+complement activation, classical pathway	GO:0016573	na
+regulation of complement activation	GO:0016573	na
+Fc-epsilon receptor signaling pathway	GO:0016573	na
+Fc-gamma receptor signaling pathway involved in phagocytosis	GO:0016573	na
+regulation of immune response	GO:0016573	na
+leukocyte migration	GO:0016573	na
+phagocytosis, recognition	GO:0016573	na
+phagocytosis, engulfment	GO:0016573	na
+defense response to bacterium	GO:0016573	na
+innate immune response	GO:0016573	na
+B cell receptor signaling pathway	GO:0016573	na
+positive regulation of B cell activation	GO:0016573	na
+intracellular protein transport	GO:0016573	na
+regulation of vesicle fusion	GO:0016573	na
+activation of GTPase activity	GO:0016573	na
+xenobiotic metabolic process	GO:0016573	na
+arachidonic acid metabolic process	GO:0016573	na
+exogenous drug catabolic process	GO:0016573	na
+aerobic respiration	GO:0016573	na
+activation of protein kinase activity	GO:0016573	na
+nuclear-transcribed mRNA catabolic process	GO:0016573	na
+cellular response to amino acid stimulus	GO:0016573	na
+negative regulation of TORC1 signaling	GO:0016573	na
+smoothened signaling pathway	GO:0016573	na
+intraciliary transport involved in cilium assembly	GO:0016573	na
+cilium assembly	GO:0016573	na
+protein polyubiquitination	GO:0016573	na
+protein ubiquitination	GO:0016573	na
+ubiquitin-dependent ERAD pathway	GO:0016573	na
+retrograde protein transport, ER to cytosol	GO:0016573	na
+negative regulation of transcription from RNA polymerase II promoter	GO:0016573	na
+placenta development	GO:0016573	na
+sprouting angiogenesis	GO:0016573	na
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO:0016573	na
+negative regulation of cytokinesis	GO:0016573	na
+positive regulation of transcription from RNA polymerase II promoter	GO:0016573	na
+ubiquitin-dependent protein catabolic process	GO:0016573	na
+glycosphingolipid metabolic process	GO:0016573	na
+Ras protein signal transduction	GO:0016573	na
+axonogenesis	GO:0016573	na
+positive regulation of axon extension	GO:0016573	na
+neuron projection morphogenesis	GO:0016573	na
+regulation of establishment of cell polarity	GO:0016573	na
+positive regulation of neuron migration	GO:0016573	na
+sodium ion transport	GO:0016573	na
+negative regulation of autophagy	GO:0016573	na
+cellular response to amino acid starvation	GO:0016573	na
+apoptotic signaling pathway	GO:0016573	na
+O-glycan processing	GO:0016573	na
+fat cell differentiation	GO:0016573	na
+protein heterooligomerization	GO:0016573	na
+regulation of small GTPase mediated signal transduction	GO:0016573	na
+autophagosome assembly	GO:0016573	na
+positive regulation of protein phosphorylation	GO:0016573	na
+positive regulation of autophagy	GO:0016573	na
+positive regulation of peptidyl-threonine phosphorylation	GO:0016573	na
+protein destabilization	GO:0016573	na
+positive regulation of peptidyl-serine phosphorylation	GO:0016573	na
+regulation of protein complex assembly	GO:0016573	na
+protein stabilization	GO:0016573	na
+defense response to Gram-negative bacterium	GO:0016573	na
+regulation of protein complex stability	GO:0016573	na
+nucleotide-binding oligomerization domain containing 2 signaling pathway	GO:0016573	na
+cellular response to lipopolysaccharide	GO:0016573	na
+positive regulation of protein serine/threonine kinase activity	GO:0016573	na
+autophagy of host cells involved in interaction with symbiont	GO:0016573	na
+cellular response to virus	GO:0016573	na
+transcription from RNA polymerase II promoter	GO:0016573	na
+positive regulation of transcription, DNA-templated	GO:0016573	na
+keratinization	GO:0016573	na
+chloride transport	GO:0016573	na
+ion transmembrane transport	GO:0016573	na
+inflammatory response	GO:0016573	na
+positive regulation of gene expression	GO:0016573	na
+regulation of actin cytoskeleton organization	GO:0016573	na
+odontogenesis of dentin-containing tooth	GO:0016573	na
+positive regulation of GTPase activity	GO:0016573	na
+cellular protein metabolic process	GO:0016573	na
+positive regulation of epithelial cell proliferation involved in wound healing	GO:0016573	na
+small GTPase mediated signal transduction	GO:0016573	na
+hydrogen peroxide catabolic process	GO:0016573	na
+oxidation-reduction process	GO:0016573	na
+cell surface receptor signaling pathway	GO:0016573	na
+mitochondrial respiratory chain complex I assembly	GO:0016573	na
+reciprocal meiotic recombination	GO:0016573	na
+spermatogenesis	GO:0016573	na
+long-chain fatty-acyl-CoA biosynthetic process	GO:0016573	na
+very long-chain fatty acid biosynthetic process	GO:0016573	na
+skeletal system development	GO:0016573	na
+eye development	GO:0016573	na
+superoxide metabolic process	GO:0016573	na
+heart development	GO:0016573	na
+extracellular matrix disassembly	GO:0016573	na
+bone development	GO:0016573	na
+adipose tissue development	GO:0016573	na
+podosome assembly	GO:0016573	na
+protein localization to membrane	GO:0016573	na
+negative regulation of cell proliferation	GO:0016573	na
+cellular response to DNA damage stimulus	GO:0016573	na
+3'-UTR-mediated mRNA destabilization	GO:0016573	na
+actomyosin structure organization	GO:0016573	na
+skeletal muscle contraction	GO:0016573	na
+RNA secondary structure unwinding	GO:0016573	na
+regulation of transcription, DNA-templated	GO:0016573	na
+retrograde vesicle-mediated transport, Golgi to ER	GO:0016573	na
+positive regulation of T cell differentiation in thymus	GO:0016573	na
+positive regulation of T cell receptor signaling pathway	GO:0016573	na
+striated muscle contraction	GO:0016573	na
+actin filament organization	GO:0016573	na
+sarcomere organization	GO:0016573	na
+striated muscle myosin thick filament assembly	GO:0016573	na
+endosome to lysosome transport	GO:0016573	na
+cellular protein catabolic process	GO:0016573	na
+membrane organization	GO:0016573	na
+negative regulation of canonical Wnt signaling pathway	GO:0016573	na
+G-protein coupled receptor signaling pathway	GO:0016573	na
+sensory perception of smell	GO:0016573	na
+protein O-linked mannosylation	GO:0016573	na
+regulation of proteolysis	GO:0016573	na
+signal transduction	GO:0016573	na
+maintenance of epithelial cell apical/basal polarity	GO:0016573	na
+regulation of exit from mitosis	GO:0016573	na
+mitotic spindle midzone assembly	GO:0016573	na
+mitotic cell cycle arrest	GO:0016573	na
+mismatch repair	GO:0016573	na
+resolution of meiotic recombination intermediates	GO:0016573	na
+double-strand break repair	GO:0016573	na
+replication fork processing	GO:0016573	na
+intra-S DNA damage checkpoint	GO:0016573	na
+retina homeostasis	GO:0016573	na
+positive regulation of sequestering of triglyceride	GO:0016573	na
+lipid storage	GO:0016573	na
+lipid particle organization	GO:0016573	na
+endosomal transport	GO:0016573	na
+macroautophagy	GO:0016573	na
+viral life cycle	GO:0016573	na
+multivesicular body assembly	GO:0016573	na
+viral budding via host ESCRT complex	GO:0016573	na
+intracellular transport of virus	GO:0016573	na
+cilium movement	GO:0016573	na
+determination of left/right symmetry	GO:0016573	na
+outer dynein arm assembly	GO:0016573	na
+regulation of cilium assembly	GO:0016573	na
+MAPK cascade	GO:0016573	na
+stimulatory C-type lectin receptor signaling pathway	GO:0016573	na
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	GO:0016573	na
+proteolysis	GO:0016573	na
+regulation of cellular amino acid metabolic process	GO:0016573	na
+negative regulation of G2/M transition of mitotic cell cycle	GO:0016573	na
+protein deubiquitination	GO:0016573	na
+anaphase-promoting complex-dependent catabolic process	GO:0016573	na
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	GO:0016573	na
+tumor necrosis factor-mediated signaling pathway	GO:0016573	na
+NIK/NF-kappaB signaling	GO:0016573	na
+proteasome-mediated ubiquitin-dependent protein catabolic process	GO:0016573	na
+regulation of mRNA stability	GO:0016573	na
+post-translational protein modification	GO:0016573	na
+T cell receptor signaling pathway	GO:0016573	na
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	GO:0016573	na
+transmembrane transport	GO:0016573	na
+Wnt signaling pathway, planar cell polarity pathway	GO:0016573	na
+regulation of transcription from RNA polymerase II promoter in response to hypoxia	GO:0016573	na
+positive regulation of canonical Wnt signaling pathway	GO:0016573	na
+nuclear-transcribed mRNA poly(A) tail shortening	GO:0016573	na
+negative regulation of translation	GO:0016573	na
+negative regulation of intracellular estrogen receptor signaling pathway	GO:0016573	na
+gene silencing by miRNA	GO:0016573	na
+negative regulation of retinoic acid receptor signaling pathway	GO:0016573	na
+positive regulation of nuclear-transcribed mRNA poly(A) tail shortening	GO:0016573	na
+positive regulation of mRNA catabolic process	GO:0016573	na
+positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	GO:0016573	na
+regulation of stem cell population maintenance	GO:0016573	na
+retina layer formation	GO:0016573	na
+cell-cell signaling	GO:0016573	na
+nervous system development	GO:0016573	na
+positive regulation of cytokine production	GO:0016573	na
+cytoskeleton-dependent intracellular transport	GO:0016573	na
+cytoplasmic microtubule organization	GO:0016573	na
+positive regulation of T cell proliferation	GO:0016573	na
+positive regulation of T cell activation	GO:0016573	na
+negative regulation of protein sumoylation	GO:0016573	na
+transcription, DNA-templated	GO:0016573	na
+positive regulation of cell proliferation	GO:0016573	na
+hypothalamus development	GO:0016573	na
+cell differentiation	GO:0016573	na
+embryonic heart tube development	GO:0016573	na
+negative regulation of apoptotic process	GO:0016573	na
+digestive tract development	GO:0016573	na
+pharyngeal system development	GO:0016573	na
+C-terminal protein lipidation	GO:0016573	na
+single fertilization	GO:0016573	na
+BMP signaling pathway	GO:0016573	na
+response to lipopolysaccharide	GO:0016573	na
+male gonad development	GO:0016573	na
+dephosphorylation	GO:0016573	na
+peptidyl-tyrosine dephosphorylation	GO:0016573	na
+negative regulation of gluconeogenesis	GO:0016573	na
+cell-matrix adhesion	GO:0016573	na
+regulation of mitotic cell cycle	GO:0016573	na
+response to virus	GO:0016573	na
+negative regulation of viral genome replication	GO:0016573	na
+RNA export from nucleus	GO:0016573	na
+protein import into nucleus	GO:0016573	na
+cellular response to starvation	GO:0016573	na
+negative regulation of cell cycle arrest	GO:0016573	na
+negative regulation of Wnt signaling pathway	GO:0016573	na
+positive regulation of protein oligomerization	GO:0016573	na
+triglyceride catabolic process	GO:0016573	na
+sensory perception of sound	GO:0016573	na
+regulation of alternative mRNA splicing, via spliceosome	GO:0016573	na
+positive regulation of cell migration	GO:0016573	na
+positive regulation of protein targeting to membrane	GO:0016573	na
+inner dynein arm assembly	GO:0016573	na
+glutathione metabolic process	GO:0016573	na
+leukotriene biosynthetic process	GO:0016573	na
+protein secretion	GO:0016573	na
+vesicle-mediated transport	GO:0016573	na
+regulation of protein kinase activity	GO:0016573	na
+regulation of transcription from RNA polymerase II promoter	GO:0016573	na
+neuron fate commitment	GO:0016573	na
+stem cell differentiation	GO:0016573	na
+mesoderm formation	GO:0016573	na
+somitogenesis	GO:0016573	na
+embryonic pattern specification	GO:0016573	na
+neuron differentiation	GO:0016573	na
+lipoprotein transport	GO:0016573	na
+response to hypoxia	GO:0016573	na
+cytoskeleton organization	GO:0016573	na
+regulation of cell morphogenesis	GO:0016573	na
+negative regulation of hippo signaling	GO:0016573	na
+positive regulation of gene silencing by miRNA	GO:0016573	na
+negative regulation of protein kinase activity	GO:0016573	na
+cytokine-mediated signaling pathway	GO:0016573	na
+negative regulation of JAK-STAT cascade	GO:0016573	na
+embryo implantation	GO:0016573	na
+negative regulation of NF-kappaB transcription factor activity	GO:0016573	na
+negative regulation of type I interferon production	GO:0016573	na
+negative regulation of toll-like receptor 4 signaling pathway	GO:0016573	na
+cellular response to interferon-beta	GO:0016573	na
+negative regulation of innate immune response	GO:0016573	na
+negative regulation of inflammatory response	GO:0016573	na
+cellular response to interferon-gamma	GO:0016573	na
+cellular response to interleukin-1	GO:0016573	na
+cellular response to tumor necrosis factor	GO:0016573	na
+positive regulation of reactive oxygen species metabolic process	GO:0016573	na
+cellular nitrogen compound metabolic process	GO:0016573	na
+cerebral cortex development	GO:0016573	na
+hormone-mediated signaling pathway	GO:0016573	na
+regulation of short-term neuronal synaptic plasticity	GO:0016573	na
+transcription elongation from RNA polymerase II promoter	GO:0016573	na
+vesicle fusion	GO:0016573	na
+regulation of calcium ion-dependent exocytosis	GO:0016573	na
+calcium ion-regulated exocytosis of neurotransmitter	GO:0016573	na
+regulation of double-strand break repair via homologous recombination	GO:0016573	na
+mRNA polyadenylation	GO:0016573	na
+pre-mRNA cleavage required for polyadenylation	GO:0016573	na
+positive regulation of acrosome reaction	GO:0016573	na
+collagen catabolic process	GO:0016573	na
+bone mineralization	GO:0016573	na
+bone morphogenesis	GO:0016573	na
+positive regulation of apoptotic process	GO:0016573	na
+protein K63-linked deubiquitination	GO:0016573	na
+protein K48-linked deubiquitination	GO:0016573	na
+mRNA splicing, via spliceosome	GO:0016573	na
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process	GO:0016573	na
+SMAD protein signal transduction	GO:0016573	na
+mRNA processing	GO:0016573	na
+regulation of RNA splicing	GO:0016573	na
+cognition	GO:0016573	na
+mRNA export from nucleus	GO:0016573	na
+tRNA export from nucleus	GO:0016573	na
+mitotic nuclear envelope disassembly	GO:0016573	na
+regulation of glucose transport	GO:0016573	na
+viral process	GO:0016573	na
+protein sumoylation	GO:0016573	na
+viral transcription	GO:0016573	na
+regulation of gene silencing by miRNA	GO:0016573	na
+regulation of cellular response to heat	GO:0016573	na
+exocytosis	GO:0016573	na
+positive regulation of pseudopodium assembly	GO:0016573	na
+regulation of protein ubiquitination	GO:0016573	na
+Arp2/3 complex-mediated actin nucleation	GO:0016573	na
+retrograde transport, endosome to Golgi	GO:0016573	na
+retrograde transport, endosome to plasma membrane	GO:0016573	na
+regulation of endopeptidase activity	GO:0016573	na
+Rho protein signal transduction	GO:0016573	na
+regulation of cell shape	GO:0016573	na
+positive regulation of actin filament polymerization	GO:0016573	na
+G2/M transition of mitotic cell cycle	GO:0016573	na
+negative regulation of phosphatase activity	GO:0016573	na
+ciliary basal body docking	GO:0016573	na
+chemical synaptic transmission	GO:0016573	na
+positive regulation of protein ubiquitination	GO:0016573	na
+CENP-A containing nucleosome assembly	GO:0016573	na
+interstrand cross-link repair	GO:0016573	na
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	GO:0016573	na
+adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	GO:0016573	na
+positive regulation of vasoconstriction	GO:0016573	na
+centrosome cycle	GO:0016573	na
+autophagy	GO:0016573	na
+cellular response to nitrogen starvation	GO:0016573	na
+nucleophagy	GO:0016573	na
+oogenesis	GO:0016573	na
+fatty acid catabolic process	GO:0016573	na
+positive regulation of dendritic spine development	GO:0016573	na
+NLS-bearing protein import into nucleus	GO:0016573	na
+T cell migration	GO:0016573	na
+actin filament bundle assembly	GO:0016573	na
+calcium ion import across plasma membrane	GO:0016573	na
+apoptotic process	GO:0016573	na
+cell cycle arrest	GO:0016573	na
+visual perception	GO:0016573	na
+muscle organ development	GO:0016573	na
+histone H3-K9 demethylation	GO:0016573	na
+translational initiation	GO:0016573	na
+neutrophil degranulation	GO:0016573	na
+potassium ion import	GO:0016573	na
+negative regulation of transcription, DNA-templated	GO:0016573	na
+positive regulation of I-kappaB kinase/NF-kappaB signaling	GO:0016573	na
+mitochondrion organization	GO:0016573	na
+microtubule-based movement	GO:0016573	na
+protein targeting to lysosome	GO:0016573	na
+endosome organization	GO:0016573	na
+early endosome to late endosome transport	GO:0016573	na
+protein glycosylation	GO:0016573	na
+negative regulation of Ras protein signal transduction	GO:0016573	na
+cytoplasmic mRNA processing body assembly	GO:0016573	na
+regulation of epithelial to mesenchymal transition	GO:0016573	na
+motile cilium assembly	GO:0016573	na
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	GO:0016573	na
+positive regulation of viral process	GO:0016573	na
+regulation of protein stability	GO:0016573	na
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	GO:0016573	na
+tyrosine phosphorylation of STAT protein	GO:0016573	na
+defense response to virus	GO:0016573	na
+DNA metabolic process	GO:0016573	na
+apoptotic DNA fragmentation	GO:0016573	na
+lipid biosynthetic process	GO:0016573	na
+mitotic spindle organization	GO:0016573	na
+sister chromatid cohesion	GO:0016573	na
+antigen processing and presentation of exogenous peptide antigen via MHC class II	GO:0016573	na
+mitotic spindle assembly	GO:0016573	na
+regulation of cell growth	GO:0016573	na
+protein phosphorylation	GO:0016573	na
+long-term memory	GO:0016573	na
+regulation of blood pressure	GO:0016573	na
+peptidyl-serine phosphorylation	GO:0016573	na
+regulation of cell migration	GO:0016573	na
+positive regulation of transporter activity	GO:0016573	na
+intracellular signal transduction	GO:0016573	na
+regulation of cell proliferation	GO:0016573	na
+regulation of apoptotic process	GO:0016573	na
+regulation of catalytic activity	GO:0016573	na
+regulation of sequence-specific DNA binding transcription factor activity	GO:0016573	na
+nucleobase-containing compound metabolic process	GO:0016573	na
+ossification	GO:0016573	na
+release of cytochrome c from mitochondria	GO:0016573	na
+positive regulation of bone mineralization	GO:0016573	na
+negative regulation of neuron apoptotic process	GO:0016573	na
+regulation of cytosolic calcium ion concentration	GO:0016573	na
+negative regulation of necroptotic process	GO:0016573	na
+positive regulation of neural precursor cell proliferation	GO:0016573	na
+termination of RNA polymerase II transcription	GO:0016573	na
+regulation of gene expression	GO:0016573	na
+mRNA 3'-end processing	GO:0016573	na
+acyl-CoA metabolic process	GO:0016573	na
+protein targeting	GO:0016573	na
+protein targeting to membrane	GO:0016573	na
+positive regulation of gene expression, epigenetic	GO:0016573	na
+regulation of bicellular tight junction assembly	GO:0016573	na
+post-Golgi vesicle-mediated transport	GO:0016573	na
+vesicle targeting	GO:0016573	na
+synaptic vesicle priming	GO:0016573	na
+synaptic vesicle fusion to presynaptic active zone membrane	GO:0016573	na
+membrane fusion	GO:0016573	na
+positive regulation of phosphatidylinositol 3-kinase signaling	GO:0016573	na
+regulation of actin filament polymerization	GO:0016573	na
+positive regulation of granulocyte differentiation	GO:0016573	na
+positive regulation of peptidyl-tyrosine phosphorylation	GO:0016573	na
+positive regulation of protein kinase B signaling	GO:0016573	na
+cellular response to cytokine stimulus	GO:0016573	na
+regulation of mitophagy	GO:0016573	na
+regulation of protein targeting to mitochondrion	GO:0016573	na
+positive regulation of actin cytoskeleton reorganization	GO:0016573	na
+positive regulation of DNA repair	GO:0016573	na
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO:0016573	na
+muscle contraction	GO:0016573	na
+regulation of heart contraction	GO:0016573	na
+regulation of cardiac muscle cell membrane potential	GO:0016573	na
+regulation of cardiac conduction	GO:0016573	na
+regulation of sodium ion transmembrane transporter activity	GO:0016573	na
+protein targeting to mitochondrion	GO:0016573	na
+positive regulation of endothelial cell proliferation	GO:0016573	na
+monocyte chemotaxis	GO:0016573	na
+chemotaxis	GO:0016573	na
+neutrophil chemotaxis	GO:0016573	na
+eosinophil chemotaxis	GO:0016573	na
+lymphocyte chemotaxis	GO:0016573	na
+chemokine-mediated signaling pathway	GO:0016573	na
+positive regulation of ERK1 and ERK2 cascade	GO:0016573	na
+potassium ion transport	GO:0016573	na
+sodium ion transmembrane transport	GO:0016573	na
+cardiac conduction	GO:0016573	na
+potassium ion transmembrane transport	GO:0016573	na
+female pregnancy	GO:0016573	na
+negative regulation of gene expression	GO:0016573	na
+negative regulation of interferon-gamma production	GO:0016573	na
+negative regulation of tumor necrosis factor production	GO:0016573	na
+positive regulation of interleukin-4 production	GO:0016573	na
+positive regulation of NF-kappaB import into nucleus	GO:0016573	na
+negative regulation of activated T cell proliferation	GO:0016573	na
+positive regulation of viral entry into host cell	GO:0016573	na
+positive regulation of interleukin-1 beta secretion	GO:0016573	na
+positive regulation of NF-kappaB transcription factor activity	GO:0016573	na
+ERK1 and ERK2 cascade	GO:0016573	na
+response to interleukin-1	GO:0016573	na
+positive regulation of transforming growth factor beta production	GO:0016573	na
+positive regulation of interferon-gamma secretion	GO:0016573	na
+positive regulation of interleukin-8 secretion	GO:0016573	na
+positive regulation of dendritic cell chemotaxis	GO:0016573	na
+positive regulation of interleukin-6 secretion	GO:0016573	na
+positive regulation of dendritic cell differentiation	GO:0016573	na
+toll-like receptor 2 signaling pathway	GO:0016573	na
+toll-like receptor 4 signaling pathway	GO:0016573	na
+mature conventional dendritic cell differentiation	GO:0016573	na
+regulation of p38MAPK cascade	GO:0016573	na
+platelet aggregation	GO:0016573	na
+complement activation, lectin pathway	GO:0016573	na
+Golgi to endosome transport	GO:0016573	na
+platelet degranulation	GO:0016573	na
+melanosome transport	GO:0016573	na
+positive regulation of exocytosis	GO:0016573	na
+multivesicular body sorting pathway	GO:0016573	na
+positive regulation of protein homooligomerization	GO:0016573	na
+positive regulation of release of cytochrome c from mitochondria	GO:0016573	na
+anterograde axonal transport	GO:0016573	na
+melanosome organization	GO:0016573	na
+anterograde synaptic vesicle transport	GO:0016573	na
+steroid metabolic process	GO:0016573	na
+3'-phosphoadenosine 5'-phosphosulfate metabolic process	GO:0016573	na
+activation of MAPK activity	GO:0016573	na
+toll-like receptor signaling pathway	GO:0016573	na
+MyD88-dependent toll-like receptor signaling pathway	GO:0016573	na
+MyD88-independent toll-like receptor signaling pathway	GO:0016573	na
+I-kappaB kinase/NF-kappaB signaling	GO:0016573	na
+I-kappaB phosphorylation	GO:0016573	na
+lipopolysaccharide-mediated signaling pathway	GO:0016573	na
+negative regulation of interleukin-17 production	GO:0016573	na
+negative regulation of interleukin-6 production	GO:0016573	na
+positive regulation of chemokine production	GO:0016573	na
+positive regulation of interferon-alpha production	GO:0016573	na
+positive regulation of interferon-beta production	GO:0016573	na
+positive regulation of interferon-gamma production	GO:0016573	na
+positive regulation of interleukin-10 production	GO:0016573	na
+positive regulation of interleukin-12 production	GO:0016573	na
+positive regulation of interleukin-6 production	GO:0016573	na
+positive regulation of interleukin-8 production	GO:0016573	na
+positive regulation of tumor necrosis factor production	GO:0016573	na
+negative regulation of MyD88-independent toll-like receptor signaling pathway	GO:0016573	na
+TRIF-dependent toll-like receptor signaling pathway	GO:0016573	na
+macrophage activation	GO:0016573	na
+positive regulation of tumor necrosis factor biosynthetic process	GO:0016573	na
+positive regulation of interleukin-8 biosynthetic process	GO:0016573	na
+negative regulation of osteoclast differentiation	GO:0016573	na
+interleukin-1 beta secretion	GO:0016573	na
+positive regulation of inflammatory response	GO:0016573	na
+positive regulation of nitric-oxide synthase biosynthetic process	GO:0016573	na
+necroptotic process	GO:0016573	na
+negative regulation of ERK1 and ERK2 cascade	GO:0016573	na
+cellular response to mechanical stimulus	GO:0016573	na
+lamellipodium assembly	GO:0016573	na
+positive regulation of cell adhesion	GO:0016573	na
+focal adhesion assembly	GO:0016573	na
+negative regulation of cell growth	GO:0016573	na
+histone H4 acetylation	GO:0016573	na
+mitochondrial electron transport, NADH to ubiquinone	GO:0016573	na
+carbohydrate metabolic process	GO:0016573	na
+hyaluronan biosynthetic process	GO:0016573	na
+extracellular matrix assembly	GO:0016573	na
+activation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0016573	na
+activation of NF-kappaB-inducing kinase activity	GO:0016573	na
+multicellular organism development	GO:0016573	na
+extrinsic apoptotic signaling pathway via death domain receptors	GO:0016573	na
+extrinsic apoptotic signaling pathway	GO:0016573	na
+activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	GO:0016573	na
+regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO:0016573	na
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO:0016573	na
+cytoplasmic sequestering of transcription factor	GO:0016573	na
+adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway	GO:0016573	na
+negative regulation of cAMP biosynthetic process	GO:0016573	na
+regulation of synaptic transmission, glutamatergic	GO:0016573	na
+mitotic recombination	GO:0016573	na
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	GO:0016573	na
+positive regulation of insulin secretion	GO:0016573	na
+negative regulation of insulin secretion	GO:0016573	na
+central nervous system development	GO:0016573	na
+endoplasmic reticulum mannose trimming	GO:0016573	na
+cartilage condensation	GO:0016573	na
+chondrocyte development	GO:0016573	na
+proteoglycan biosynthetic process	GO:0016573	na
+positive regulation of chondrocyte differentiation	GO:0016573	na
+limb morphogenesis	GO:0016573	na
+positive regulation of cell differentiation	GO:0016573	na
+positive regulation of osteoblast differentiation	GO:0016573	na
+positive regulation of cartilage development	GO:0016573	na
+cellular response to BMP stimulus	GO:0016573	na
+cellular copper ion homeostasis	GO:0016573	na
+antimicrobial humoral response	GO:0016573	na
+neuropeptide signaling pathway	GO:0016573	na
+blood coagulation	GO:0016573	na
+platelet activation	GO:0016573	na
+positive regulation of Rho protein signal transduction	GO:0016573	na
+positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	GO:0016573	na
+chromatin remodeling	GO:0016573	na
+7-methylguanosine mRNA capping	GO:0016573	na
+cell cycle	GO:0016573	na
+positive regulation of macroautophagy	GO:0016573	na
+positive regulation of DNA-templated transcription, elongation	GO:0016573	na
+positive regulation of viral transcription	GO:0016573	na
+negative regulation of mRNA polyadenylation	GO:0016573	na
+DNA-templated transcription, initiation	GO:0016573	na
+transcription initiation from RNA polymerase II promoter	GO:0016573	na
+regulation of signal transduction by p53 class mediator	GO:0016573	na
+regulation of endocytosis	GO:0016573	na
+positive regulation of epidermal growth factor receptor signaling pathway	GO:0016573	na
+positive regulation of receptor-mediated endocytosis	GO:0016573	na
+clathrin coat assembly	GO:0016573	na
+transforming growth factor beta receptor signaling pathway	GO:0016573	na
+positive regulation of pathway-restricted SMAD protein phosphorylation	GO:0016573	na
+regulation of MAPK cascade	GO:0016573	na
+cell development	GO:0016573	na
+dendrite development	GO:0016573	na
+eye photoreceptor cell development	GO:0016573	na
+photoreceptor cell maintenance	GO:0016573	na
+positive regulation of phagocytosis	GO:0016573	na
+detection of light stimulus involved in visual perception	GO:0016573	na
+IRES-dependent viral translational initiation	GO:0016573	na
+neuromuscular junction development	GO:0016573	na
+membrane depolarization	GO:0016573	na
+cellular protein modification process	GO:0016573	na
+regulation of ion transmembrane transport	GO:0016573	na
+regulation of membrane potential	GO:0016573	na
+negative regulation of sequence-specific DNA binding transcription factor activity	GO:0016573	na
+viral entry into host cell	GO:0016573	na
+negative regulation of protein transport	GO:0016573	na
+protein autoubiquitination	GO:0016573	na
+protein K63-linked ubiquitination	GO:0016573	na
+regulation of potassium ion transmembrane transporter activity	GO:0016573	na
+G1/S transition of mitotic cell cycle	GO:0016573	na
+DNA replication	GO:0016573	na
+DNA replication initiation	GO:0016573	na
+phagocytosis	GO:0016573	na
+positive regulation of G2/M transition of mitotic cell cycle	GO:0016573	na
+cell cycle phase transition	GO:0016573	na
+epithelial cell differentiation	GO:0016573	na
+protein oligomerization	GO:0016573	na
+negative regulation of TOR signaling	GO:0016573	na
+circadian regulation of gene expression	GO:0016573	na
+positive regulation of circadian rhythm	GO:0016573	na
+negative regulation of fat cell differentiation	GO:0016573	na
+regulation of neurogenesis	GO:0016573	na
+regulation of insulin secretion	GO:0016573	na
+regulation of cell cycle	GO:0016573	na
+negative regulation of glucocorticoid receptor signaling pathway	GO:0016573	na
+regulation of cellular senescence	GO:0016573	na
+cytokine production	GO:0016573	na
+adaptive immune response	GO:0016573	na
+phosphatidylinositol biosynthetic process	GO:0016573	na
+axon guidance	GO:0016573	na
+T cell chemotaxis	GO:0016573	na
+phosphatidylinositol 3-kinase signaling	GO:0016573	na
+regulation of phosphatidylinositol 3-kinase signaling	GO:0016573	na
+phosphorylation	GO:0016573	na
+natural killer cell activation	GO:0016573	na
+T cell differentiation	GO:0016573	na
+T cell activation	GO:0016573	na
+B cell activation	GO:0016573	na
+mast cell degranulation	GO:0016573	na
+phosphatidylinositol-mediated signaling	GO:0016573	na
+pyruvate metabolic process	GO:0016573	na
+regulation of acetyl-CoA biosynthetic process from pyruvate	GO:0016573	na
+sulfation	GO:0016573	na
+ion transport	GO:0016573	na
+glutamate secretion	GO:0016573	na
+cell migration	GO:0016573	na
+thyroid gland development	GO:0016573	na
+hair follicle morphogenesis	GO:0016573	na
+thymus development	GO:0016573	na
+negative regulation of macroautophagy	GO:0016573	na
+ER to Golgi vesicle-mediated transport	GO:0016573	na
+protein complex assembly	GO:0016573	na
+membrane budding	GO:0016573	na
+movement of cell or subcellular component	GO:0016573	na
+actin polymerization or depolymerization	GO:0016573	na
+vesicle organization	GO:0016573	na
+ephrin receptor signaling pathway	GO:0016573	na
+regulation of nitric-oxide synthase activity	GO:0016573	na
+positive regulation of filopodium assembly	GO:0016573	na
+dendritic spine morphogenesis	GO:0016573	na
+cAMP catabolic process	GO:0016573	na
+cAMP-mediated signaling	GO:0016573	na
+cGMP-mediated signaling	GO:0016573	na
+cellular response to drug	GO:0016573	na
+cellular response to macrophage colony-stimulating factor stimulus	GO:0016573	na
+negative regulation of vascular permeability	GO:0016573	na
+establishment of endothelial barrier	GO:0016573	na
+cellular response to cGMP	GO:0016573	na
+cellular response to transforming growth factor beta stimulus	GO:0016573	na
+mitotic G2 DNA damage checkpoint	GO:0016573	na
+protein import into nucleus, translocation	GO:0016573	na
+ribosomal protein import into nucleus	GO:0016573	na
+positive regulation of protein import into nucleus	GO:0016573	na
+protein autophosphorylation	GO:0016573	na
+negative regulation of mRNA splicing, via spliceosome	GO:0016573	na
+microtubule cytoskeleton organization	GO:0016573	na
+brain development	GO:0016573	na
+translation	GO:0016573	na
+mitochondrial fission	GO:0016573	na
+dynamin family protein polymerization involved in mitochondrial fission	GO:0016573	na
+regulation of mitochondrion organization	GO:0016573	na
+peroxisome fission	GO:0016573	na
+mitochondrial fragmentation involved in apoptotic process	GO:0016573	na
+positive regulation of protein secretion	GO:0016573	na
+protein homotetramerization	GO:0016573	na
+mitochondrion morphogenesis	GO:0016573	na
+positive regulation of mitochondrial fission	GO:0016573	na
+execution phase of apoptosis	GO:0016573	na
+positive regulation of intrinsic apoptotic signaling pathway	GO:0016573	na
+endoplasmic reticulum organization	GO:0016573	na
+endocytosis	GO:0016573	na
+epidermal growth factor receptor signaling pathway	GO:0016573	na
+insulin receptor signaling pathway	GO:0016573	na
+platelet-derived growth factor receptor signaling pathway	GO:0016573	na
+centriole replication	GO:0016573	na
+synaptic vesicle endocytosis	GO:0016573	na
+transmembrane receptor protein tyrosine kinase signaling pathway	GO:0016573	na
+cellular glucose homeostasis	GO:0016573	na
+regulation of autophagy	GO:0016573	na
+cellular response to insulin stimulus	GO:0016573	na
+response to endoplasmic reticulum stress	GO:0016573	na
+positive regulation of transcription factor import into nucleus	GO:0016573	na
+phosphatidylinositol phosphorylation	GO:0016573	na
+vascular endothelial growth factor receptor signaling pathway	GO:0016573	na
+positive regulation of glucose import in response to insulin stimulus	GO:0016573	na
+positive regulation of sequence-specific DNA binding transcription factor activity	GO:0016573	na
+retinoid metabolic process	GO:0016573	na
+glycosaminoglycan biosynthetic process	GO:0016573	na
+glycosaminoglycan catabolic process	GO:0016573	na
+G-protein coupled acetylcholine receptor signaling pathway	GO:0016573	na
+extracellular matrix organization	GO:0016573	na
+glycosaminoglycan metabolic process	GO:0016573	na
+receptor clustering	GO:0016573	na
+synapse organization	GO:0016573	na
+protein O-linked glycosylation	GO:0016573	na
+negative regulation of myeloid cell differentiation	GO:0016573	na
+Golgi to plasma membrane transport	GO:0016573	na
+snRNA transcription from RNA polymerase II promoter	GO:0016573	na
+embryo development	GO:0016573	na
+homeostatic process	GO:0016573	na
+positive regulation of viral genome replication	GO:0016573	na
+double-strand break repair via homologous recombination	GO:0016573	na
+double-strand break repair via nonhomologous end joining	GO:0016573	na
+regulation of proteasomal protein catabolic process	GO:0016573	na
+nucleus organization	GO:0016573	na
+regulation of neuron differentiation	GO:0016573	na
+positive regulation of astrocyte differentiation	GO:0016573	na
+regulation of cell cycle arrest	GO:0016573	na
+outflow tract morphogenesis	GO:0016573	na
+cell-cell junction assembly	GO:0016573	na
+learning	GO:0016573	na
+face morphogenesis	GO:0016573	na
+positive regulation of establishment of endothelial barrier	GO:0016573	na
+positive regulation of stress-activated MAPK cascade	GO:0016573	na
+response to hydrogen peroxide	GO:0016573	na
+regulation of cell differentiation	GO:0016573	na
+establishment of Golgi localization	GO:0016573	na
+beta-catenin-TCF complex assembly	GO:0016573	na
+regulation of transforming growth factor beta receptor signaling pathway	GO:0016573	na
+negative regulation of endothelial cell proliferation	GO:0016573	na
+negative regulation of endothelial cell migration	GO:0016573	na
+negative regulation of angiogenesis	GO:0016573	na
+cell redox homeostasis	GO:0016573	na
+negative regulation of endothelial cell apoptotic process	GO:0016573	na
+rRNA processing	GO:0016573	na
+ribosomal large subunit biogenesis	GO:0016573	na
+cell fate determination	GO:0016573	na
+heart looping	GO:0016573	na
+marginal zone B cell differentiation	GO:0016573	na
+type B pancreatic cell development	GO:0016573	na
+Notch signaling pathway	GO:0016573	na
+Notch receptor processing	GO:0016573	na
+spinal cord development	GO:0016573	na
+hemopoiesis	GO:0016573	na
+regulation of cell adhesion	GO:0016573	na
+negative regulation of interleukin-10 production	GO:0016573	na
+negative regulation of glial cell apoptotic process	GO:0016573	na
+negative regulation of cell differentiation	GO:0016573	na
+negative regulation of myoblast differentiation	GO:0016573	na
+negative regulation of neuron differentiation	GO:0016573	na
+positive regulation of Notch signaling pathway	GO:0016573	na
+positive regulation of endocytosis	GO:0016573	na
+neuron fate specification	GO:0016573	na
+regulation of cell division	GO:0016573	na
+retina development in camera-type eye	GO:0016573	na
+clathrin-dependent endocytosis	GO:0016573	na
+neuronal stem cell population maintenance	GO:0016573	na
+skin epidermis development	GO:0016573	na
+positive regulation of sprouting angiogenesis	GO:0016573	na
+regulation of energy homeostasis	GO:0016573	na
+positive regulation of cytosolic calcium ion concentration	GO:0016573	na
+cell death	GO:0016573	na
+calcium ion transmembrane transport	GO:0016573	na
+membrane depolarization during action potential	GO:0016573	na
+positive regulation of epithelial to mesenchymal transition	GO:0016573	na
+actin cytoskeleton organization	GO:0016573	na
+positive regulation of cell growth	GO:0016573	na
+positive regulation of transforming growth factor beta receptor signaling pathway	GO:0016573	na
+positive regulation of phosphorylation	GO:0016573	na
+positive regulation of JNK cascade	GO:0016573	na
+positive regulation of exosomal secretion	GO:0016573	na
+lipid metabolic process	GO:0016573	na
+phototransduction	GO:0016573	na
+phospholipid transport	GO:0016573	na
+RNA splicing, via transesterification reactions	GO:0016573	na
+RNA processing	GO:0016573	na
+RNA splicing	GO:0016573	na
+maturation of SSU-rRNA	GO:0016573	na
+chromatin organization	GO:0016573	na
+chromosome segregation	GO:0016573	na
+Wnt signaling pathway	GO:0016573	na
+negative regulation of protein complex assembly	GO:0016573	na
+stress granule assembly	GO:0016573	na
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0016573	na
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0016573	na
+positive regulation of translation	GO:0016573	na
+positive regulation of translational initiation	GO:0016573	na
+cellular response to arsenic-containing substance	GO:0016573	na
+intrinsic apoptotic signaling pathway	GO:0016573	na
+positive regulation of G1/S transition of mitotic cell cycle	GO:0016573	na
+protein localization to cytoplasmic stress granule	GO:0016573	na
+negative regulation of intrinsic apoptotic signaling pathway	GO:0016573	na
+viral genome replication	GO:0016573	na
+RNA catabolic process	GO:0016573	na
+immunological synapse formation	GO:0016573	na
+positive regulation of cell-matrix adhesion	GO:0016573	na
+dendritic cell chemotaxis	GO:0016573	na
+positive regulation of dendritic cell antigen processing and presentation	GO:0016573	na
+T cell costimulation	GO:0016573	na
+ruffle organization	GO:0016573	na
+positive regulation of cell adhesion mediated by integrin	GO:0016573	na
+positive regulation of phosphatidylinositol 3-kinase activity	GO:0016573	na
+positive regulation of protein kinase activity	GO:0016573	na
+cell maturation	GO:0016573	na
+positive regulation of chemotaxis	GO:0016573	na
+release of sequestered calcium ion into cytosol	GO:0016573	na
+cell chemotaxis	GO:0016573	na
+positive regulation of neutrophil chemotaxis	GO:0016573	na
+negative regulation of leukocyte apoptotic process	GO:0016573	na
+positive regulation of cell motility	GO:0016573	na
+positive regulation of T cell migration	GO:0016573	na
+negative regulation of cell adhesion	GO:0016573	na
+negative regulation of cell-cell adhesion	GO:0016573	na
+glomerular visceral epithelial cell development	GO:0016573	na
+protein localization to cell surface	GO:0016573	na
+negative regulation of viral entry into host cell	GO:0016573	na
+positive regulation of BMP signaling pathway	GO:0016573	na
+positive regulation of osteoblast proliferation	GO:0016573	na
+wound healing, spreading of cells	GO:0016573	na
+regulation of ERK1 and ERK2 cascade	GO:0016573	na
+protein monoubiquitination	GO:0016573	na
+peroxisome organization	GO:0016573	na
+protein import into peroxisome matrix	GO:0016573	na
+phosphate-containing compound metabolic process	GO:0016573	na
+digestion	GO:0016573	na
+monocyte differentiation	GO:0016573	na
+calcium ion transport	GO:0016573	na
+negative regulation of catalytic activity	GO:0016573	na
+regulation of calcium ion transport	GO:0016573	na
+negative regulation of calcium ion import	GO:0016573	na
+interferon-gamma-mediated signaling pathway	GO:0016573	na
+chondrocyte differentiation	GO:0016573	na
+glial cell differentiation	GO:0016573	na
+commissural neuron axon guidance	GO:0016573	na
+negative regulation of pri-miRNA transcription from RNA polymerase II promoter	GO:0016573	na
+protein dephosphorylation	GO:0016573	na
+COPII vesicle coating	GO:0016573	na
+cell fate commitment	GO:0016573	na
+canonical Wnt signaling pathway	GO:0016573	na
+cellular response to retinoic acid	GO:0016573	na
+hematopoietic stem cell proliferation	GO:0016573	na
+nucleobase-containing small molecule interconversion	GO:0016573	na
+embryonic axis specification	GO:0016573	na
+sex differentiation	GO:0016573	na
+positive regulation of cellular protein metabolic process	GO:0016573	na
+embryonic forelimb morphogenesis	GO:0016573	na
+synaptic vesicle recycling	GO:0016573	na
+embryonic digit morphogenesis	GO:0016573	na
+negative regulation of neurogenesis	GO:0016573	na
+positive regulation of synapse assembly	GO:0016573	na
+presynapse assembly	GO:0016573	na
+positive regulation of excitatory postsynaptic potential	GO:0016573	na
+fructose metabolic process	GO:0016573	na
+fructose 6-phosphate metabolic process	GO:0016573	na
+gluconeogenesis	GO:0016573	na
+fructose 1,6-bisphosphate metabolic process	GO:0016573	na
+exit from mitosis	GO:0016573	na
+free ubiquitin chain polymerization	GO:0016573	na
+regulation of mitotic metaphase/anaphase transition	GO:0016573	na
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	GO:0016573	na
+protein K48-linked ubiquitination	GO:0016573	na
+protein K11-linked ubiquitination	GO:0016573	na
+positive regulation of ubiquitin protein ligase activity	GO:0016573	na
+biotin metabolic process	GO:0016573	na
+carnitine shuttle	GO:0016573	na
+positive regulation of cellular metabolic process	GO:0016573	na
+regulation of cholesterol biosynthetic process	GO:0016573	na
+fatty-acyl-CoA biosynthetic process	GO:0016573	na
+establishment of skin barrier	GO:0016573	na
+phospholipid metabolic process	GO:0016573	na
+protein kinase C-activating G-protein coupled receptor signaling pathway	GO:0016573	na
+regulation of lipid metabolic process	GO:0016573	na
+sphingolipid biosynthetic process	GO:0016573	na
+intracellular steroid hormone receptor signaling pathway	GO:0016573	na
+androgen receptor signaling pathway	GO:0016573	na
+negative regulation of protein phosphorylation	GO:0016573	na
+nucleosome disassembly	GO:0016573	na
+intracellular estrogen receptor signaling pathway	GO:0016573	na
+glucocorticoid receptor signaling pathway	GO:0016573	na
+entrainment of circadian clock by photoperiod	GO:0016573	na
+JAK-STAT cascade	GO:0016573	na
+regulation of signal transduction	GO:0016573	na
+response to estradiol	GO:0016573	na
+cellular response to hormone stimulus	GO:0016573	na
+negative regulation of insulin receptor signaling pathway	GO:0016573	na
+growth hormone receptor signaling pathway	GO:0016573	na
+ERBB2 signaling pathway	GO:0016573	na
+negative regulation of ERBB signaling pathway	GO:0016573	na
+regulation of cell motility	GO:0016573	na
+peripheral nervous system development	GO:0016573	na
+DNA-dependent DNA replication	GO:0016573	na
+generation of precursor metabolites and energy	GO:0016573	na
+water transport	GO:0016573	na
+tricarboxylic acid cycle	GO:0016573	na
+homophilic cell adhesion via plasma membrane adhesion molecules	GO:0016573	na
+positive regulation of insulin secretion involved in cellular response to glucose stimulus	GO:0016573	na
+positive regulation of dendrite morphogenesis	GO:0016573	na
+positive regulation of dendritic spine morphogenesis	GO:0016573	na
+negative regulation of tyrosine phosphorylation of STAT protein	GO:0016573	na
+regulation of interferon-gamma-mediated signaling pathway	GO:0016573	na
+proteasomal protein catabolic process	GO:0016573	na
+flagellated sperm motility	GO:0016573	na
+positive regulation of glycolytic process	GO:0016573	na
+canonical glycolysis	GO:0016573	na
+positive regulation of angiogenesis	GO:0016573	na
+fatty acid biosynthetic process	GO:0016573	na
+fatty acid beta-oxidation	GO:0016573	na
+vesicle transport along microtubule	GO:0016573	na
+mitotic cell cycle	GO:0016573	na
+mitotic cytokinesis	GO:0016573	na
+cytokinesis	GO:0016573	na
+positive regulation of cytokinesis	GO:0016573	na
+generation of neurons	GO:0016573	na
+neuron apoptotic process	GO:0016573	na
+intra-Golgi vesicle-mediated transport	GO:0016573	na
+chondroitin sulfate biosynthetic process	GO:0016573	na
+chondroitin sulfate catabolic process	GO:0016573	na
+dermatan sulfate biosynthetic process	GO:0016573	na
+IRE1-mediated unfolded protein response	GO:0016573	na
+regulation of actin polymerization or depolymerization	GO:0016573	na
+positive regulation of protein complex assembly	GO:0016573	na
+endosome to melanosome transport	GO:0016573	na
+regulation of sequestering of zinc ion	GO:0016573	na
+removal of superoxide radicals	GO:0016573	na
+cellular response to oxidative stress	GO:0016573	na
+positive regulation of leukocyte chemotaxis	GO:0016573	na
+positive regulation of cAMP metabolic process	GO:0016573	na
+positive regulation of cAMP-mediated signaling	GO:0016573	na
+positive regulation of release of sequestered calcium ion into cytosol	GO:0016573	na
+animal organ morphogenesis	GO:0016573	na
+anterior/posterior axis specification	GO:0016573	na
+epidermis development	GO:0016573	na
+peptide cross-linking	GO:0016573	na
+keratinocyte differentiation	GO:0016573	na
+neurotransmitter secretion	GO:0016573	na
+neural tube development	GO:0016573	na
+positive regulation of Wnt signaling pathway	GO:0016573	na
+negative regulation of protein binding	GO:0016573	na
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	GO:0016573	na
+protein localization to nucleus	GO:0016573	na
+dendrite morphogenesis	GO:0016573	na
+regulation of cellular protein localization	GO:0016573	na
+beta-catenin destruction complex disassembly	GO:0016573	na
+neural tube closure	GO:0016573	na
+hippo signaling	GO:0016573	na
+non-canonical Wnt signaling pathway	GO:0016573	na
+positive regulation of JUN kinase activity	GO:0016573	na
+positive regulation by host of viral transcription	GO:0016573	na
+protein targeting to vacuole	GO:0016573	na
+protein deneddylation	GO:0016573	na
+organelle organization	GO:0016573	na
+nuclear envelope organization	GO:0016573	na
+neuron projection development	GO:0016573	na
+intermediate filament cytoskeleton organization	GO:0016573	na
+synaptic vesicle transport	GO:0016573	na
+protein homooligomerization	GO:0016573	na
+regulation of dopamine uptake involved in synaptic transmission	GO:0016573	na
+ER-associated misfolded protein catabolic process	GO:0016573	na
+regulation of protein localization to cell surface	GO:0016573	na
+response to unfolded protein	GO:0016573	na
+vesicle docking	GO:0016573	na
+Golgi ribbon formation	GO:0016573	na
+in utero embryonic development	GO:0016573	na
+membrane protein ectodomain proteolysis	GO:0016573	na
+integrin-mediated signaling pathway	GO:0016573	na
+positive regulation of T cell chemotaxis	GO:0016573	na
+response to tumor necrosis factor	GO:0016573	na
+monocyte activation	GO:0016573	na
+cobalamin metabolic process	GO:0016573	na
+prostaglandin biosynthetic process	GO:0016573	na
+prostaglandin metabolic process	GO:0016573	na
+cyclooxygenase pathway	GO:0016573	na
+chromatin silencing	GO:0016573	na
+positive regulation of intracellular estrogen receptor signaling pathway	GO:0016573	na
+histone H3-K4 methylation	GO:0016573	na
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis	GO:0016573	na
+positive regulation of endothelial cell migration	GO:0016573	na
+protein transport	GO:0016573	na
+activation of protein kinase B activity	GO:0016573	na
+integrin activation	GO:0016573	na
+regulation of cell adhesion mediated by integrin	GO:0016573	na
+tube formation	GO:0016573	na
+cellular response to vascular endothelial growth factor stimulus	GO:0016573	na
+regulation of GTPase activity	GO:0016573	na
+cellular response to fibroblast growth factor stimulus	GO:0016573	na
+positive regulation of stress fiber assembly	GO:0016573	na
+negative regulation of focal adhesion assembly	GO:0016573	na
+negative regulation of cell migration involved in sprouting angiogenesis	GO:0016573	na
+negative regulation of protein targeting to membrane	GO:0016573	na
+negative regulation of substrate adhesion-dependent cell spreading	GO:0016573	na
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c	GO:0016573	na
+negative regulation of protein homooligomerization	GO:0016573	na
+negative regulation of I-kappaB kinase/NF-kappaB signaling	GO:0016573	na
+positive regulation of innate immune response	GO:0016573	na
+inositol phosphate metabolic process	GO:0016573	na
+inositol phosphate dephosphorylation	GO:0016573	na
+response to osmotic stress	GO:0016573	na
+JNK cascade	GO:0016573	na
+activation of JUN kinase activity	GO:0016573	na
+response to heat	GO:0016573	na
+response to UV	GO:0016573	na
+positive regulation of telomere maintenance via telomerase	GO:0016573	na
+proteolysis in other organism	GO:0016573	na
+stress-activated MAPK cascade	GO:0016573	na
+positive regulation of telomerase activity	GO:0016573	na
+positive regulation of telomere capping	GO:0016573	na
+bile acid biosynthetic process	GO:0016573	na
+fatty acid beta-oxidation using acyl-CoA oxidase	GO:0016573	na
+alpha-linolenic acid metabolic process	GO:0016573	na
+spliceosomal snRNP assembly	GO:0016573	na
+regulation of mitotic nuclear division	GO:0016573	na
+endothelial cell activation	GO:0016573	na
+regulation of cell size	GO:0016573	na
+negative regulation of platelet-derived growth factor receptor signaling pathway	GO:0016573	na
+negative regulation of phosphatidylinositol 3-kinase signaling	GO:0016573	na
+microvillus assembly	GO:0016573	na
+negative regulation of catenin import into nucleus	GO:0016573	na
+negative regulation of mitotic cell cycle	GO:0016573	na
+negative regulation of protein kinase B signaling	GO:0016573	na
+establishment of protein localization to plasma membrane	GO:0016573	na
+androgen biosynthetic process	GO:0016573	na
+DNA damage checkpoint	GO:0016573	na
+DNA repair	GO:0016573	na
+DNA damage induced protein phosphorylation	GO:0016573	na
+peptidyl-threonine phosphorylation	GO:0016573	na
+G2 DNA damage checkpoint	GO:0016573	na
+positive regulation of cell cycle	GO:0016573	na
+negative regulation of mitotic nuclear division	GO:0016573	na
+replicative senescence	GO:0016573	na
+regulation of histone H3-K9 acetylation	GO:0016573	na
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	GO:0016573	na
+lysosome organization	GO:0016573	na
+protein catabolic process	GO:0016573	na
+peptide catabolic process	GO:0016573	na
+bone resorption	GO:0016573	na
+neuromuscular process controlling balance	GO:0016573	na
+dopamine receptor signaling pathway	GO:0016573	na
+negative regulation of voltage-gated calcium channel activity	GO:0016573	na
+mitotic sister chromatid segregation	GO:0016573	na
+establishment of mitotic spindle orientation	GO:0016573	na
+attachment of spindle microtubules to kinetochore	GO:0016573	na
+metaphase plate congression	GO:0016573	na
+attachment of mitotic spindle microtubules to kinetochore	GO:0016573	na
+positive regulation of mitotic cell cycle spindle assembly checkpoint	GO:0016573	na
+angiogenesis	GO:0016573	na
+branching involved in blood vessel morphogenesis	GO:0016573	na
+neuron migration	GO:0016573	na
+cell migration involved in sprouting angiogenesis	GO:0016573	na
+positive regulation of smooth muscle cell migration	GO:0016573	na
+nerve development	GO:0016573	na
+retinal ganglion cell axon guidance	GO:0016573	na
+cellular response to hepatocyte growth factor stimulus	GO:0016573	na
+endothelial cell chemotaxis	GO:0016573	na
+hepatocyte growth factor receptor signaling pathway	GO:0016573	na
+positive regulation of axon extension involved in axon guidance	GO:0016573	na
+artery morphogenesis	GO:0016573	na
+axon extension involved in axon guidance	GO:0016573	na
+positive chemotaxis	GO:0016573	na
+regulation of vesicle-mediated transport	GO:0016573	na
+sympathetic ganglion development	GO:0016573	na
+semaphorin-plexin signaling pathway	GO:0016573	na
+killing of cells of other organism	GO:0016573	na
+chloride transmembrane transport	GO:0016573	na
+muscle cell cellular homeostasis	GO:0016573	na
+synaptic vesicle exocytosis	GO:0016573	na
+cellular response to glucose stimulus	GO:0016573	na
+positive regulation of type I interferon production	GO:0016573	na
+positive regulation of protein targeting to mitochondrion	GO:0016573	na
+regulation of exocytosis	GO:0016573	na
+dopaminergic neuron differentiation	GO:0016573	na
+regulation of rhodopsin mediated signaling pathway	GO:0016573	na
+negative regulation of peptidyl-threonine phosphorylation	GO:0016573	na
+regulation of MAP kinase activity	GO:0016573	na
+negative regulation of MAPK cascade	GO:0016573	na
+2-oxoglutarate metabolic process	GO:0016573	na
+B cell homeostasis	GO:0016573	na
+hematopoietic progenitor cell differentiation	GO:0016573	na
+negative regulation of B cell proliferation	GO:0016573	na
+positive regulation of calcium ion transport	GO:0016573	na
+negative regulation of blood pressure	GO:0016573	na
+cellular response to fatty acid	GO:0016573	na
+activation of innate immune response	GO:0016573	na
+positive regulation of defense response to virus by host	GO:0016573	na
+positive regulation of interleukin-1 beta production	GO:0016573	na
+response to zinc ion	GO:0016573	na
+regulation of transcription involved in G1/S transition of mitotic cell cycle	GO:0016573	na
+type I interferon signaling pathway	GO:0016573	na
+glutathione derivative biosynthetic process	GO:0016573	na
+nuclear import	GO:0016573	na
+mammary gland epithelial cell differentiation	GO:0016573	na
+mitotic cell cycle checkpoint	GO:0016573	na
+negative regulation of chondrocyte differentiation	GO:0016573	na
+iris morphogenesis	GO:0016573	na
+cornea development in camera-type eye	GO:0016573	na
+response to retinoic acid	GO:0016573	na
+midbrain dopaminergic neuron differentiation	GO:0016573	na
+negative regulation of protein localization to cell surface	GO:0016573	na
+endothelial cell migration	GO:0016573	na
+regulation of synaptic plasticity	GO:0016573	na
+synapse assembly	GO:0016573	na
+regulation of tumor necrosis factor-mediated signaling pathway	GO:0016573	na
+cortical actin cytoskeleton organization	GO:0016573	na
+negative regulation of myosin-light-chain-phosphatase activity	GO:0016573	na
+regulation of phosphorylation	GO:0016573	na
+nucleotide-binding oligomerization domain containing signaling pathway	GO:0016573	na
+interleukin-1-mediated signaling pathway	GO:0016573	na
+regulation of establishment of endothelial barrier	GO:0016573	na
+regulation of G-protein coupled receptor protein signaling pathway	GO:0016573	na
+establishment or maintenance of cell polarity	GO:0016573	na
+DNA replication-dependent nucleosome assembly	GO:0016573	na
+DNA replication-independent nucleosome assembly	GO:0016573	na
+internal protein amino acid acetylation	GO:0016573	na
+positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	GO:0016573	na
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO:0016573	na
+cell recognition	GO:0016573	na
+positive regulation of natural killer cell mediated cytotoxicity	GO:0016573	na
+translesion synthesis	GO:0016573	na
+negative regulation of cell-matrix adhesion	GO:0016573	na
+negative regulation of keratinocyte proliferation	GO:0016573	na
+negative regulation of wound healing	GO:0016573	na
+phosphatidic acid biosynthetic process	GO:0016573	na
+cell motility	GO:0016573	na
+wound healing	GO:0016573	na
+keratinocyte proliferation	GO:0016573	na
+positive regulation of DNA replication	GO:0016573	na
+positive regulation of epidermal growth factor-activated receptor activity	GO:0016573	na
+positive regulation of mitotic nuclear division	GO:0016573	na
+positive regulation of fibroblast proliferation	GO:0016573	na
+positive regulation of smooth muscle cell proliferation	GO:0016573	na
+negative regulation of epithelial cell proliferation	GO:0016573	na
+regulation of heart rate	GO:0016573	na
+detection of calcium ion	GO:0016573	na
+regulation of cell communication by electrical coupling	GO:0016573	na
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO:0016573	na
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	GO:0016573	na
+protein polymerization	GO:0016573	na
+cardiac muscle contraction	GO:0016573	na
+regulation of membrane repolarization	GO:0016573	na
+negative regulation of ryanodine-sensitive calcium-release channel activity	GO:0016573	na
+cellular response to caffeine	GO:0016573	na
+negative regulation of potassium ion transmembrane transporter activity	GO:0016573	na
+membrane invagination	GO:0016573	na
+negative regulation of epidermal growth factor receptor signaling pathway	GO:0016573	na
+regulation of protein catabolic process	GO:0016573	na
+spindle organization	GO:0016573	na
+regulation of cytokinesis	GO:0016573	na
+positive regulation of receptor recycling	GO:0016573	na
+Golgi organization	GO:0016573	na
+response to bacterium	GO:0016573	na
+negative regulation of neuron projection development	GO:0016573	na
+viral RNA genome replication	GO:0016573	na
+positive regulation of intracellular protein transport	GO:0016573	na
+regulation of neuron death	GO:0016573	na
+long-chain fatty acid metabolic process	GO:0016573	na
+long-chain fatty acid import	GO:0016573	na
+Golgi to lysosome transport	GO:0016573	na
+negative regulation of protein catabolic process	GO:0016573	na
+protein export from nucleus	GO:0016573	na
+apoptotic mitochondrial changes	GO:0016573	na
+positive regulation of mitochondrial calcium ion concentration	GO:0016573	na
+calcium ion import	GO:0016573	na
+myelination in peripheral nervous system	GO:0016573	na
+centrosome duplication	GO:0016573	na
+substantia nigra development	GO:0016573	na
+regulation of protein phosphorylation	GO:0016573	na
+positive regulation of neuron projection development	GO:0016573	na
+positive regulation of axonogenesis	GO:0016573	na
+regulation of actin cytoskeleton reorganization	GO:0016573	na
+endothelial cell differentiation	GO:0016573	na
+mesodermal cell differentiation	GO:0016573	na
+cardiac muscle cell differentiation	GO:0016573	na
+glycogen biosynthetic process	GO:0016573	na
+fatty acid metabolic process	GO:0016573	na
+regulation of vasoconstriction	GO:0016573	na
+negative regulation of protein ubiquitination	GO:0016573	na
+regulation of circadian rhythm	GO:0016573	na
+negative regulation of circadian rhythm	GO:0016573	na
+white fat cell differentiation	GO:0016573	na
+histone H3 deacetylation	GO:0016573	na
+negative regulation of transcription regulatory region DNA binding	GO:0016573	na
+protein processing	GO:0016573	na
+collagen fibril organization	GO:0016573	na
+supramolecular fiber organization	GO:0016573	na
+hindbrain development	GO:0016573	na
+pronephros development	GO:0016573	na
+establishment of cell polarity	GO:0016573	na
+negative regulation of epithelial to mesenchymal transition	GO:0016573	na
+negative regulation of transcription by competitive promoter binding	GO:0016573	na
+positive regulation of cell-cell adhesion	GO:0016573	na
+negative regulation of cell migration	GO:0016573	na
+negative regulation of transforming growth factor beta receptor signaling pathway	GO:0016573	na
+negative regulation of BMP signaling pathway	GO:0016573	na
+negative regulation of peptidyl-serine phosphorylation	GO:0016573	na
+adherens junction assembly	GO:0016573	na
+cellular protein complex localization	GO:0016573	na
+negative regulation of ubiquitin-protein transferase activity	GO:0016573	na
+ventricular cardiac muscle tissue morphogenesis	GO:0016573	na
+regulation of cardiac muscle contraction	GO:0016573	na
+regulation of ventricular cardiac muscle cell membrane depolarization	GO:0016573	na
+pathway-restricted SMAD protein phosphorylation	GO:0016573	na
+negative regulation of pathway-restricted SMAD protein phosphorylation	GO:0016573	na
+ventricular septum morphogenesis	GO:0016573	na
+cellular response to reactive oxygen species	GO:0016573	na
+cellular response to cadmium ion	GO:0016573	na
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	GO:0016573	na
+histone mRNA catabolic process	GO:0016573	na
+lysosomal transport	GO:0016573	na
+cholesterol transport	GO:0016573	na
+cholesterol efflux	GO:0016573	na
+low-density lipoprotein particle clearance	GO:0016573	na
+cholesterol homeostasis	GO:0016573	na
+establishment of protein localization to membrane	GO:0016573	na
+cell aging	GO:0016573	na
+male genitalia development	GO:0016573	na
+mammary gland development	GO:0016573	na
+cellular senescence	GO:0016573	na
+positive regulation of cytokine-mediated signaling pathway	GO:0016573	na
+ceramide biosynthetic process	GO:0016573	na
+negative regulation of blood vessel endothelial cell migration	GO:0016573	na
+positive regulation of lamellipodium assembly	GO:0016573	na
+memory	GO:0016573	na
+DNA damage response, signal transduction by p53 class mediator	GO:0016573	na
+cellular response to hypoxia	GO:0016573	na
+transcription from RNA polymerase I promoter	GO:0016573	na
+transcription initiation from RNA polymerase I promoter	GO:0016573	na
+transcription elongation from RNA polymerase I promoter	GO:0016573	na
+termination of RNA polymerase I transcription	GO:0016573	na
+acute-phase response	GO:0016573	na
+response to interferon-beta	GO:0016573	na
+cellular response to estrogen stimulus	GO:0016573	na
+cellular protein complex assembly	GO:0016573	na
+positive regulation of protein catabolic process	GO:0016573	na
+embryonic eye morphogenesis	GO:0016573	na
+positive regulation of ubiquitin-protein transferase activity	GO:0016573	na
+muscle cell development	GO:0016573	na
+embryonic skeletal joint morphogenesis	GO:0016573	na
+beta-catenin destruction complex assembly	GO:0016573	na
+positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	GO:0016573	na
+heart morphogenesis	GO:0016573	na
+mesoderm development	GO:0016573	na
+primitive streak formation	GO:0016573	na
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	GO:0016573	na
+response to interferon-gamma	GO:0016573	na
+myeloid dendritic cell differentiation	GO:0016573	na
+chaperone-mediated protein complex assembly	GO:0016573	na
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	GO:0016573	na
+tryptophan catabolic process	GO:0016573	na
+NAD metabolic process	GO:0016573	na
+substrate adhesion-dependent cell spreading	GO:0016573	na
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	GO:0016573	na
+response to cAMP	GO:0016573	na
+neurotransmitter transport	GO:0016573	na
+drug transmembrane transport	GO:0016573	na
+body fluid secretion	GO:0016573	na
+organic cation transport	GO:0016573	na
+neurotransmitter biosynthetic process	GO:0016573	na
+single organismal cell-cell adhesion	GO:0016573	na
+protein exit from endoplasmic reticulum	GO:0016573	na
+early endosome to Golgi transport	GO:0016573	na
+defense response to Gram-positive bacterium	GO:0016573	na
+antimicrobial humoral immune response mediated by antimicrobial peptide	GO:0016573	na
+histone deubiquitination	GO:0016573	na
+cardiac muscle hypertrophy	GO:0016573	na
+adult heart development	GO:0016573	na
+muscle filament sliding	GO:0016573	na
+skeletal muscle thin filament assembly	GO:0016573	na
+response to muscle stretch	GO:0016573	na
+cardiac muscle fiber development	GO:0016573	na
+detection of mechanical stimulus	GO:0016573	na
+cardiac myofibril assembly	GO:0016573	na
+cardiac muscle tissue morphogenesis	GO:0016573	na
+cell cycle checkpoint	GO:0016573	na
+regulation of glycolytic process	GO:0016573	na
+response to nutrient	GO:0016573	na
+response to insulin	GO:0016573	na
+histone H4-K5 acetylation	GO:0016573	na
+histone H4-K8 acetylation	GO:0016573	na
+histone H4-K16 acetylation	GO:0016573	na
+positive regulation of proteolysis	GO:0016573	na
+histone H3-K4 trimethylation	GO:0016573	na
+positive regulation of macrophage derived foam cell differentiation	GO:0016573	na
+lipoxygenase pathway	GO:0016573	na
+negative regulation of cell cycle	GO:0016573	na
+negative regulation of growth	GO:0016573	na
+hepoxilin biosynthetic process	GO:0016573	na
+positive regulation of chemokine secretion	GO:0016573	na
+peptidyl-threonine dephosphorylation	GO:0016573	na
+positive regulation of calcium ion import	GO:0016573	na
+protein N-linked glycosylation	GO:0016573	na
+meiotic DNA recombinase assembly	GO:0016573	na
+DNA synthesis involved in DNA repair	GO:0016573	na
+strand displacement	GO:0016573	na
+DNA recombination	GO:0016573	na
+response to ionizing radiation	GO:0016573	na
+strand invasion	GO:0016573	na
+cargo loading into vesicle	GO:0016573	na
+vacuolar acidification	GO:0016573	na
+proton transport	GO:0016573	na
+cell growth	GO:0016573	na
+regulation of macroautophagy	GO:0016573	na
+transferrin transport	GO:0016573	na
+phagosome acidification	GO:0016573	na
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO:0016573	na
+intrinsic apoptotic signaling pathway in response to DNA damage	GO:0016573	na
+response to X-ray	GO:0016573	na
+response to gamma radiation	GO:0016573	na
+mitotic G1 DNA damage checkpoint	GO:0016573	na
+cellular response to UV	GO:0016573	na
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO:0016573	na
+negative regulation of JUN kinase activity	GO:0016573	na
+positive regulation of cell cycle arrest	GO:0016573	na
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO:0016573	na
+positive regulation of MAPK cascade	GO:0016573	na
+negative regulation of hydrogen peroxide-induced cell death	GO:0016573	na
+endochondral ossification	GO:0016573	na
+regulation of translational initiation	GO:0016573	na
+protein deacetylation	GO:0016573	na
+positive regulation of TOR signaling	GO:0016573	na
+negative regulation of JNK cascade	GO:0016573	na
+spindle assembly	GO:0016573	na
+cellular response to fluid shear stress	GO:0016573	na
+negative regulation of myotube differentiation	GO:0016573	na
+inhibition of cysteine-type endopeptidase activity involved in apoptotic process	GO:0016573	na
+neuron cell-cell adhesion	GO:0016573	na
+positive regulation of T cell mediated cytotoxicity	GO:0016573	na
+regulation of protein localization to plasma membrane	GO:0016573	na
+bile acid and bile salt transport	GO:0016573	na
+toll-like receptor 3 signaling pathway	GO:0016573	na
+response to exogenous dsRNA	GO:0016573	na
+positive regulation of interferon-gamma biosynthetic process	GO:0016573	na
+necroptotic signaling pathway	GO:0016573	na
+glycogen catabolic process	GO:0016573	na
+positive regulation of lipid storage	GO:0016573	na
+phosphatidylglycerol acyl-chain remodeling	GO:0016573	na
+phosphatidylinositol acyl-chain remodeling	GO:0016573	na
+phosphatidylserine acyl-chain remodeling	GO:0016573	na
+phosphatidylcholine acyl-chain remodeling	GO:0016573	na
+phosphatidylethanolamine acyl-chain remodeling	GO:0016573	na
+regulation of macrophage activation	GO:0016573	na
+vesicle docking involved in exocytosis	GO:0016573	na
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	GO:0016573	na
+transcription-coupled nucleotide-excision repair	GO:0016573	na
+fibroblast growth factor receptor signaling pathway	GO:0016573	na
+RNA metabolic process	GO:0016573	na
+somatic stem cell population maintenance	GO:0016573	na
+cellular response to ionizing radiation	GO:0016573	na
+skeletal muscle tissue development	GO:0016573	na
+regulation of necroptotic process	GO:0016573	na
+negative regulation of extrinsic apoptotic signaling pathway	GO:0016573	na
+metanephros development	GO:0016573	na
+mesonephros development	GO:0016573	na
+positive regulation of epithelial cell migration	GO:0016573	na
+positive regulation of keratinocyte proliferation	GO:0016573	na
+actin cytoskeleton reorganization	GO:0016573	na
+positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle	GO:0016573	na
+positive regulation of ATPase activity	GO:0016573	na
+positive regulation of Ras protein signal transduction	GO:0016573	na
+branching morphogenesis of an epithelial tube	GO:0016573	na
+positive regulation of epithelial cell proliferation	GO:0016573	na
+positive regulation of keratinocyte migration	GO:0016573	na
+lung epithelium development	GO:0016573	na
+liver development	GO:0016573	na
+base-excision repair	GO:0016573	na
+nucleotide-excision repair, DNA incision	GO:0016573	na
+vitamin metabolic process	GO:0016573	na
+regulation of bone mineralization	GO:0016573	na
+response to vitamin D	GO:0016573	na
+vitamin D metabolic process	GO:0016573	na
+positive regulation of keratinocyte differentiation	GO:0016573	na
+decidualization	GO:0016573	na
+calcium ion homeostasis	GO:0016573	na
+positive regulation of phospholipase activity	GO:0016573	na
+calcium-mediated signaling	GO:0016573	na
+regulation of I-kappaB kinase/NF-kappaB signaling	GO:0016573	na
+cellular response to epidermal growth factor stimulus	GO:0016573	na
+positive regulation of establishment of protein localization to plasma membrane	GO:0016573	na
+antigen processing and presentation of peptide antigen via MHC class I	GO:0016573	na
+vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	GO:0016573	na
+regulation of sodium ion transport	GO:0016573	na
+posttranscriptional regulation of gene expression	GO:0016573	na
+histone H3 acetylation	GO:0016573	na
+bicellular tight junction assembly	GO:0016573	na
+glucose homeostasis	GO:0016573	na
+negative regulation of interleukin-12 production	GO:0016573	na
+negative regulation of cytokine production involved in inflammatory response	GO:0016573	na
+negative regulation of NLRP3 inflammasome complex assembly	GO:0016573	na
+DNA demethylation	GO:0016573	na
+regulation of TOR signaling	GO:0016573	na
+negative regulation of osteoblast proliferation	GO:0016573	na
+axon extension	GO:0016573	na
+regulation of cytoskeleton organization	GO:0016573	na
+chromatin silencing at rDNA	GO:0016573	na
+cellular response to glucose starvation	GO:0016573	na
+intrinsic apoptotic signaling pathway by p53 class mediator	GO:0016573	na
+regulation of axonogenesis	GO:0016573	na
+regulation of dendritic spine morphogenesis	GO:0016573	na
+ganglioside biosynthetic process	GO:0016573	na
+N-glycan processing	GO:0016573	na
+glycoprotein metabolic process	GO:0016573	na
+oligosaccharide metabolic process	GO:0016573	na
+sterol metabolic process	GO:0016573	na
+retinoic acid metabolic process	GO:0016573	na
+cellular respiration	GO:0016573	na
+reactive oxygen species metabolic process	GO:0016573	na
+actin filament polymerization	GO:0016573	na
+negative regulation of stress fiber assembly	GO:0016573	na
+toll-like receptor 9 signaling pathway	GO:0016573	na
+negative regulation of gene expression, epigenetic	GO:0016573	na
+cellular amino acid metabolic process	GO:0016573	na
+endoderm development	GO:0016573	na
+mitotic metaphase plate congression	GO:0016573	na
+mitotic spindle assembly checkpoint	GO:0016573	na
+protein localization to kinetochore	GO:0016573	na
+meiotic cell cycle	GO:0016573	na
+intrinsic apoptotic signaling pathway in response to oxidative stress	GO:0016573	na
+positive regulation of cell death	GO:0016573	na
+activation of MAPKK activity	GO:0016573	na
+keratan sulfate biosynthetic process	GO:0016573	na
+negative regulation of cell motility	GO:0016573	na
+regulation of smooth muscle contraction	GO:0016573	na
+regulation of focal adhesion assembly	GO:0016573	na
+ubiquitin-dependent SMAD protein catabolic process	GO:0016573	na
+positive regulation of cilium assembly	GO:0016573	na
+renal water homeostasis	GO:0016573	na
+cAMP biosynthetic process	GO:0016573	na
+cGMP biosynthetic process	GO:0016573	na
+adenylate cyclase-activating G-protein coupled receptor signaling pathway	GO:0016573	na
+activation of adenylate cyclase activity	GO:0016573	na
+activation of protein kinase A activity	GO:0016573	na
+cellular response to glucagon stimulus	GO:0016573	na
+cellular response to prostaglandin E stimulus	GO:0016573	na
+regulation of blood vessel diameter	GO:0016573	na
+cellular response to forskolin	GO:0016573	na
+cellular response to cAMP	GO:0016573	na
+endocrine pancreas development	GO:0016573	na
+positive regulation of T cell cytokine production	GO:0016573	na
+Wnt signaling pathway, calcium modulating pathway	GO:0016573	na
+positive regulation of interleukin-2 production	GO:0016573	na
+anoikis	GO:0016573	na
+regulation of endothelial cell proliferation	GO:0016573	na
+tRNA aminoacylation for protein translation	GO:0016573	na
+positive regulation of DNA damage response, signal transduction by p53 class mediator	GO:0016573	na
+cellular response to muramyl dipeptide	GO:0016573	na
+negative regulation of GTPase activity	GO:0016573	na
+cellular response to calcium ion	GO:0016573	na
+neurogenesis	GO:0016573	na
+spliceosomal tri-snRNP complex assembly	GO:0016573	na
+glutamate receptor signaling pathway	GO:0016573	na
+cellular protein localization	GO:0016573	na
+regulation of neuron apoptotic process	GO:0016573	na
+excitatory postsynaptic potential	GO:0016573	na
+prepulse inhibition	GO:0016573	na
+phosphatidylinositol metabolic process	GO:0016573	na
+phosphatidylinositol dephosphorylation	GO:0016573	na
+blood vessel development	GO:0016573	na
+neural crest cell migration	GO:0016573	na
+positive regulation of mesenchymal cell proliferation	GO:0016573	na
+outflow tract septum morphogenesis	GO:0016573	na
+pattern specification process	GO:0016573	na
+anterior/posterior pattern specification	GO:0016573	na
+social behavior	GO:0016573	na
+aorta morphogenesis	GO:0016573	na
+inner ear morphogenesis	GO:0016573	na
+muscle cell fate commitment	GO:0016573	na
+retinoic acid receptor signaling pathway	GO:0016573	na
+blood vessel morphogenesis	GO:0016573	na
+embryonic cranial skeleton morphogenesis	GO:0016573	na
+cochlea morphogenesis	GO:0016573	na
+endoplasmic reticulum unfolded protein response	GO:0016573	na
+membrane protein intracellular domain proteolysis	GO:0016573	na
+ATF6-mediated unfolded protein response	GO:0016573	na
+regulation of lipoprotein lipase activity	GO:0016573	na
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	GO:0016573	na
+protein autoprocessing	GO:0016573	na
+cellular response to heat	GO:0016573	na
+protein homotrimerization	GO:0016573	na
+cellular response to growth factor stimulus	GO:0016573	na
+negative regulation of neuron death	GO:0016573	na
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	GO:0016573	na
+stem cell population maintenance	GO:0016573	na
+negative regulation of heterotypic cell-cell adhesion	GO:0016573	na
+positive regulation of nitric oxide biosynthetic process	GO:0016573	na
+positive regulation of protein metabolic process	GO:0016573	na
+negative regulation of response to cytokine stimulus	GO:0016573	na
+cellular response to laminar fluid shear stress	GO:0016573	na
+cellular aldehyde metabolic process	GO:0016573	na
+daunorubicin metabolic process	GO:0016573	na
+doxorubicin metabolic process	GO:0016573	na
+glomerular visceral epithelial cell differentiation	GO:0016573	na
+neuronal action potential	GO:0016573	na
+positive regulation of calcium ion-dependent exocytosis	GO:0016573	na
+cardiac muscle cell action potential involved in contraction	GO:0016573	na
+SA node cell action potential	GO:0016573	na
+membrane depolarization during AV node cell action potential	GO:0016573	na
+membrane depolarization during SA node cell action potential	GO:0016573	na
+regulation of heart rate by cardiac conduction	GO:0016573	na
+protein localization to lysosome	GO:0016573	na
+positive regulation of extrinsic apoptotic signaling pathway	GO:0016573	na
+regulation of pH	GO:0016573	na
+sulfate transport	GO:0016573	na
+bicarbonate transport	GO:0016573	na
+regulation of protein localization	GO:0016573	na
+regulation of intracellular pH	GO:0016573	na
+phospholipid translocation	GO:0016573	na
+protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	GO:0016573	na
+positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO:0016573	na
+positive regulation of IRE1-mediated unfolded protein response	GO:0016573	na
+positive regulation of fibroblast apoptotic process	GO:0016573	na
+regulation of translation	GO:0016573	na
+positive regulation of neuron apoptotic process	GO:0016573	na
+positive regulation of erythrocyte differentiation	GO:0016573	na
+mitral valve morphogenesis	GO:0016573	na
+pulmonary valve morphogenesis	GO:0016573	na
+negative regulation of ossification	GO:0016573	na
+telomere maintenance via recombination	GO:0016573	na
+regulation of centrosome duplication	GO:0016573	na
+t-circle formation	GO:0016573	na
+cornification	GO:0016573	na
+T cell proliferation	GO:0016573	na
+T cell homeostasis	GO:0016573	na
+nucleocytoplasmic transport	GO:0016573	na
+visual learning	GO:0016573	na
+negative regulation of MAP kinase activity	GO:0016573	na
+regulation of DNA-templated transcription in response to stress	GO:0016573	na
+positive regulation of neurogenesis	GO:0016573	na
+cell division	GO:0016573	na
+long-term synaptic potentiation	GO:0016573	na
+regulation of phagocytosis	GO:0016573	na
+purine nucleotide catabolic process	GO:0016573	na
+phospholipase C-activating G-protein coupled receptor signaling pathway	GO:0016573	na
+learning or memory	GO:0016573	na
+response to peptide	GO:0016573	na
+osteoblast differentiation	GO:0016573	na
+epithelial to mesenchymal transition	GO:0016573	na
+epithelial to mesenchymal transition involved in endocardial cushion formation	GO:0016573	na
+neural crest cell development	GO:0016573	na
+negative regulation of cell adhesion mediated by integrin	GO:0016573	na
+negative regulation of DNA damage response, signal transduction by p53 class mediator	GO:0016573	na
+regulation of osteoblast differentiation	GO:0016573	na
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO:0016573	na
+negative regulation of anoikis	GO:0016573	na
+cell separation after cytokinesis	GO:0016573	na
+establishment of protein localization	GO:0016573	na
+regulation of viral process	GO:0016573	na
+negative regulation of cell death	GO:0016573	na
+regulation of mitotic spindle assembly	GO:0016573	na
+positive regulation of viral release from host cell	GO:0016573	na
+ESCRT III complex disassembly	GO:0016573	na
+signal complex assembly	GO:0016573	na
+negative regulation of NIK/NF-kappaB signaling	GO:0016573	na
+microtubule bundle formation	GO:0016573	na
+microtubule polymerization	GO:0016573	na
+regulation of chromosome segregation	GO:0016573	na
+ureteric bud development	GO:0016573	na
+branching involved in ureteric bud morphogenesis	GO:0016573	na
+morphogenesis of a branching structure	GO:0016573	na
+kidney development	GO:0016573	na
+vasculature development	GO:0016573	na
+sex determination	GO:0016573	na
+glomerulus development	GO:0016573	na
+lung alveolus development	GO:0016573	na
+spleen development	GO:0016573	na
+embryonic digestive tract morphogenesis	GO:0016573	na
+diaphragm development	GO:0016573	na
+negative regulation of androgen receptor signaling pathway	GO:0016573	na
+metanephric mesenchymal cell differentiation	GO:0016573	na
+ethanol catabolic process	GO:0016573	na
+peroxisome proliferator activated receptor signaling pathway	GO:0016573	na
+positive regulation of cellular component movement	GO:0016573	na
+positive regulation of NIK/NF-kappaB signaling	GO:0016573	na
+negative regulation of release of cytochrome c from mitochondria	GO:0016573	na
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO:0016573	na
+regulation of DNA-templated transcription, elongation	GO:0016573	na
+regulation of fatty acid biosynthetic process	GO:0016573	na
+positive regulation of calcineurin-NFAT signaling cascade	GO:0016573	na
+regulation of defense response to virus by virus	GO:0016573	na
+endocytic recycling	GO:0016573	na
+positive regulation of ER-associated ubiquitin-dependent protein catabolic process	GO:0016573	na
+negative regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	GO:0016573	na
+negative regulation of protein dephosphorylation	GO:0016573	na
+mitochondrial transport	GO:0016573	na
+erythrocyte differentiation	GO:0016573	na
+regulation of TORC1 signaling	GO:0016573	na
+actin filament-based movement	GO:0016573	na
+fatty acid transport	GO:0016573	na
+protein tetramerization	GO:0016573	na
+hyaluronan catabolic process	GO:0016573	na
+cartilage development	GO:0016573	na
+cellular response to UV-B	GO:0016573	na
+positive regulation of histone deacetylation	GO:0016573	na
+glucose metabolic process	GO:0016573	na
+glucose transport	GO:0016573	na
+positive regulation of membrane protein ectodomain proteolysis	GO:0016573	na
+positive regulation of sodium ion transport	GO:0016573	na
+response to calcium ion	GO:0016573	na
+cellular defense response	GO:0016573	na
+positive regulation of monocyte chemotaxis	GO:0016573	na
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	GO:0016573	na
+induction of positive chemotaxis	GO:0016573	na
+positive regulation of mast cell chemotaxis	GO:0016573	na
+sulfur compound metabolic process	GO:0016573	na
+osteoclast differentiation	GO:0016573	na
+regulation of angiogenesis	GO:0016573	na
+protein localization to chromatin	GO:0016573	na
+respiratory gaseous exchange	GO:0016573	na
+negative regulation of protein tyrosine kinase activity	GO:0016573	na
+regulation of dendrite morphogenesis	GO:0016573	na
+neuron development	GO:0016573	na
+negative regulation of axon regeneration	GO:0016573	na
+mitophagy	GO:0016573	na
+adult locomotory behavior	GO:0016573	na
+regulation of glucose metabolic process	GO:0016573	na
+regulation of dopamine secretion	GO:0016573	na
+positive regulation of protein binding	GO:0016573	na
+cellular response to unfolded protein	GO:0016573	na
+protein K29-linked ubiquitination	GO:0016573	na
+ERAD pathway	GO:0016573	na
+dopamine metabolic process	GO:0016573	na
+positive regulation of DNA binding	GO:0016573	na
+protein K27-linked ubiquitination	GO:0016573	na
+negative regulation by host of viral genome replication	GO:0016573	na
+regulation of canonical Wnt signaling pathway	GO:0016573	na
+neuron cellular homeostasis	GO:0016573	na
+protein K6-linked ubiquitination	GO:0016573	na
+positive regulation of proteasomal protein catabolic process	GO:0016573	na
+cellular response to dopamine	GO:0016573	na
+positive regulation of mitophagy	GO:0016573	na
+regulation of reactive oxygen species metabolic process	GO:0016573	na
+negative regulation of reactive oxygen species metabolic process	GO:0016573	na
+nucleosome assembly	GO:0016573	na
+ATP-dependent chromatin remodeling	GO:0016573	na
+acrosome reaction	GO:0016573	na
+positive regulation of muscle cell differentiation	GO:0016573	na
+mRNA transport	GO:0016573	na
+negative regulation of G-protein coupled receptor protein signaling pathway	GO:0016573	na
+mitochondrial genome maintenance	GO:0016573	na
+mitochondrial fusion	GO:0016573	na
+axonal transport of mitochondrion	GO:0016573	na
+neuromuscular synaptic transmission	GO:0016573	na
+negative regulation of DNA binding	GO:0016573	na
+cellular response to gamma radiation	GO:0016573	na
+peptide hormone processing	GO:0016573	na
+regulation of JNK cascade	GO:0016573	na
+regulation of autophagosome assembly	GO:0016573	na
+transmission of nerve impulse	GO:0016573	na
+regulation of AMPA receptor activity	GO:0016573	na
+female gamete generation	GO:0016573	na
+ionotropic glutamate receptor signaling pathway	GO:0016573	na
+linoleic acid metabolic process	GO:0016573	na
+positive regulation of neuron differentiation	GO:0016573	na
+lung development	GO:0016573	na
+determination of pancreatic left/right asymmetry	GO:0016573	na
+determination of digestive tract left/right asymmetry	GO:0016573	na
+determination of liver left/right asymmetry	GO:0016573	na
+regulation of Wnt signaling pathway	GO:0016573	na
+tissue homeostasis	GO:0016573	na
+high-density lipoprotein particle clearance	GO:0016573	na
+glomerular basement membrane development	GO:0016573	na
+adenylate cyclase-activating adrenergic receptor signaling pathway	GO:0016573	na
+CRD-mediated mRNA stabilization	GO:0016573	na
+negative regulation of translational initiation	GO:0016573	na
+positive regulation of fat cell differentiation	GO:0016573	na
+positive regulation of glucose import	GO:0016573	na
+positive regulation of lipid biosynthetic process	GO:0016573	na
+temperature homeostasis	GO:0016573	na
+negative regulation of cytokine secretion	GO:0016573	na
+negative regulation of lipid catabolic process	GO:0016573	na
+regulation of cyclin-dependent protein serine/threonine kinase activity	GO:0016573	na
+positive regulation of cyclin-dependent protein serine/threonine kinase activity	GO:0016573	na
+cell morphogenesis	GO:0016573	na
+positive regulation of receptor internalization	GO:0016573	na
+negative regulation of bone mineralization	GO:0016573	na
+limb development	GO:0016573	na
+positive regulation of cardiac muscle cell differentiation	GO:0016573	na
+regulation of stress-activated MAPK cascade	GO:0016573	na
+cell activation	GO:0016573	na
+regulation of microtubule-based process	GO:0016573	na
+cellular response to histamine	GO:0016573	na
+regulation of clathrin-dependent endocytosis	GO:0016573	na
+skeletal muscle cell differentiation	GO:0016573	na
+skeletal muscle fiber development	GO:0016573	na
+regulation of skeletal muscle cell differentiation	GO:0016573	na
+dorsal/ventral pattern formation	GO:0016573	na
+error-prone translesion synthesis	GO:0016573	na
+STAT protein import into nucleus	GO:0016573	na
+positive regulation of cell-substrate adhesion	GO:0016573	na
+peptidyl-tyrosine phosphorylation	GO:0016573	na
+peptidyl-tyrosine autophosphorylation	GO:0016573	na
+positive regulation of tyrosine phosphorylation of STAT protein	GO:0016573	na
+activation of Janus kinase activity	GO:0016573	na
+regulation of inflammatory response	GO:0016573	na
+JAK-STAT cascade involved in growth hormone signaling pathway	GO:0016573	na
+mammary gland epithelium development	GO:0016573	na
+protein methylation	GO:0016573	na
+positive regulation of cell migration involved in sprouting angiogenesis	GO:0016573	na
+adherens junction organization	GO:0016573	na
+entry of bacterium into host cell	GO:0016573	na
+cellular calcium ion homeostasis	GO:0016573	na
+long term synaptic depression	GO:0016573	na
+antibacterial humoral response	GO:0016573	na
+protein N-linked glycosylation via asparagine	GO:0016573	na
+transcytosis	GO:0016573	na
+innate immune response in mucosa	GO:0016573	na
+glycolytic process	GO:0016573	na
+cytoplasmic sequestering of NF-kappaB	GO:0016573	na
+alternative mRNA splicing, via spliceosome	GO:0016573	na
+telomere maintenance via telomerase	GO:0016573	na
+positive regulation of establishment of protein localization to telomere	GO:0016573	na
+positive regulation of telomerase RNA localization to Cajal body	GO:0016573	na
+negative regulation of viral transcription	GO:0016573	na
+negative regulation of viral release from host cell	GO:0016573	na
+positive regulation of transcription elongation from RNA polymerase II promoter	GO:0016573	na
+positive regulation of cAMP biosynthetic process	GO:0016573	na
+receptor internalization	GO:0016573	na
+protein localization to plasma membrane	GO:0016573	na
+vasculogenesis	GO:0016573	na
+cellular response to estradiol stimulus	GO:0016573	na
+histone deacetylation	GO:0016573	na
+proteolysis involved in cellular protein catabolic process	GO:0016573	na
+nucleotide-excision repair	GO:0016573	na
+mitotic DNA replication checkpoint	GO:0016573	na
+negative regulation of phosphoprotein phosphatase activity	GO:0016573	na
+ATP metabolic process	GO:0016573	na
+telomere maintenance	GO:0016573	na
+DNA double-strand break processing	GO:0016573	na
+positive regulation of protein autophosphorylation	GO:0016573	na
+positive regulation of telomere maintenance	GO:0016573	na
+DNA duplex unwinding	GO:0016573	na
+positive regulation of kinase activity	GO:0016573	na
+negative regulation of telomere capping	GO:0016573	na
+mRNA splice site selection	GO:0016573	na
+release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO:0016573	na
+keratan sulfate catabolic process	GO:0016573	na
+regulation of atrial cardiac muscle cell membrane depolarization	GO:0016573	na
+membrane depolarization during cardiac muscle cell action potential	GO:0016573	na
+cellular iron ion homeostasis	GO:0016573	na
+melanocyte differentiation	GO:0016573	na
+positive regulation of DNA-templated transcription, initiation	GO:0016573	na
+filopodium assembly	GO:0016573	na
+dendritic spine development	GO:0016573	na
+positive regulation of nitric-oxide synthase activity	GO:0016573	na
+regulation of ventricular cardiac muscle cell membrane repolarization	GO:0016573	na
+positive regulation of potassium ion transmembrane transport	GO:0016573	na
+amyloid precursor protein metabolic process	GO:0016573	na
+negative regulation of glycolytic process	GO:0016573	na
+positive regulation of actin filament depolymerization	GO:0016573	na
+apical junction assembly	GO:0016573	na
+negative regulation of cell-substrate adhesion	GO:0016573	na
+mesenchymal to epithelial transition	GO:0016573	na
+negative regulation of cardiac muscle cell differentiation	GO:0016573	na
+motor neuron axon guidance	GO:0016573	na
+negative chemotaxis	GO:0016573	na
+Roundabout signaling pathway	GO:0016573	na
+Wnt signaling pathway involved in dorsal/ventral axis specification	GO:0016573	na
+negative regulation of axonogenesis	GO:0016573	na
+protein heterotetramerization	GO:0016573	na
+presynaptic membrane assembly	GO:0016573	na
+smooth muscle contraction	GO:0016573	na
+regulation of keratinocyte differentiation	GO:0016573	na
+regulation of stress fiber assembly	GO:0016573	na
+microtubule nucleation	GO:0016573	na
+negative regulation of microtubule depolymerization	GO:0016573	na
+regulation of gastrulation	GO:0016573	na
+microtubule organizing center organization	GO:0016573	na
+regulation of microtubule polymerization or depolymerization	GO:0016573	na
+microtubule anchoring	GO:0016573	na
+positive regulation of extracellular matrix disassembly	GO:0016573	na
+actin filament network formation	GO:0016573	na
+positive regulation of dendrite development	GO:0016573	na
+positive regulation of activated T cell proliferation	GO:0016573	na
+negative regulation of actin filament polymerization	GO:0016573	na
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO:0016573	na
+protein localization to Golgi apparatus	GO:0016573	na
+histone monoubiquitination	GO:0016573	na
+histone H2B ubiquitination	GO:0016573	na
+poly(A)+ mRNA export from nucleus	GO:0016573	na
+SCF complex assembly	GO:0016573	na
+regulation of early endosome to late endosome transport	GO:0016573	na
+regulation of DNA replication	GO:0016573	na
+positive regulation of RIG-I signaling pathway	GO:0016573	na
+intermediate filament organization	GO:0016573	na
+negative regulation of inclusion body assembly	GO:0016573	na
+osteoblast development	GO:0016573	na
+negative regulation of osteoblast differentiation	GO:0016573	na
+regulation of insulin secretion involved in cellular response to glucose stimulus	GO:0016573	na
+negative regulation of protein serine/threonine kinase activity	GO:0016573	na
+activation of MAPKKK activity	GO:0016573	na
+positive regulation of p38MAPK cascade	GO:0016573	na
+estrogen metabolic process	GO:0016573	na
+regulation of myelination	GO:0016573	na
+positive regulation of RNA splicing	GO:0016573	na
+ATP biosynthetic process	GO:0016573	na
+neural crest formation	GO:0016573	na
+negative regulation of vascular endothelial growth factor receptor signaling pathway	GO:0016573	na
+gene silencing by RNA	GO:0016573	na
+piRNA metabolic process	GO:0016573	na
+DNA methylation involved in gamete generation	GO:0016573	na
+viral release from host cell	GO:0016573	na
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	GO:0016573	na
+nucleobase-containing small molecule catabolic process	GO:0016573	na
+lens development in camera-type eye	GO:0016573	na
+midbrain development	GO:0016573	na
+regulation of gene expression, epigenetic	GO:0016573	na
+establishment of protein localization to chromatin	GO:0016573	na
+cytoskeletal anchoring at plasma membrane	GO:0016573	na
+Golgi to plasma membrane protein transport	GO:0016573	na
+cellular response to nutrient levels	GO:0016573	na
+response to starvation	GO:0016573	na
+negative regulation of smoothened signaling pathway	GO:0016573	na
+amino acid transport	GO:0016573	na
+neutral amino acid transport	GO:0016573	na
+complement receptor mediated signaling pathway	GO:0016573	na
+negative regulation of autophagosome assembly	GO:0016573	na
+germ cell development	GO:0016573	na
+embryonic skeletal system development	GO:0016573	na
+negative regulation of double-strand break repair via homologous recombination	GO:0016573	na
+DNA replication checkpoint	GO:0016573	na
+mitochondrial calcium ion transmembrane transport	GO:0016573	na
+hair cell differentiation	GO:0016573	na
+sensory perception of light stimulus	GO:0016573	na
+endothelial cell proliferation	GO:0016573	na
+mRNA cleavage	GO:0016573	na
+mRNA catabolic process	GO:0016573	na
+activation of signaling protein activity involved in unfolded protein response	GO:0016573	na
+peptidyl-serine autophosphorylation	GO:0016573	na
+positive regulation of endoplasmic reticulum unfolded protein response	GO:0016573	na
+positive regulation of vascular smooth muscle cell proliferation	GO:0016573	na
+establishment of integrated proviral latency	GO:0016573	na
+negative regulation of fatty acid biosynthetic process	GO:0016573	na
+positive regulation of histone acetylation	GO:0016573	na
+regulation of mRNA splicing, via spliceosome	GO:0016573	na
+negative regulation of DNA replication	GO:0016573	na
+positive regulation of chromatin binding	GO:0016573	na
+signal peptide processing	GO:0016573	na
+lysosomal lumen acidification	GO:0016573	na
+humoral immune response	GO:0016573	na
+negative regulation of T cell proliferation	GO:0016573	na
+myelination	GO:0016573	na
+mitotic nuclear envelope reassembly	GO:0016573	na
+spliceosomal complex assembly	GO:0016573	na
+miRNA metabolic process	GO:0016573	na
+pre-miRNA processing	GO:0016573	na
+production of miRNAs involved in gene silencing by miRNA	GO:0016573	na
+transcription from RNA polymerase III promoter	GO:0016573	na
+pericardium morphogenesis	GO:0016573	na
+embryonic retina morphogenesis in camera-type eye	GO:0016573	na
+cellular response to cholesterol	GO:0016573	na
+Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation	GO:0016573	na
+negative regulation of cytokine production	GO:0016573	na
+histone phosphorylation	GO:0016573	na
+positive regulation of CREB transcription factor activity	GO:0016573	na
+positive regulation of histone phosphorylation	GO:0016573	na
+RNA polymerase II transcriptional preinitiation complex assembly	GO:0016573	na
+detection of bacterium	GO:0016573	na
+spermatid development	GO:0016573	na
+positive regulation of mitotic cell cycle	GO:0016573	na
+ribosomal small subunit assembly	GO:0016573	na
+epithelial cilium movement involved in determination of left/right asymmetry	GO:0016573	na
+ribosomal small subunit biogenesis	GO:0016573	na
+negative regulation of interferon-beta production	GO:0016573	na
+negative regulation of NF-kappaB import into nucleus	GO:0016573	na
+negative regulation of defense response to virus	GO:0016573	na
+sensory perception of pain	GO:0016573	na
+negative regulation of adenylate cyclase activity	GO:0016573	na
+angiotensin maturation	GO:0016573	na
+positive regulation of phosphoprotein phosphatase activity	GO:0016573	na
+protein localization to endoplasmic reticulum	GO:0016573	na
+cellular response to ATP	GO:0016573	na
+folic acid metabolic process	GO:0016573	na
+triglyceride metabolic process	GO:0016573	na
+triglyceride biosynthetic process	GO:0016573	na
+very-low-density lipoprotein particle assembly	GO:0016573	na
+acylglycerol acyl-chain remodeling	GO:0016573	na
+diacylglycerol metabolic process	GO:0016573	na
+cholesterol metabolic process	GO:0016573	na
+macrophage derived foam cell differentiation	GO:0016573	na
+intestinal cholesterol absorption	GO:0016573	na
+retinol metabolic process	GO:0016573	na
+negative regulation of mitochondrial membrane potential	GO:0016573	na
+positive regulation of protein sumoylation	GO:0016573	na
+ATP synthesis coupled proton transport	GO:0016573	na
+cristae formation	GO:0016573	na
+mitochondrial ATP synthesis coupled proton transport	GO:0016573	na
+fertilization	GO:0016573	na
+sperm capacitation	GO:0016573	na
+membrane raft assembly	GO:0016573	na
+positive regulation of heterotypic cell-cell adhesion	GO:0016573	na
+positive regulation of toll-like receptor 3 signaling pathway	GO:0016573	na
+protein kinase C signaling	GO:0016573	na
+cellular response to exogenous dsRNA	GO:0016573	na
+positive regulation of myoblast fusion	GO:0016573	na
+regulation of microtubule cytoskeleton organization	GO:0016573	na
+negative regulation of G1/S transition of mitotic cell cycle	GO:0016573	na
+regulation of the force of heart contraction	GO:0016573	na
+negative regulation of cardiac muscle hypertrophy	GO:0016573	na
+maturation of LSU-rRNA	GO:0016573	na
+ER overload response	GO:0016573	na
+endoplasmic reticulum calcium ion homeostasis	GO:0016573	na
+negative regulation of programmed cell death	GO:0016573	na
+negative regulation of Notch signaling pathway	GO:0016573	na
+positive regulation of synapse maturation	GO:0016573	na
+cholesterol biosynthetic process	GO:0016573	na
+isotype switching	GO:0016573	na
+positive regulation of cardiac muscle hypertrophy	GO:0016573	na
+positive regulation of MAP kinase activity	GO:0016573	na
+SRP-dependent cotranslational protein targeting to membrane	GO:0016573	na
+nuclear mRNA surveillance	GO:0016573	na
+nucleic acid phosphodiester bond hydrolysis	GO:0016573	na
+calcium-mediated signaling using intracellular calcium source	GO:0016573	na
+regulation of filopodium assembly	GO:0016573	na
+cellular response to hydrogen peroxide	GO:0016573	na
+dendritic cell differentiation	GO:0016573	na
+nitric oxide mediated signal transduction	GO:0016573	na
+telomeric D-loop disassembly	GO:0016573	na
+cellular response to steroid hormone stimulus	GO:0016573	na
+positive regulation of catalytic activity	GO:0016573	na
+regulation of DNA repair	GO:0016573	na
+monoubiquitinated protein deubiquitination	GO:0016573	na
+DNA damage response, detection of DNA damage	GO:0016573	na
+response to cytokine	GO:0016573	na
+energy reserve metabolic process	GO:0016573	na
+negative regulation of smooth muscle cell migration	GO:0016573	na
+cellular response to heparin	GO:0016573	na
+maintenance of protein location in nucleus	GO:0016573	na
+regulation of proteasomal ubiquitin-dependent protein catabolic process	GO:0016573	na
+regulation of intracellular estrogen receptor signaling pathway	GO:0016573	na
+Rac protein signal transduction	GO:0016573	na
+positive regulation of neuron death	GO:0016573	na
+lipid transport	GO:0016573	na
+cellular amino acid biosynthetic process	GO:0016573	na
+histone H2A monoubiquitination	GO:0016573	na
+low-density lipoprotein particle receptor catabolic process	GO:0016573	na
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	GO:0016573	na
+positive regulation of protein import into nucleus, translocation	GO:0016573	na
+positive regulation of catenin import into nucleus	GO:0016573	na
+protein localization to pre-autophagosomal structure	GO:0016573	na
+negative regulation of smooth muscle cell proliferation	GO:0016573	na
+mitochondrion localization	GO:0016573	na
+autophagosome maturation	GO:0016573	na
+intracellular transport	GO:0016573	na
+histone H4-K12 acetylation	GO:0016573	na
+positive regulation of histone H4 acetylation	GO:0016573	na
+positive regulation of protein localization to nucleus	GO:0016573	na
+serotonin receptor signaling pathway	GO:0016573	na
+positive regulation of granulocyte macrophage colony-stimulating factor production	GO:0016573	na
+protein ADP-ribosylation	GO:0016573	na
+regulation of telomere maintenance via telomerase	GO:0016573	na
+protein localization to chromosome, telomeric region	GO:0016573	na
+negative regulation of telomere maintenance via telomere lengthening	GO:0016573	na
+modulation by virus of host morphology or physiology	GO:0016573	na
+positive regulation of dendrite extension	GO:0016573	na
+lysosome localization	GO:0016573	na
+regulation of protein binding	GO:0016573	na
+pentose-phosphate shunt	GO:0016573	na
+telencephalon development	GO:0016573	na
+pituitary gland development	GO:0016573	na
+mitotic chromosome condensation	GO:0016573	na
+activin receptor signaling pathway	GO:0016573	na
+atrial cardiac muscle tissue morphogenesis	GO:0016573	na
+positive regulation of cardiac muscle cell proliferation	GO:0016573	na
+heart trabecula formation	GO:0016573	na
+Rap protein signal transduction	GO:0016573	na
+positive regulation of protein export from nucleus	GO:0016573	na
+SMAD protein complex assembly	GO:0016573	na
+high-density lipoprotein particle remodeling	GO:0016573	na
+high-density lipoprotein particle assembly	GO:0016573	na
+reverse cholesterol transport	GO:0016573	na
+ceramide metabolic process	GO:0016573	na
+positive regulation of triglyceride biosynthetic process	GO:0016573	na
+negative regulation of macrophage derived foam cell differentiation	GO:0016573	na
+positive regulation of cholesterol efflux	GO:0016573	na
+negative regulation of cholesterol storage	GO:0016573	na
+intracellular cholesterol transport	GO:0016573	na
+regulation of Cdc42 protein signal transduction	GO:0016573	na
+phospholipid efflux	GO:0016573	na
+phospholipid homeostasis	GO:0016573	na
+platelet dense granule organization	GO:0016573	na
+histone H2A acetylation	GO:0016573	na
+negative regulation of activin receptor signaling pathway	GO:0016573	na
+tRNA splicing, via endonucleolytic cleavage and ligation	GO:0016573	na
+calcineurin-NFAT signaling cascade	GO:0016573	na
+sensory perception	GO:0016573	na
+inner ear development	GO:0016573	na
+negative regulation of stem cell differentiation	GO:0016573	na
+embryonic placenta development	GO:0016573	na
+positive regulation of cytokine secretion	GO:0016573	na
+T cell mediated cytotoxicity	GO:0016573	na
+blood circulation	GO:0016573	na
+type 2 immune response	GO:0016573	na
+positive regulation of macrophage activation	GO:0016573	na
+gastrulation	GO:0016573	na
+cell-cell junction organization	GO:0016573	na
+negative regulation of microtubule polymerization	GO:0016573	na
+phospholipase C-activating dopamine receptor signaling pathway	GO:0016573	na
+response to cold	GO:0016573	na
+regulation of mitochondrial membrane potential	GO:0016573	na
+regulation of Notch signaling pathway	GO:0016573	na
+Notch signaling involved in heart development	GO:0016573	na
+nitric oxide biosynthetic process	GO:0016573	na
+negative regulation of signal transduction	GO:0016573	na
+megakaryocyte differentiation	GO:0016573	na
+platelet formation	GO:0016573	na
+negative regulation of peptidase activity	GO:0016573	na
+renal system development	GO:0016573	na
+endoderm formation	GO:0016573	na
+activation of phospholipase C activity	GO:0016573	na
+digestive tract morphogenesis	GO:0016573	na
+response to molecule of bacterial origin	GO:0016573	na
+cardiac septum morphogenesis	GO:0016573	na
+membrane protein proteolysis	GO:0016573	na
+adrenal gland development	GO:0016573	na
+positive regulation of protein kinase C signaling	GO:0016573	na
+signal transduction in response to DNA damage	GO:0016573	na
+neural retina development	GO:0016573	na
+L-ascorbic acid metabolic process	GO:0016573	na
+axon regeneration	GO:0016573	na
+tetrahydrofolate metabolic process	GO:0016573	na
+ovarian follicle development	GO:0016573	na
+retrograde axonal transport	GO:0016573	na
+positive regulation of superoxide anion generation	GO:0016573	na
+regulation of multicellular organism growth	GO:0016573	na
+response to ethanol	GO:0016573	na
+response to axon injury	GO:0016573	na
+heart contraction	GO:0016573	na
+blood coagulation, intrinsic pathway	GO:0016573	na
+NAD biosynthesis via nicotinamide riboside salvage pathway	GO:0016573	na
+glutamate metabolic process	GO:0016573	na
+regulation of axon extension	GO:0016573	na
+regulation of response to DNA damage stimulus	GO:0016573	na
+regulation of peptidyl-tyrosine phosphorylation	GO:0016573	na
+positive regulation of protein localization to plasma membrane	GO:0016573	na
+positive regulation of production of miRNAs involved in gene silencing by miRNA	GO:0016573	na
+plasminogen activation	GO:0016573	na
+negative regulation of platelet activation	GO:0016573	na
+peptidyl-glutamic acid carboxylation	GO:0016573	na
+regulation of blood coagulation	GO:0016573	na
+positive regulation of blood coagulation	GO:0016573	na
+positive regulation of collagen biosynthetic process	GO:0016573	na
+fibrinolysis	GO:0016573	na
+negative regulation of proteolysis	GO:0016573	na
+negative regulation of fibrinolysis	GO:0016573	na
+zymogen activation	GO:0016573	na
+negative regulation of oxidoreductase activity	GO:0016573	na
+interaction with symbiont	GO:0016573	na
+positive regulation of plasminogen activation	GO:0016573	na
+regulation of receptor activity	GO:0016573	na
+maintenance of gastrointestinal epithelium	GO:0016573	na
+blood vessel remodeling	GO:0016573	na
+positive regulation of activation of Janus kinase activity	GO:0016573	na
+positive regulation of cholesterol esterification	GO:0016573	na
+low-density lipoprotein particle remodeling	GO:0016573	na
+positive regulation of protein tyrosine kinase activity	GO:0016573	na
+positive regulation of branching involved in ureteric bud morphogenesis	GO:0016573	na
+positive regulation of vascular endothelial growth factor production	GO:0016573	na
+positive regulation of G-protein coupled receptor protein signaling pathway	GO:0016573	na
+positive regulation of apoptotic cell clearance	GO:0016573	na
+response to hormone	GO:0016573	na
+negative regulation of endopeptidase activity	GO:0016573	na
+negative regulation of trophoblast cell migration	GO:0016573	na
+negative regulation of blood coagulation	GO:0016573	na
+DNA methylation	GO:0016573	na
+positive regulation of pri-miRNA transcription from RNA polymerase II promoter	GO:0016573	na
+regulation of telomere maintenance	GO:0016573	na
+negative regulation of stress-activated MAPK cascade	GO:0016573	na
+negative regulation of fibroblast proliferation	GO:0016573	na
+chromosome organization	GO:0016573	na
+response to growth factor	GO:0016573	na
+positive regulation of DNA biosynthetic process	GO:0016573	na
+positive regulation of response to DNA damage stimulus	GO:0016573	na
+positive regulation of wound healing	GO:0016573	na
+positive regulation of blood vessel endothelial cell migration	GO:0016573	na
+negative regulation of platelet-derived growth factor receptor-beta signaling pathway	GO:0016573	na
+chylomicron remnant clearance	GO:0016573	na
+cholesterol import	GO:0016573	na
+cellular response to low-density lipoprotein particle stimulus	GO:0016573	na
+regulation of calcium ion import	GO:0016573	na
+positive regulation of fibroblast migration	GO:0016573	na
+response to progesterone	GO:0016573	na
+positive regulation of interleukin-17 production	GO:0016573	na
+receptor catabolic process	GO:0016573	na
+positive regulation of protein dephosphorylation	GO:0016573	na
+protein kinase B signaling	GO:0016573	na
+positive regulation of SMAD protein import into nucleus	GO:0016573	na
+response to cholesterol	GO:0016573	na
+cellular response to organic cyclic compound	GO:0016573	na
+negative regulation of protein localization to plasma membrane	GO:0016573	na
+positive regulation of transcription regulatory region DNA binding	GO:0016573	na
+regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0016573	na
+neurotrophin TRK receptor signaling pathway	GO:0016573	na
+receptor guanylyl cyclase signaling pathway	GO:0016573	na
+positive regulation of heart rate	GO:0016573	na
+regulation of atrial cardiac muscle cell membrane repolarization	GO:0016573	na
+positive regulation of cardiac muscle contraction	GO:0016573	na
+regulation of appetite	GO:0016573	na
+positive regulation of JAK-STAT cascade	GO:0016573	na
+positive regulation of multicellular organism growth	GO:0016573	na
+positive regulation of insulin-like growth factor receptor signaling pathway	GO:0016573	na
+positive regulation of glycogen biosynthetic process	GO:0016573	na
+positive regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway	GO:0016573	na
+mRNA stabilization	GO:0016573	na
+growth hormone secretion	GO:0016573	na
+positive regulation of growth hormone secretion	GO:0016573	na
+G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	GO:0016573	na
+adult feeding behavior	GO:0016573	na
+negative regulation of protein oligomerization	GO:0016573	na
+positive regulation of insulin receptor signaling pathway	GO:0016573	na
+regulation of protein secretion	GO:0016573	na
+negative regulation of protein secretion	GO:0016573	na
+fatty acid homeostasis	GO:0016573	na
+positive regulation of respiratory burst	GO:0016573	na
+positive regulation of peptide hormone secretion	GO:0016573	na
+positive regulation of blood vessel diameter	GO:0016573	na
+negative regulation of cytokine secretion involved in immune response	GO:0016573	na
+negative regulation of lipid storage	GO:0016573	na
+positive regulation of programmed cell death	GO:0016573	na
+positive regulation of osteoclast differentiation	GO:0016573	na
+embryonic digestive tract development	GO:0016573	na
+leukocyte tethering or rolling	GO:0016573	na
+response to glucocorticoid	GO:0016573	na
+positive regulation of NFAT protein import into nucleus	GO:0016573	na
+death-inducing signaling complex assembly	GO:0016573	na
+positive regulation of protein localization to cell surface	GO:0016573	na
+T cell activation involved in immune response	GO:0016573	na
+natural killer cell activation involved in immune response	GO:0016573	na
+B cell differentiation	GO:0016573	na
+positive regulation of peptidyl-serine phosphorylation of STAT protein	GO:0016573	na
+B cell proliferation	GO:0016573	na
+regulation of type I interferon-mediated signaling pathway	GO:0016573	na
+positive regulation of apoptotic signaling pathway	GO:0016573	na
+positive regulation of interleukin-2 biosynthetic process	GO:0016573	na
+positive regulation of vascular endothelial growth factor receptor signaling pathway	GO:0016573	na
+cellular response to organic substance	GO:0016573	na
+glomerular filtration	GO:0016573	na
+fusion of virus membrane with host plasma membrane	GO:0016573	na
+positive regulation of monocyte differentiation	GO:0016573	na
+cellular response to granulocyte macrophage colony-stimulating factor stimulus	GO:0016573	na
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	GO:0016573	na
+skin development	GO:0016573	na
+negative regulation of immune response	GO:0016573	na
+regulation of cell death	GO:0016573	na
+aging	GO:0016573	na
+hemidesmosome assembly	GO:0016573	na
+hair cycle	GO:0016573	na
+phosphatidylcholine biosynthetic process	GO:0016573	na
+negative regulation of tumor necrosis factor-mediated signaling pathway	GO:0016573	na
+positive regulation of triglyceride catabolic process	GO:0016573	na
+chylomicron remodeling	GO:0016573	na
+chylomicron assembly	GO:0016573	na
+positive regulation of fatty acid biosynthetic process	GO:0016573	na
+negative regulation of interleukin-1 beta secretion	GO:0016573	na
+positive regulation of lipoprotein lipase activity	GO:0016573	na
+triglyceride homeostasis	GO:0016573	na
+positive regulation of substrate adhesion-dependent cell spreading	GO:0016573	na
+response to reactive oxygen species	GO:0016573	na
+cholesterol catabolic process	GO:0016573	na
+synaptic transmission, cholinergic	GO:0016573	na
+protein import	GO:0016573	na
+virion assembly	GO:0016573	na
+very-low-density lipoprotein particle remodeling	GO:0016573	na
+very-low-density lipoprotein particle clearance	GO:0016573	na
+positive regulation by host of viral process	GO:0016573	na
+negative regulation of amyloid-beta formation	GO:0016573	na
+response to glucose	GO:0016573	na
+negative regulation of receptor-mediated endocytosis	GO:0016573	na
+negative regulation of lipoprotein lipase activity	GO:0016573	na
+response to nicotine	GO:0016573	na
+neuromuscular process	GO:0016573	na
+cation transmembrane transport	GO:0016573	na
+anion transport	GO:0016573	na
+opsonization	GO:0016573	na
+negative regulation of viral process	GO:0016573	na
+negative regulation of macrophage differentiation	GO:0016573	na
+endodermal cell differentiation	GO:0016573	na
+cardiac muscle tissue development	GO:0016573	na
+positive regulation of immunoglobulin secretion	GO:0016573	na
+leukocyte chemotaxis	GO:0016573	na
+defense response to protozoan	GO:0016573	na
+positive regulation of macrophage differentiation	GO:0016573	na
+positive regulation of B cell proliferation	GO:0016573	na
+iron ion homeostasis	GO:0016573	na
+cellular response to iron ion	GO:0016573	na
+regulation of cytokine production	GO:0016573	na
+negative regulation of lipopolysaccharide-mediated signaling pathway	GO:0016573	na
+negative regulation of ATPase activity	GO:0016573	na
+positive regulation of toll-like receptor 4 signaling pathway	GO:0016573	na
+response to metal ion	GO:0016573	na
+cellular response to zinc ion	GO:0016573	na
+regulation of bone resorption	GO:0016573	na
+regulation of osteoclast differentiation	GO:0016573	na
+positive regulation of phospholipase C activity	GO:0016573	na
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	GO:0016573	na
+UV protection	GO:0016573	na
+regulation of Rho protein signal transduction	GO:0016573	na
+neutrophil mediated immunity	GO:0016573	na
+positive regulation of calcium ion transport into cytosol	GO:0016573	na
+phosphatidylcholine metabolic process	GO:0016573	na
+arachidonic acid secretion	GO:0016573	na
+positive regulation of vesicle fusion	GO:0016573	na
+cellular response to glucocorticoid stimulus	GO:0016573	na
+hair follicle development	GO:0016573	na
+positive regulation of cholesterol storage	GO:0016573	na
+oxygen homeostasis	GO:0016573	na
+regulation of platelet activation	GO:0016573	na
+defense response to fungus	GO:0016573	na
+positive regulation of focal adhesion assembly	GO:0016573	na
+regulation of cell-matrix adhesion	GO:0016573	na
+negative regulation of T cell receptor signaling pathway	GO:0016573	na
+hemostasis	GO:0016573	na
+positive regulation of transcription from RNA polymerase I promoter	GO:0016573	na
+positive regulation of transcription from RNA polymerase III promoter	GO:0016573	na
+nerve growth factor signaling pathway	GO:0016573	na
+sympathetic nervous system development	GO:0016573	na
+cellular response to nerve growth factor stimulus	GO:0016573	na
+regulation of mitochondrial membrane permeability	GO:0016573	na
+negative regulation of telomerase activity	GO:0016573	na
+positive regulation of execution phase of apoptosis	GO:0016573	na
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	GO:0016573	na
+positive regulation of endothelial cell chemotaxis	GO:0016573	na
+drug metabolic process	GO:0016573	na
+epoxygenase P450 pathway	GO:0016573	na
+omega-hydroxylase P450 pathway	GO:0016573	na
+tetrahydrofolate interconversion	GO:0016573	na
+superoxide anion generation	GO:0016573	na
+respiratory burst	GO:0016573	na
+myoblast differentiation	GO:0016573	na
+insulin-like growth factor receptor signaling pathway	GO:0016573	na
+cellular sodium ion homeostasis	GO:0016573	na
+cellular potassium ion homeostasis	GO:0016573	na
+sodium ion export from cell	GO:0016573	na
+relaxation of cardiac muscle	GO:0016573	na
+membrane repolarization	GO:0016573	na
+membrane repolarization during cardiac muscle cell action potential	GO:0016573	na
+cell communication by electrical coupling involved in cardiac conduction	GO:0016573	na
+potassium ion import across plasma membrane	GO:0016573	na
+regulation of cardiac muscle contraction by calcium ion signaling	GO:0016573	na
+positive regulation of potassium ion transmembrane transporter activity	GO:0016573	na
+vacuolar proton-transporting V-type ATPase complex assembly	GO:0016573	na
+positive regulation of long-term synaptic potentiation	GO:0016573	na
+amyloid fibril formation	GO:0016573	na
+regulation of NMDA receptor activity	GO:0016573	na
+tissue regeneration	GO:0016573	na
+steroid biosynthetic process	GO:0016573	na
+progesterone metabolic process	GO:0016573	na
+heterotypic cell-cell adhesion	GO:0016573	na
+leukocyte cell-cell adhesion	GO:0016573	na
+leukocyte migration involved in inflammatory response	GO:0016573	na
+negative regulation of phosphorylation	GO:0016573	na
+negative regulation of epithelial cell migration	GO:0016573	na
+positive regulation of MHC class II biosynthetic process	GO:0016573	na
+positive regulation of T cell differentiation	GO:0016573	na
+negative regulation of plasminogen activation	GO:0016573	na
+response to type I interferon	GO:0016573	na
+monoterpenoid metabolic process	GO:0016573	na
+drug catabolic process	GO:0016573	na
+heterocycle metabolic process	GO:0016573	na
+oxidative demethylation	GO:0016573	na
+negative regulation of translational initiation in response to stress	GO:0016573	na
+PERK-mediated unfolded protein response	GO:0016573	na
+positive regulation of cell division	GO:0016573	na
+interleukin-6-mediated signaling pathway	GO:0016573	na
+T-helper 17 cell lineage commitment	GO:0016573	na
+positive regulation of T-helper 2 cell cytokine production	GO:0016573	na
+regulation of systemic arterial blood pressure by endothelin	GO:0016573	na
+positive regulation of receptor biosynthetic process	GO:0016573	na
+vasoconstriction	GO:0016573	na
+inositol phosphate-mediated signaling	GO:0016573	na
+membrane to membrane docking	GO:0016573	na
+receptor-mediated virion attachment to host cell	GO:0016573	na
+cytoplasmic translation	GO:0016573	na
+response to mechanical stimulus	GO:0016573	na
+negative regulation by host of viral transcription	GO:0016573	na
+histone mRNA metabolic process	GO:0016573	na
+trigeminal nerve development	GO:0016573	na
+eyelid development in camera-type eye	GO:0016573	na
+stress fiber assembly	GO:0016573	na
+lactation	GO:0016573	na
+heme biosynthetic process	GO:0016573	na
+regulation of embryonic development	GO:0016573	na
+cellular zinc ion homeostasis	GO:0016573	na
+negative regulation of nitric oxide biosynthetic process	GO:0016573	na
+Golgi disassembly	GO:0016573	na
+lipid homeostasis	GO:0016573	na
+creatine metabolic process	GO:0016573	na
+positive regulation of ATP biosynthetic process	GO:0016573	na
+glycogen metabolic process	GO:0016573	na
+nucleotide-excision repair, DNA gap filling	GO:0016573	na
+negative regulation of protein kinase activity by regulation of protein phosphorylation	GO:0016573	na
+extrinsic apoptotic signaling pathway in absence of ligand	GO:0016573	na
+synaptic transmission, dopaminergic	GO:0016573	na
+parturition	GO:0016573	na
+negative regulation of protein processing	GO:0016573	na
+negative regulation of platelet aggregation	GO:0016573	na
+dopamine biosynthetic process	GO:0016573	na
+embryonic hemopoiesis	GO:0016573	na
+positive regulation of microtubule polymerization	GO:0016573	na
+macrophage differentiation	GO:0016573	na
+natural killer cell mediated cytotoxicity	GO:0016573	na
+response to UV-B	GO:0016573	na
+positive regulation of mitochondrial depolarization	GO:0016573	na
+cellular response to thyroid hormone stimulus	GO:0016573	na
+positive regulation of actin filament bundle assembly	GO:0016573	na
+negative regulation of telomere maintenance via telomerase	GO:0016573	na
+3'-UTR-mediated mRNA stabilization	GO:0016573	na
+odontogenesis	GO:0016573	na
+regulation of vascular permeability	GO:0016573	na
+nucleotide-excision repair, preincision complex stabilization	GO:0016573	na
+nucleotide-excision repair, DNA incision, 3'-to lesion	GO:0016573	na
+nucleotide-excision repair, DNA incision, 5'-to lesion	GO:0016573	na
+global genome nucleotide-excision repair	GO:0016573	na
+UV-damage excision repair	GO:0016573	na
+positive regulation of macrophage chemotaxis	GO:0016573	na
+protein O-linked fucosylation	GO:0016573	na
+positive regulation of endothelial cell apoptotic process	GO:0016573	na
+phototransduction, visible light	GO:0016573	na
+rhodopsin mediated signaling pathway	GO:0016573	na
+regulation of smoothened signaling pathway	GO:0016573	na
+positive regulation of smoothened signaling pathway	GO:0016573	na
+phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	GO:0016573	na
+cellular response to nitric oxide	GO:0016573	na
+amyloid-beta metabolic process	GO:0016573	na
+regulation of striated muscle contraction	GO:0016573	na
+wound healing, spreading of epidermal cells	GO:0016573	na
+androgen metabolic process	GO:0016573	na
+positive regulation of positive chemotaxis	GO:0016573	na
+GTP metabolic process	GO:0016573	na
+behavioral fear response	GO:0016573	na
+positive regulation of potassium ion transport	GO:0016573	na
+intestinal absorption	GO:0016573	na
+negative regulation of calcium ion transport	GO:0016573	na
+embryonic morphogenesis	GO:0016573	na
+very long-chain fatty acid metabolic process	GO:0016573	na
+barbed-end actin filament capping	GO:0016573	na
+positive regulation of lamellipodium morphogenesis	GO:0016573	na
+DNA topological change	GO:0016573	na
+V(D)J recombination	GO:0016573	na
+apoptotic cell clearance	GO:0016573	na
+DNA ligation involved in DNA repair	GO:0016573	na
+positive regulation of protein processing	GO:0016573	na
+sexual reproduction	GO:0016573	na
+cellular response to magnesium ion	GO:0016573	na
+negative regulation of vascular smooth muscle cell proliferation	GO:0016573	na
+retina vasculature development in camera-type eye	GO:0016573	na
+negative regulation of ruffle assembly	GO:0016573	na
+regulation of innate immune response	GO:0016573	na
+nucleotide-excision repair, DNA damage recognition	GO:0016573	na
+nucleotide-excision repair, DNA duplex unwinding	GO:0016573	na
+lagging strand elongation	GO:0016573	na
+nucleotide-excision repair, preincision complex assembly	GO:0016573	na
+intracellular transport of viral protein in host cell	GO:0016573	na
+leukotriene metabolic process	GO:0016573	na
+secretion by cell	GO:0016573	na
+rRNA catabolic process	GO:0016573	na
+adenylate cyclase-inhibiting dopamine receptor signaling pathway	GO:0016573	na
+regulation of potassium ion transport	GO:0016573	na
+behavioral response to cocaine	GO:0016573	na
+behavioral response to ethanol	GO:0016573	na
+negative regulation of cytosolic calcium ion concentration	GO:0016573	na
+negative regulation of synaptic transmission, glutamatergic	GO:0016573	na
+regulation of type I interferon production	GO:0016573	na
+error-free translesion synthesis	GO:0016573	na
+camera-type eye development	GO:0016573	na
+macrophage chemotaxis	GO:0016573	na
+negative regulation of toll-like receptor signaling pathway	GO:0016573	na
+developmental growth	GO:0016573	na
+T cell differentiation in thymus	GO:0016573	na
+telomere maintenance via telomere lengthening	GO:0016573	na
+neutrophil activation	GO:0016573	na
+positive regulation of calcium-mediated signaling	GO:0016573	na
+regulation of sensory perception of pain	GO:0016573	na
+positive regulation of natural killer cell chemotaxis	GO:0016573	na
+positive regulation of histone H3-K4 methylation	GO:0016573	na
+positive regulation of histone H3-K9 methylation	GO:0016573	na
+intracellular receptor signaling pathway	GO:0016573	na
+positive regulation of T-helper 2 cell differentiation	GO:0016573	na
+response to iron ion	GO:0016573	na
+regulation of protein homodimerization activity	GO:0016573	na
+regulation of protein heterodimerization activity	GO:0016573	na
+positive regulation of bone resorption	GO:0016573	na
+microglial cell activation	GO:0016573	na
+negative regulation of kinase activity	GO:0016573	na
+regulation of calcium-mediated signaling	GO:0016573	na
+negative regulation of cAMP-dependent protein kinase activity	GO:0016573	na
+succinate metabolic process	GO:0016573	na
+oxaloacetate metabolic process	GO:0016573	na
+positive regulation of the force of heart contraction	GO:0016573	na
+embryonic limb morphogenesis	GO:0016573	na
+cation transport	GO:0016573	na
+behavioral response to nicotine	GO:0016573	na
+positive regulation of autophagosome assembly	GO:0016573	na
+skeletal system morphogenesis	GO:0016573	na
+DNA ligation	GO:0016573	na
+response to light stimulus	GO:0016573	na
+regulation of ryanodine-sensitive calcium-release channel activity	GO:0016573	na
+somite development	GO:0016573	na
+mRNA transcription from RNA polymerase II promoter	GO:0016573	na
+positive regulation of smooth muscle contraction	GO:0016573	na
+positive regulation of transcription initiation from RNA polymerase II promoter	GO:0016573	na
+nuclear pore organization	GO:0016573	na
+cellular response to interferon-alpha	GO:0016573	na
+regulation of mRNA export from nucleus	GO:0016573	na
+nuclear pore complex assembly	GO:0016573	na
+atrioventricular valve morphogenesis	GO:0016573	na
+endocardial cushion morphogenesis	GO:0016573	na
+positive regulation of ossification	GO:0016573	na
+mesenchymal cell differentiation	GO:0016573	na
+cardiac epithelial to mesenchymal transition	GO:0016573	na
+membranous septum morphogenesis	GO:0016573	na
+aortic valve morphogenesis	GO:0016573	na
+mesenchymal to epithelial transition involved in metanephros morphogenesis	GO:0016573	na
+post-embryonic development	GO:0016573	na
+pharyngeal arch artery morphogenesis	GO:0016573	na
+cardiac right ventricle morphogenesis	GO:0016573	na
+olfactory bulb development	GO:0016573	na
+camera-type eye morphogenesis	GO:0016573	na
+hematopoietic stem cell differentiation	GO:0016573	na
+regulation of epithelial cell migration	GO:0016573	na
+regulation of cell-cell adhesion	GO:0016573	na
+cellular response to peptide hormone stimulus	GO:0016573	na
+regulation of smooth muscle cell proliferation	GO:0016573	na
+definitive hemopoiesis	GO:0016573	na
+response to interferon-alpha	GO:0016573	na
+positive regulation of myoblast differentiation	GO:0016573	na
+positive regulation of skeletal muscle fiber development	GO:0016573	na
+cellular response to interleukin-6	GO:0016573	na
+cellular homeostasis	GO:0016573	na
+multicellular organismal water homeostasis	GO:0016573	na
+cellular response to copper ion	GO:0016573	na
+regulation of epidermal growth factor receptor signaling pathway	GO:0016573	na
+cell-cell adhesion via plasma-membrane adhesion molecules	GO:0016573	na
+positive regulation of vasculogenesis	GO:0016573	na
+protein kinase A signaling	GO:0016573	na
+actin crosslink formation	GO:0016573	na
+folic acid transport	GO:0016573	na
+protein trimerization	GO:0016573	na
+positive regulation of neuroblast proliferation	GO:0016573	na
+peristalsis	GO:0016573	na
+chemical synaptic transmission, postsynaptic	GO:0016573	na
+regulation of mitotic cell cycle spindle assembly checkpoint	GO:0016573	na
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO:0016573	na
+regulation of ventricular cardiac muscle cell action potential	GO:0016573	na
+astral microtubule organization	GO:0016573	na
+positive regulation of cellular protein catabolic process	GO:0016573	na
+positive regulation of early endosome to late endosome transport	GO:0016573	na
+regulation of NIK/NF-kappaB signaling	GO:0016573	na
+potassium ion export	GO:0016573	na
+ventricular cardiac muscle cell action potential	GO:0016573	na
+membrane repolarization during action potential	GO:0016573	na
+regulation of potassium ion transmembrane transport	GO:0016573	na
+negative regulation of delayed rectifier potassium channel activity	GO:0016573	na
+positive regulation of memory T cell differentiation	GO:0016573	na
+positive regulation of regulatory T cell differentiation	GO:0016573	na
+positive regulation of leukocyte migration	GO:0016573	na
+ventricular compact myocardium morphogenesis	GO:0016573	na
+positive regulation of transcription from RNA polymerase II promoter in response to stress	GO:0016573	na
+phosphatidylethanolamine biosynthetic process	GO:0016573	na
+positive regulation of urine volume	GO:0016573	na
+protein targeting to plasma membrane	GO:0016573	na
+embryonic skeletal system morphogenesis	GO:0016573	na
+calcium ion regulated exocytosis	GO:0016573	na
+homocysteine metabolic process	GO:0016573	na
+positive regulation of double-strand break repair	GO:0016573	na
+positive regulation of adenylate cyclase activity	GO:0016573	na
+regulation of lamellipodium assembly	GO:0016573	na
+regulation of cardiac muscle cell action potential involved in regulation of contraction	GO:0016573	na
+cardiac left ventricle morphogenesis	GO:0016573	na
+regulation of DNA recombination	GO:0016573	na
+microtubule depolymerization	GO:0016573	na
+negative regulation of Rho protein signal transduction	GO:0016573	na
+positive regulation of megakaryocyte differentiation	GO:0016573	na
+negative regulation of establishment of protein localization to plasma membrane	GO:0016573	na
+negative regulation of interleukin-8 production	GO:0016573	na
+atrial cardiac muscle cell action potential	GO:0016573	na
+regulation of transcription from RNA polymerase I promoter	GO:0016573	na
+regulation of neurotransmitter secretion	GO:0016573	na
+cellular response to epinephrine stimulus	GO:0016573	na
+cardiac ventricle morphogenesis	GO:0016573	na
+ventricular trabecula myocardium morphogenesis	GO:0016573	na
+negative regulation of protein autophosphorylation	GO:0016573	na
+dorsal aorta morphogenesis	GO:0016573	na
+positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	GO:0016573	na
+regulation of androgen receptor signaling pathway	GO:0016573	na
+cellular triglyceride homeostasis	GO:0016573	na
+positive regulation of B cell differentiation	GO:0016573	na
+cellular response to interleukin-4	GO:0016573	na
+negative regulation of endocytosis	GO:0016573	na
+positive regulation of protein localization to Cajal body	GO:0016573	na
+fatty acid oxidation	GO:0016573	na
+regulation of mitotic cell cycle phase transition	GO:0016573	na
+heart trabecula morphogenesis	GO:0016573	na
+positive regulation of cytolysis	GO:0016573	na
+insulin secretion	GO:0016573	na
+sodium ion homeostasis	GO:0016573	na
+positive regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter	GO:0016573	na
+thorax and anterior abdomen determination	GO:0016573	na
+gonad development	GO:0016573	na
+cellular response to gonadotropin stimulus	GO:0016573	na
+metanephric mesenchyme development	GO:0016573	na
+metanephric epithelium development	GO:0016573	na
+cellular response to acidic pH	GO:0016573	na
+sodium ion import across plasma membrane	GO:0016573	na
+protein targeting to Golgi	GO:0016573	na
+response to leptin	GO:0016573	na
+regulation of cholesterol homeostasis	GO:0016573	na
+maintenance of DNA repeat elements	GO:0016573	na
+negative regulation of DNA recombination	GO:0016573	na
+positive regulation of helicase activity	GO:0016573	na
+negative regulation of erythrocyte differentiation	GO:0016573	na
+response to UV-C	GO:0016573	na
+negative regulation of peptidyl-tyrosine phosphorylation	GO:0016573	na
+negative regulation of axon extension	GO:0016573	na
+regulation of mRNA processing	GO:0016573	na
+negative regulation of oligodendrocyte differentiation	GO:0016573	na
+negative regulation of interleukin-2 production	GO:0016573	na
+protein K11-linked deubiquitination	GO:0016573	na
+adenylate cyclase-activating dopamine receptor signaling pathway	GO:0016573	na
+positive regulation of synaptic transmission, glutamatergic	GO:0016573	na
+manganese ion transport	GO:0016573	na
+embryonic organ development	GO:0016573	na
+inhibitory postsynaptic potential	GO:0016573	na
+endothelial cell apoptotic process	GO:0016573	na
+negative regulation of glycogen biosynthetic process	GO:0016573	na
+negative regulation of glucose import	GO:0016573	na
+phosphate ion homeostasis	GO:0016573	na
+primary miRNA processing	GO:0016573	na
+G-quadruplex DNA unwinding	GO:0016573	na
+negative regulation of epidermal growth factor-activated receptor activity	GO:0016573	na
+protein peptidyl-prolyl isomerization	GO:0016573	na
+regulation of cell communication by electrical coupling involved in cardiac conduction	GO:0016573	na
+TOR signaling	GO:0016573	na
+oligodendrocyte differentiation	GO:0016573	na
+sulfur amino acid metabolic process	GO:0016573	na
+regulation of sodium ion transmembrane transport	GO:0016573	na
+ventricular septum development	GO:0016573	na
+positive regulation of signal transduction	GO:0016573	na
+regulated exocytosis	GO:0016573	na
+enteric nervous system development	GO:0016573	na
+regulation of G2/M transition of mitotic cell cycle	GO:0016573	na
+regulation of attachment of spindle microtubules to kinetochore	GO:0016573	na
+histone modification	GO:0016573	na
+leptin-mediated signaling pathway	GO:0016573	na
+brown fat cell differentiation	GO:0016573	na
+cellular response to cold	GO:0016573	na
+regulation of BMP signaling pathway	GO:0016573	na
+brain morphogenesis	GO:0016573	na
+maintenance of DNA methylation	GO:0016573	na
+regulation of keratinocyte proliferation	GO:0016573	na
+miRNA mediated inhibition of translation	GO:0016573	na
+negative regulation of heart rate	GO:0016573	na
+regulation of cardiac muscle cell contraction	GO:0016573	na
+transmembrane receptor protein serine/threonine kinase signaling pathway	GO:0016573	na
+positive regulation of activin receptor signaling pathway	GO:0016573	na
+caveolin-mediated endocytosis	GO:0016573	na
+ribosomal large subunit assembly	GO:0016573	na
+regulation of cholesterol metabolic process	GO:0016573	na
+inactivation of MAPK activity	GO:0016573	na
+urogenital system development	GO:0016573	na
+axonal fasciculation	GO:0016573	na
+regulation of G1/S transition of mitotic cell cycle	GO:0016573	na
+positive regulation of NK T cell activation	GO:0016573	na
+positive regulation of T-helper 1 type immune response	GO:0016573	na
+positive regulation of tissue remodeling	GO:0016573	na
+positive regulation of T-helper 17 type immune response	GO:0016573	na
+lateral ventricle development	GO:0016573	na
+action potential	GO:0016573	na
+myeloid cell differentiation	GO:0016573	na
+negative regulation of keratinocyte differentiation	GO:0016573	na
+positive regulation of glucose metabolic process	GO:0016573	na
+regulation of neuron projection development	GO:0016573	na
+positive regulation of fatty acid beta-oxidation	GO:0016573	na
+negative regulation of transposition	GO:0016573	na
+G-protein coupled receptor internalization	GO:0016573	na
+forebrain development	GO:0016573	na
+positive regulation of embryonic development	GO:0016573	na
+positive regulation of gastrulation	GO:0016573	na
+calcium ion transport into cytosol	GO:0016573	na
+phosphorylation of RNA polymerase II C-terminal domain	GO:0016573	na
+positive regulation of MHC class I biosynthetic process	GO:0016573	na
+centrosome localization	GO:0016573	na
+endothelial tube morphogenesis	GO:0016573	na
+negative regulation of cell size	GO:0016573	na
+modulation of synaptic transmission	GO:0016573	na
+muscle cell differentiation	GO:0016573	na
+response to peptide hormone	GO:0016573	na
+negative regulation of CREB transcription factor activity	GO:0016573	na
+lymphangiogenesis	GO:0016573	na
+lymphatic endothelial cell differentiation	GO:0016573	na
+misfolded or incompletely synthesized protein catabolic process	GO:0016573	na
+negative regulation of DNA biosynthetic process	GO:0016573	na
+regulation of Ras protein signal transduction	GO:0016573	na
+regulation of mitotic spindle organization	GO:0016573	na
+negative regulation of histone acetylation	GO:0016573	na
+positive regulation of mRNA splicing, via spliceosome	GO:0016573	na
+postreplication repair	GO:0016573	na
+positive regulation of adaptive immune response	GO:0016573	na
+negative regulation of B cell apoptotic process	GO:0016573	na
+genitalia development	GO:0016573	na
+positive regulation of type I interferon-mediated signaling pathway	GO:0016573	na
+protein acetylation	GO:0016573	na
+establishment or maintenance of epithelial cell apical/basal polarity	GO:0016573	na
+retinal metabolic process	GO:0016573	na
+TORC1 signaling	GO:0016573	na
+cellular response to leucine	GO:0016573	na
+cellular response to leucine starvation	GO:0016573	na
+hippocampus development	GO:0016573	na
+DNA double-strand break processing involved in repair via single-strand annealing	GO:0016573	na
+positive regulation of mitotic centrosome separation	GO:0016573	na
+atrial septum morphogenesis	GO:0016573	na
+amyloid precursor protein catabolic process	GO:0016573	na
+cellular response to hydroxyurea	GO:0016573	na
+negative regulation of ubiquitin protein ligase activity	GO:0016573	na
+negative regulation of sodium ion transmembrane transporter activity	GO:0016573	na
+neuron projection extension	GO:0016573	na
+cell junction assembly	GO:0016573	na
+protein localization to cilium	GO:0016573	na
+protein localization to centrosome	GO:0016573	na
+non-motile cilium assembly	GO:0016573	na
+cerebellum development	GO:0016573	na
+head development	GO:0016573	na
+macropinocytosis	GO:0016573	na
+kinetochore assembly	GO:0016573	na
+cochlea development	GO:0016573	na
+endosomal vesicle fusion	GO:0016573	na
+oligodendrocyte development	GO:0016573	na
+negative regulation of protein localization to nucleus	GO:0016573	na
+protein localization to organelle	GO:0016573	na
+plasma membrane to endosome transport	GO:0016573	na
+negative regulation of T cell activation	GO:0016573	na
+establishment of protein localization to telomere	GO:0016573	na
+caveola assembly	GO:0016573	na
+positive regulation of mRNA 3'-end processing	GO:0016573	na
+response to ATP	GO:0016573	na
+negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO:0016573	na
+replication fork protection	GO:0016573	na
+telomere capping	GO:0016573	na
+male meiotic nuclear division	GO:0016573	na
+establishment of endothelial intestinal barrier	GO:0016573	na
+miRNA loading onto RISC involved in gene silencing by miRNA	GO:0016573	na
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	GO:0016573	na
+histone methylation	GO:0016573	na
+cellular response to platelet-derived growth factor stimulus	GO:0016573	na
+peptidyl-lysine deacetylation	GO:0016573	na
+histone H4 deacetylation	GO:0016573	na
+negative regulation of potassium ion transmembrane transport	GO:0016573	na
+mitochondrial calcium ion homeostasis	GO:0016573	na
+equilibrioception	GO:0016573	na
+positive regulation of protein homodimerization activity	GO:0016573	na
+dentate gyrus development	GO:0016573	na
+protein neddylation	GO:0016573	na
+pancreas development	GO:0016573	na
+cleavage furrow formation	GO:0016573	na
+antigen processing and presentation of endogenous peptide antigen via MHC class I	GO:0016573	na
+protein localization to endosome	GO:0016573	na
+regulation of dendritic spine development	GO:0016573	na
+receptor localization to synapse	GO:0016573	na
+negative regulation of cellular senescence	GO:0016573	na
+embryonic heart tube morphogenesis	GO:0016573	na
+atrioventricular canal development	GO:0016573	na
+negative regulation of RIG-I signaling pathway	GO:0016573	na
+interphase microtubule nucleation by interphase microtubule organizing center	GO:0016573	na
+neuronal signal transduction	GO:0016573	na
+activation of cysteine-type endopeptidase activity	GO:0016573	na
+regulation of Golgi organization	GO:0016573	na
+regulation of telomerase activity	GO:0016573	na
+regulation of membrane depolarization	GO:0016573	na
+viral mRNA export from host cell nucleus	GO:0016573	na
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	GO:0016573	na
+U4 snRNA 3'-end processing	GO:0016573	na
+polyadenylation-dependent snoRNA 3'-end processing	GO:0016573	na
+centriole-centriole cohesion	GO:0016573	na
+microtubule anchoring at centrosome	GO:0016573	na
+positive regulation of intracellular transport	GO:0016573	na
+negative regulation of interleukin-6 secretion	GO:0016573	na
+mitotic sister chromatid cohesion	GO:0016573	na
+protection from non-homologous end joining at telomere	GO:0016573	na
+positive regulation of protein exit from endoplasmic reticulum	GO:0016573	na
+negative regulation of cellular protein catabolic process	GO:0016573	na
+craniofacial suture morphogenesis	GO:0016573	na
+plasma membrane tubulation	GO:0016573	na
+positive regulation of myelination	GO:0016573	na
+positive regulation of TORC1 signaling	GO:0016573	na
+regulation of cilium beat frequency involved in ciliary motility	GO:0016573	na
+endodermal cell fate commitment	GO:0016573	na
+viral budding	GO:0016573	na
+positive regulation of Arp2/3 complex-mediated actin nucleation	GO:0016573	na
+vocalization behavior	GO:0016573	na
+adult behavior	GO:0016573	na
+peptidyl-lysine monomethylation	GO:0016573	na
+peptidyl-lysine dimethylation	GO:0016573	na
+posttranscriptional gene silencing by RNA	GO:0016573	na
+histone acetylation	GO:0016573	na
