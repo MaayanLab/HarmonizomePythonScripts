@@ -1,0 +1,108 @@
+donor_id,name,age,sex,apo_e4_allele,education_years,age_at_first_tbi,longest_loc_duration,cerad,num_tbi_w_loc,dsm_iv_clinical_diagnosis,control_set,nincds_arda_diagnosis,ever_tbi_w_loc,race,hispanic,act_demented,braak,nia_reagan
+326765665,H14.09.078,87,M,N,16,0,Unknown or N/A,0,0,No Dementia,31,No Dementia,N,White,Not Hispanic,No Dementia,1,1
+326765656,H14.09.069,95-99,M,N,17,12,1-2 min,2,1,No Dementia,26,No Dementia,Y,White,Not Hispanic,No Dementia,5,2
+326765654,H14.09.067,85,M,Y,10,72,< 10 sec,3,1,Vascular,25,"Dementia, Type Unknown",Y,White,Not Hispanic,Dementia,4,2
+467056391,H15.09.103,90-94,F,N,11,87,< 10 sec,0,1,No Dementia,52,No Dementia,Y,White,Not Hispanic,No Dementia,4,0
+309335447,H14.09.010,100+,M,Y,16,0,Unknown or N/A,3,0,Alzheimer's Disease Type,28,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,4,2
+309335457,H14.09.020,95-99,F,N,18,0,Unknown or N/A,2,0,No Dementia,1,No Dementia,N,Non-white,Not Hispanic,No Dementia,3,2
+326765676,H14.09.089,89,F,N/A,12,13,10 min - 1 hr,3,1,Vascular,43,"Dementia, Type Unknown",Y,White,Not Hispanic,Dementia,6,3
+326765681,H14.09.094,78,M,N,18,0,Unknown or N/A,1,0,No Dementia,46,No Dementia,N,White,Not Hispanic,No Dementia,2,1
+326765648,H14.09.061,89,F,N,16,6,< 10 sec,1,1,Multiple Etiologies,22,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,2,1
+326765657,H14.09.070,95-99,M,N,16,0,Unknown or N/A,0,0,No Dementia,26,No Dementia,N,White,Not Hispanic,No Dementia,2,1
+309335443,H14.09.006,90-94,F,N,14,0,Unknown or N/A,0,0,No Dementia,16,No Dementia,N,White,Not Hispanic,No Dementia,3,1
+467056408,H15.09.109,83,F,N,13,33,< 10 sec,2,1,Alzheimer's Disease Type,55,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,4,2
+326765661,H14.09.074,82,F,N,16,0,Unknown or N/A,1,0,No Dementia,29,No Dementia,N,White,Not Hispanic,No Dementia,3,1
+326765680,H14.09.093,77,M,N,12,12,Unknown or N/A,3,1,Other or Unknown Cause,46,"Dementia, Type Unknown",Y,White,Not Hispanic,Dementia,6,3
+326765659,H14.09.072,89,F,N,15,0,Unknown or N/A,1,0,No Dementia,27,No Dementia,N,White,Not Hispanic,No Dementia,4,1
+309335452,H14.09.015,81,M,N/A,16,23,> 1 hr,1,2,No Dementia,36,No Dementia,Y,White,Not Hispanic,No Dementia,1,1
+467056406,H15.09.107,90-94,F,Y,12,79,< 10 sec,3,1,Alzheimer's Disease Type,54,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,6,3
+309335488,H14.09.051,90-94,F,N,15,75,1-2 min,1,1,No Dementia,13,No Dementia,Y,White,Not Hispanic,No Dementia,2,1
+309335475,H14.09.038,78,M,N,16,0,Unknown or N/A,0,0,No Dementia,49,No Dementia,N,White,Not Hispanic,No Dementia,2,0
+309335445,H14.09.008,90-94,M,N,9,0,Unknown or N/A,3,0,Multiple Etiologies,17,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,6,3
+326765670,H14.09.083,81,M,N,17,21,3-5 min,1,1,Other Medical,38,"Dementia, Type Unknown",Y,White,Not Hispanic,No Dementia,3,1
+326765664,H14.09.077,87,M,N,8,26,< 10 sec,1,1,No Dementia,31,No Dementia,Y,White,Not Hispanic,No Dementia,1,1
+309335469,H14.09.032,90-94,F,N,15,0,Unknown or N/A,1,0,No Dementia,4,No Dementia,N,White,Not Hispanic,No Dementia,4,1
+467056409,H15.09.110,82,F,N,14,0,Unknown or N/A,2,0,Alzheimer's Disease Type,55,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,2,1
+309335441,H14.09.004,90-94,M,N,14,0,Unknown or N/A,1,0,No Dementia,14,No Dementia,N,White,Not Hispanic,No Dementia,3,1
+309335492,H14.09.055,100+,F,N,12,89,Unknown or N/A,2,1,Alzheimer's Disease Type,18,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,6,2
+309335440,H14.09.003,90-94,M,N,13,11,10 min - 1 hr,2,2,No Dementia,14,No Dementia,Y,White,Not Hispanic,No Dementia,1,2
+309335444,H14.09.007,90-94,M,N,8,16,> 1 hr,3,1,Multiple Etiologies,17,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,5,3
+309335461,H14.09.024,78,M,N,21,0,Unknown or N/A,1,0,No Dementia,37,No Dementia,N,White,Not Hispanic,No Dementia,3,1
+309335479,H14.09.042,95-99,F,N/A,11,0,Unknown or N/A,3,0,Alzheimer's Disease Type,8,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,5,3
+309335484,H14.09.047,88,F,N,12,81,< 10 sec,0,1,Alzheimer's Disease Type,11,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,4,1
+326765682,H14.09.095,84,M,N,16,47,10 min - 1 hr,2,1,No Dementia,47,No Dementia,Y,White,Not Hispanic,No Dementia,1,2
+309335491,H14.09.054,89,M,N,9,0,Unknown or N/A,1,0,Alzheimer's Disease Type,15,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,3,1
+326765658,H14.09.071,89,F,N,17,63,1-2 min,2,1,Alzheimer's Disease Type,27,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,6,2
+309335497,H14.09.060,86,F,N/A,12,0,Unknown or N/A,2,0,No Dementia,20,No Dementia,N,Non-white,Not Hispanic,No Dementia,4,2
+326765669,H14.09.082,95-99,M,N,15,0,Unknown or N/A,0,0,Alzheimer's Disease Type,35,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,4,1
+309335495,H14.09.058,88,M,N,14,0,Unknown or N/A,1,0,No Dementia,19,No Dementia,N,White,Not Hispanic,No Dementia,1,1
+309335465,H14.09.028,78,M,N,16,0,Unknown or N/A,2,0,No Dementia,41,No Dementia,N,White,Not Hispanic,No Dementia,3,2
+326765685,H14.09.098,86,M,N,9,0,Unknown or N/A,3,0,Alzheimer's Disease Type,48,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,6,3
+309335438,H14.09.001,90-94,M,N,16,15,> 1 hr,0,2,No Dementia,2,No Dementia,Y,White,Not Hispanic,No Dementia,6,2
+326765649,H14.09.062,89,F,Y,16,0,Unknown or N/A,1,0,No Dementia,22,No Dementia,N,White,Not Hispanic,No Dementia,3,1
+309335481,H14.09.044,87,F,N/A,14,0,Unknown or N/A,2,0,Alzheimer's Disease Type,9,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,6,2
+326765653,H14.09.066,90-94,M,N,12,0,Unknown or N/A,0,0,Multiple Etiologies,24,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,3,1
+309335467,H14.09.030,90-94,F,Y,15,0,Unknown or N/A,3,0,No Dementia,3,No Dementia,N,White,Not Hispanic,No Dementia,3,2
+326765675,H14.09.088,100+,F,N,12,0,Unknown or N/A,3,0,Alzheimer's Disease Type,42,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,5,3
+309335439,H14.09.002,90-94,M,Y,16,0,Unknown or N/A,0,0,Alzheimer's Disease Type,2,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,1,1
+309335494,H14.09.057,88,M,Y,14,86,10 min - 1 hr,0,1,No Dementia,19,No Dementia,Y,White,Not Hispanic,No Dementia,3,1
+326765688,H14.09.101,95-99,F,N,8,62,1-2 min,3,1,No Dementia,51,No Dementia,Y,White,Not Hispanic,No Dementia,5,3
+326765686,H14.09.099,90-94,M,N,21,88,Unknown or N/A,1,3,Alzheimer's Disease Type,50,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,3,1
+309335459,H14.09.022,88,M,N,12,0,Unknown or N/A,0,0,Alzheimer's Disease Type,21,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,1,1
+467056407,H15.09.108,90-94,F,N,12,0,Unknown or N/A,3,0,No Dementia,54,No Dementia,N,White,Not Hispanic,No Dementia,4,2
+326765652,H14.09.065,90-94,M,N,12,68,< 10 sec,1,1,No Dementia,24,No Dementia,Y,White,Not Hispanic,No Dementia,1,1
+309335446,H14.09.009,100+,M,N,15,10,> 1 hr,3,2,Alzheimer's Disease Type,28,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,5,3
+326765673,H14.09.086,95-99,F,N,14,0,Unknown or N/A,3,0,Alzheimer's Disease Type,39,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,6,3
+326765674,H14.09.087,100+,F,N/A,19,89,< 10 sec,2,1,Alzheimer's Disease Type,42,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,5,2
+309335450,H14.09.013,90-94,M,N,10,22,> 1 hr,1,1,Multiple Etiologies,33,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,3,1
+326765683,H14.09.096,84,M,N,12,0,Unknown or N/A,2,0,No Dementia,47,No Dementia,N,White,Not Hispanic,No Dementia,3,2
+326765666,H14.09.079,87,M,N,17,80,< 10 sec,3,1,No Dementia,34,No Dementia,Y,White,Not Hispanic,No Dementia,6,3
+326765660,H14.09.073,82,F,Y,14,15,10 min - 1 hr,1,1,Alzheimer's Disease Type,29,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,3,1
+309335448,H14.09.011,86,F,N,10,9,> 1 hr,1,1,No Dementia,32,No Dementia,Y,White,Not Hispanic,No Dementia,4,1
+309335489,H14.09.052,90-94,F,N,14,0,Unknown or N/A,1,0,No Dementia,13,No Dementia,N,White,Not Hispanic,No Dementia,2,1
+309335449,H14.09.012,86,F,Y,16,0,Unknown or N/A,0,0,Multiple Etiologies,32,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,3,1
+309335460,H14.09.023,78,M,N,21,69,< 10 sec,1,2,No Dementia,37,No Dementia,Y,White,Not Hispanic,No Dementia,2,1
+309335471,H14.09.034,88,M,Y,16,0,Unknown or N/A,3,0,Alzheimer's Disease Type,5,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,5,3
+309335474,H14.09.037,78,M,N,14,24,10 min - 1 hr,1,2,No Dementia,49,No Dementia,Y,White,Not Hispanic,No Dementia,2,1
+326765671,H14.09.084,81,M,N,10,0,Unknown or N/A,0,0,No Dementia,38,No Dementia,N,White,Not Hispanic,No Dementia,1,1
+309335456,H14.09.019,95-99,F,N,13,78,< 10 sec,3,1,No Dementia,1,No Dementia,Y,White,Not Hispanic,No Dementia,6,3
+309335482,H14.09.045,95-99,M,Y,12,16,< 10 sec,2,1,No Dementia,10,No Dementia,Y,White,Not Hispanic,No Dementia,5,2
+309335496,H14.09.059,86,F,N,11,26,Unknown or N/A,0,1,Other Medical,20,"Dementia, Type Unknown",Y,White,Not Hispanic,Dementia,4,1
+309335463,H14.09.026,84,M,N,18,0,Unknown or N/A,2,0,Vascular,40,"Dementia, Type Unknown",N,White,Not Hispanic,Dementia,4,2
+326765689,H14.09.102,95-99,F,N,16,0,Unknown or N/A,0,0,No Dementia,51,No Dementia,N,White,Not Hispanic,No Dementia,1,1
+309335455,H14.09.018,79,M,N,18,0,Unknown or N/A,0,0,Alzheimer's Disease Type,44,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,2,0
+326765650,H14.09.063,90-94,M,N,21,15,< 10 sec,2,1,Multiple Etiologies,23,"Dementia, Type Unknown",Y,White,Not Hispanic,Dementia,5,2
+309335466,H14.09.029,90-94,F,N,14,47,1-2 min,3,1,Multiple Etiologies,3,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,4,2
+309335476,H14.09.039,85,M,Y,14,13,< 10 sec,1,1,No Dementia,7,No Dementia,Y,White,Not Hispanic,No Dementia,3,1
+309335451,H14.09.014,90-94,M,N,10,0,Unknown or N/A,1,0,No Dementia,33,No Dementia,N,White,Not Hispanic,No Dementia,4,1
+309335490,H14.09.053,89,M,N,15,22,< 10 sec,1,1,No Dementia,15,No Dementia,Y,White,Not Hispanic,No Dementia,3,1
+309335487,H14.09.050,95-99,M,N,8,0,Unknown or N/A,3,0,No Dementia,12,No Dementia,N,White,Not Hispanic,No Dementia,3,2
+326765677,H14.09.090,89,F,N,12,0,Unknown or N/A,1,0,No Dementia,43,No Dementia,N,White,Not Hispanic,No Dementia,5,2
+309335480,H14.09.043,87,F,N,12,83,10 min - 1 hr,0,1,Multiple Etiologies,9,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,0,0
+309335485,H14.09.048,88,F,Y,12,0,Unknown or N/A,0,0,Multiple Etiologies,11,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,3,1
+309335483,H14.09.046,95-99,M,N,13,0,Unknown or N/A,2,0,No Dementia,10,No Dementia,N,White,Not Hispanic,No Dementia,1,2
+326765679,H14.09.092,90-94,M,Y,14,0,Unknown or N/A,3,0,Other Medical,45,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,6,3
+326765687,H14.09.100,90-94,M,N,12,0,Unknown or N/A,2,0,Multiple Etiologies,50,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,3,2
+467056397,H15.09.104,90-94,F,N,12,0,Unknown or N/A,2,0,No Dementia,52,No Dementia,N,White,Not Hispanic,No Dementia,5,2
+309335478,H14.09.041,100+,F,N,16,89,6-9 min,1,1,No Dementia,8,No Dementia,Y,White,Not Hispanic,No Dementia,4,1
+326765667,H14.09.080,87,M,N,21,0,Unknown or N/A,0,0,No Dementia,34,No Dementia,N,White,Not Hispanic,No Dementia,0,0
+326765672,H14.09.085,95-99,F,N,16,89,< 10 sec,1,1,No Dementia,39,No Dementia,Y,White,Not Hispanic,No Dementia,1,1
+309335493,H14.09.056,100+,F,N/A,17,0,Unknown or N/A,3,0,Alzheimer's Disease Type,18,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,5,3
+309335470,H14.09.033,88,M,Y,17,7,10 sec - 1 min,2,1,Alzheimer's Disease Type,5,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,6,2
+309335468,H14.09.031,90-94,F,N,13,67,< 10 sec,2,1,Other or Unknown Cause,4,"Dementia, Type Unknown",Y,White,Not Hispanic,Dementia,4,2
+326765655,H14.09.068,85,M,Y,16,0,Unknown or N/A,3,0,Alzheimer's Disease Type,25,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,5,3
+309335477,H14.09.040,85,M,Y,12,0,Unknown or N/A,1,0,Alzheimer's Disease Type,7,Probable Alzheimer'S Disease,N,White,Not Hispanic,Dementia,6,2
+326765668,H14.09.081,95-99,M,Y,13,89,Unknown or N/A,2,1,No Dementia,35,No Dementia,Y,White,Not Hispanic,No Dementia,3,2
+326765678,H14.09.091,90-94,M,N,12,21,10 sec - 1 min,3,1,Alzheimer's Disease Type,45,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,6,3
+467056405,H15.09.106,86,M,N,14,0,Unknown or N/A,0,0,No Dementia,53,No Dementia,N,White,Not Hispanic,No Dementia,2,1
+326765684,H14.09.097,86,M,N,14,20,Unknown or N/A,1,1,No Dementia,48,No Dementia,Y,White,Not Hispanic,No Dementia,3,1
+326765663,H14.09.076,78,F,N,14,0,Unknown or N/A,1,0,No Dementia,30,No Dementia,N,White,Not Hispanic,No Dementia,2,1
+326765662,H14.09.075,78,F,N,6,56,3-5 min,3,1,Alzheimer's Disease Type,30,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,6,3
+309335464,H14.09.027,78,M,N,21,12,> 1 hr,0,1,No Dementia,41,No Dementia,Y,White,Not Hispanic,No Dementia,0,0
+326765651,H14.09.064,90-94,M,N,12,0,Unknown or N/A,2,0,Vascular,23,Possible Alzheimer'S Disease,N,White,Not Hispanic,Dementia,2,1
+309335453,H14.09.016,81,M,Y,21,0,Unknown or N/A,2,0,No Dementia,36,No Dementia,N,White,Not Hispanic,No Dementia,3,2
+309335458,H14.09.021,88,M,N,12,18,> 1 hr,0,1,Alzheimer's Disease Type,21,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,1,1
+309335462,H14.09.025,84,M,N,16,23,10 min - 1 hr,0,2,Alzheimer's Disease Type,40,Probable Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,0,0
+309335454,H14.09.017,79,M,N,16,13,< 10 sec,2,3,No Dementia,44,No Dementia,Y,White,Not Hispanic,No Dementia,3,2
+309335486,H14.09.049,95-99,M,N,21,18,3-5 min,1,1,No Dementia,12,No Dementia,Y,White,Not Hispanic,No Dementia,3,1
+309335442,H14.09.005,90-94,F,Y,14,3,Unknown or N/A,1,2,Multiple Etiologies,16,Possible Alzheimer'S Disease,Y,White,Not Hispanic,Dementia,5,2
