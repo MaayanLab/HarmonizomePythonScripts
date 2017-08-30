@@ -145,11 +145,22 @@ def createUpGeneSetLib(inputDF, path, name, details=None):
         sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
-        index = inputDF[inputDF[col] == 1].index
+        # index = inputDF[inputDF[col] == 1].index
+        #
+        # lst = index.values.tolist()
+
+        lst = []
+        lst = inputDF[col].values.tolist()
+        lst.sort()
+
+        lst = lst[::-1]
+        upCutoff = lst[int(0.1*len(lst))]
+        index = inputDF[inputDF[col] > upCutoff].index
 
         lst = index.values.tolist()
 
-        if len(lst) > 5 and len(lst) <= 2000:
+
+        if len(lst) > 5 and len(lst) <= 5000:
 
             lst.insert(0, col)
             if details:
@@ -176,18 +187,28 @@ def createDownGeneSetLib(inputDF, path, name, details=None):
         sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
-        index = inputDF[inputDF[col] == -1].index
+        lst = []
+        lst = inputDF[col].values.tolist()
+        lst.sort()
+
+        #lst = lst[::-1]
+        downCutoff = lst[int(0.1*len(lst))]
+        index = inputDF[inputDF[col] < downCutoff].index
 
         lst = index.values.tolist()
-        if details:
-            lst.insert(1, details[i])
-        else:
-            lst.insert(1, 'NA')
-        lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
-        lst.insert(len(lst), '\n') # add a newline char at the end of each lst
 
-        with open(path+filenameGMT, 'a') as the_file:
-            the_file.writelines(lst)
+        if len(lst) > 5 and len(lst) <= 5000:
+
+            lst.insert(0, col)
+            if details:
+                lst.insert(1, details[i])
+            else:
+                lst.insert(1, 'NA')
+            lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
+            lst.insert(len(lst), '\n') # add a newline char at the end of each lst
+
+            with open(path+filenameGMT, 'a') as the_file:
+                the_file.writelines(lst)
 
 
 def createUpAttributeSetLib(inputDF, path, name):
