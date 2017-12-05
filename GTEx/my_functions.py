@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import scipy.stats.mstats as stat
 import scipy.spatial.distance as dist
+from statsmodels.distributions.empirical_distribution import ECDF
 
 
 def merge(inputDF, axis, method):
@@ -86,7 +87,7 @@ def mapgenesymbols(inputDF):
 
         progressPercent = ((i+1)/len(inputDF.index))*100
 
-        sys.stdout.write("Hi Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
+        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
         sys.stdout.flush()
 
         if inputDF.ix[index, inputDF.columns[0]] in mappingDF.index:
@@ -148,16 +149,19 @@ def createUpGeneSetLib(inputDF, path, name, details=None):
         index = inputDF[inputDF[col] == 1].index
 
         lst = index.values.tolist()
-        lst.insert(0, col)
-        if details:
-            lst.insert(1, details[i])
-        else:
-            lst.insert(1, 'NA')
-        lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
-        lst.insert(len(lst), '\n') # add a newline char at the end of each lst
 
-        with open(path+filenameGMT, 'a') as the_file:
-            the_file.writelines(lst)
+        if len(lst) > 5 and len(lst) <= 2600:
+
+            lst.insert(0, col)
+            if details:
+                lst.insert(1, details[i])
+            else:
+                lst.insert(1, 'NA')
+            lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
+            lst.insert(len(lst), '\n') # add a newline char at the end of each lst
+
+            with open(path+filenameGMT, 'a') as the_file:
+                the_file.writelines(lst)
 
 def createDownGeneSetLib(inputDF, path, name, details=None):
 
@@ -176,6 +180,7 @@ def createDownGeneSetLib(inputDF, path, name, details=None):
         index = inputDF[inputDF[col] == -1].index
 
         lst = index.values.tolist()
+        lst.insert(0, col)
         if details:
             lst.insert(1, details[i])
         else:
@@ -206,13 +211,15 @@ def createUpAttributeSetLib(inputDF, path, name):
         index = inputDF[inputDF[col] == 1].index
 
         lst = index.values.tolist()
-        lst.insert(0, col)
-        lst.insert(1, 'NA')
-        lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
-        lst.insert(len(lst), '\n') # add a newline char at the end of each lst
 
-        with open(path+filenameGMT, 'a') as the_file:
-            the_file.writelines(lst)
+        if len(lst) > 5:
+            lst.insert(0, col)
+            lst.insert(1, 'NA')
+            lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
+            lst.insert(len(lst), '\n') # add a newline char at the end of each lst
+
+            with open(path+filenameGMT, 'a') as the_file:
+                the_file.writelines(lst)
 
     inputDF = inputDF.T
 
@@ -234,14 +241,16 @@ def createDownAttributeSetLib(inputDF, path, name):
 
         index = inputDF[inputDF[col] == -1].index
 
-        lst = index.values.tolist()
-        lst.insert(0, col)
-        lst.insert(1, 'NA')
-        lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
-        lst.insert(len(lst), '\n') # add a newline char at the end of each lst
 
-        with open(path+filenameGMT, 'a') as the_file:
-            the_file.writelines(lst)
+        lst = index.values.tolist()
+        if len(lst) > 5:
+            lst.insert(0, col)
+            lst.insert(1, 'NA')
+            lst = ['{0}\t'.format(elem) for elem in lst] # add tabs between terms in the lst
+            lst.insert(len(lst), '\n') # add a newline char at the end of each lst
+
+            with open(path+filenameGMT, 'a') as the_file:
+                the_file.writelines(lst)
 
     inputDF = inputDF.T
 
@@ -282,9 +291,23 @@ def createAttributeList(inputDF):
 
     return(attribute_list)
 
-def createGeneAttributeEdgeList(inputDF, genelist):
+def createGeneAttributeEdgeList(inputDF, genelist, path, name):
 
-    df = pd.DataFrame(columns=['Attribute', 'Gene', 'GeneID', 'Weight'])
+    count = 0
+
+    filenameGMT = name+'_%s.tsv'% str(datetime.date.today())[0:7].replace('-', '_')
+
+    if os.path.isfile(path+filenameGMT):
+        os.remove(path+filenameGMT)
+
+    lst = ['Attribute', 'Gene', 'GeneID', 'Weight']
+    lst = ['{0}\t'.format(elem) for elem in lst]
+    lst.insert(len(lst), '\n')
+
+    with open(path+filenameGMT, 'a') as the_file:
+        the_file.writelines(lst)
+
+    # df = pd.DataFrame(columns=['Attribute', 'Gene', 'GeneID', 'Weight'])
     temp = pd.DataFrame(columns=['Attribute', 'Gene', 'GeneID', 'Weight'])
 
     for i,col in enumerate(inputDF.columns):
@@ -299,6 +322,90 @@ def createGeneAttributeEdgeList(inputDF, genelist):
         temp['Attribute'] = [col]*len(temp['Gene'])
         temp['GeneID'] = genelist['GeneID']
 
-        df = pd.concat([df, temp])
+        with open(path+filenameGMT, 'a') as the_file:
+                 temp.to_csv(the_file, header=False, index=False, sep='\t')
+
+        count += temp[temp['Weight'] != 0].shape[0]
+
+        # for index in temp.index:
+        #     lst = [temp.ix[index, 'Attribute'], temp.ix[index, 'Gene'], str(temp.ix[index, 'GeneID']), temp.ix[index, 'Weight']]
+        #     lst = ['{0}\t'.format(elem) for elem in lst]
+        #     lst.insert(len(lst), '\n')
+        #
+        #     with open(path+filenameGMT, 'a') as the_file:
+        #         the_file.writelines(lst)
+    print('\n\n The number of statisticaly relevent gene-attribute associations is: %d' %count)
+
+
+def createBinaryMatix(inputDF, ppi=False):
+
+    if ppi:
+
+        genes = list(set(inputDF.iloc[:,0].unique().tolist()+inputDF.iloc[:,1].unique().tolist()))
+
+        matrix = pd.DataFrame(index=genes, columns=genes, data=0)
+
+        for i, gene in enumerate(genes):
+
+            progressPercent = ((i+1)/len(genes))*100
+
+            sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
+            sys.stdout.flush()
+
+            lst = inputDF[inputDF.iloc[:,0] == gene].iloc[:,1].tolist()
+            lst += inputDF[inputDF.iloc[:,1] == gene].iloc[:,0].tolist()
+            lst = set(lst)
+            lst.discard(gene)
+            lst = list(lst)
+
+            matrix.ix[gene, lst] = 1
+
+        return(matrix)
+
+    else:
+        genes = list(set(inputDF.iloc[:,0].unique().tolist()))
+
+        attributes = list(set(inputDF.iloc[:,1].unique().tolist()))
+
+        matrix = pd.DataFrame(index=genes, columns=attributes, data=0)
+
+        for i, gene in enumerate(genes):
+
+            progressPercent = ((i+1)/len(genes))*100
+
+            sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
+            sys.stdout.flush()
+
+            lst = inputDF[inputDF.iloc[:,0] == gene].iloc[:,1].tolist()
+            lst = set(lst)
+            lst.discard(gene)
+            lst = list(lst)
+
+            matrix.ix[gene, lst] = 1
+
+        return(matrix)
+
+def createStandardizedMatix(inputDF):
+    df = inputDF.copy()
+    for i,col in enumerate(inputDF.columns):
+
+        progressPercent = ((i+1)/len(inputDF.columns))*100
+
+        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.flush()
+
+        positiveAssociation = np.abs(df[df[col] > 0][col].values.tolist())
+        positiveAssociationIndex = df[df[col] > 0][col].index
+        positiveECDF = ECDF(positiveAssociation)
+
+        for j,value in enumerate(positiveAssociation):
+            df.loc[positiveAssociationIndex[j], col] = positiveECDF(value)
+
+        negativeAssociation = np.abs(df[df[col] < 0][col].values.tolist())
+        negativeAssociationIndex = df[df[col] < 0][col].index
+        negativeECDF = ECDF(negativeAssociation)
+
+        for k,value in enumerate(negativeAssociation):
+            df.loc[negativeAssociationIndex[k], col] = -negativeECDF(value)
 
     return(df)
