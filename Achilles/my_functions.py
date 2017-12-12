@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import scipy.stats.mstats as stat
 import scipy.spatial.distance as dist
+from statsmodels.distributions.empirical_distribution import ECDF
 
 
 def merge(inputDF, axis, method):
@@ -380,3 +381,28 @@ def createBinaryMatix(inputDF, ppi=False):
             matrix.ix[gene, lst] = 1
 
         return(matrix)
+
+def createStandardizedMatix(inputDF):
+    df = inputDF.copy()
+    for i,col in enumerate(inputDF.columns):
+
+        progressPercent = ((i+1)/len(inputDF.columns))*100
+
+        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.flush()
+
+        positiveAssociation = np.abs(df[df[col] > 0][col].values.tolist())
+        positiveAssociationIndex = df[df[col] > 0][col].index
+        positiveECDF = ECDF(positiveAssociation)
+
+        for j,value in enumerate(positiveAssociation):
+            df.loc[positiveAssociationIndex[j], col] = positiveECDF(value)
+
+        negativeAssociation = np.abs(df[df[col] < 0][col].values.tolist())
+        negativeAssociationIndex = df[df[col] < 0][col].index
+        negativeECDF = ECDF(negativeAssociation)
+
+        for k,value in enumerate(negativeAssociation):
+            df.loc[negativeAssociationIndex[k], col] = -negativeECDF(value)
+
+    return(df)
