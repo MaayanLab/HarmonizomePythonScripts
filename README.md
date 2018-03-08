@@ -65,6 +65,7 @@
     <td>
     </td>
     <td>
+      <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue">Data</a>
     </td>
   </tr>
 </table>
