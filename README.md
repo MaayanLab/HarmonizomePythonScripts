@@ -5,9 +5,21 @@
 
 <table>
   <th>
-    test
-    </th>
+    Resource
+  </th>
+  <th>
+    Data Set
+  </th>
+  <th>
+    Number Of Genes
+  </th>
+  <th>
+    Number Of Attributes
+  </th>
+  <th>
+    Number Of Statistically Significant Associations
+  </th>
   <tb>
     test
-    </tb>
+  </tb>
   </table>
