@@ -27,5 +27,22 @@
   </th>
   <td>
     GTEx
-    </td>
+  </td>
+  <td>
+    GTEx
+  </td>
+    <td>
+    GTEx
+  </td>
+  <td>
+    GTEx
+  </td>
+    <td>
+    GTEx
+  </td>
+  <td>
+    GTEx
+  </td>  <td>
+    GTEx
+  </td>
   </table>
