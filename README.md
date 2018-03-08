@@ -19,7 +19,10 @@
   <th>
     Number Of Statistically Significant Associations
   </th>
-  <tb>
-    test
-  </tb>
+  <th>
+    Prossecing Script
+  </th>
+  <th>
+    Processed Data
+  </th>
   </table>
