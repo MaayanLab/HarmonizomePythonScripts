@@ -49,4 +49,22 @@
       GTEx
     </td>
   </tr>
+  <tr>
+    <td>
+      Tissue
+    </td>
+    <td>
+      25577
+    </td>
+    <td>
+      53
+    </td>
+    <td>
+      64221
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
