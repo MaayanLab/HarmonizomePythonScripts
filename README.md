@@ -25,4 +25,7 @@
   <th>
     Processed Data
   </th>
+  <tb>
+    GTEx
+    </tb>
   </table>
