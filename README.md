@@ -28,20 +28,20 @@
     </th>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       GTEx
     </td>
     <td>
-      GTEx
+      Sample
     </td>
       <td>
-      GTEx
+      25577
     </td>
     <td>
-      GTEx
+      8555
     </td>
       <td>
-      GTEx
+      10940561
     </td>
     <td>
       GTEx
