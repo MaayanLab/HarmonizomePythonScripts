@@ -44,9 +44,10 @@
       10940561
     </td>
     <td>
-      GTEx
-    </td>  <td>
-      GTEx
+      <a href="https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Sample" target="_blank">Script</a>
+    </td>  
+    <td>
+      <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FSample" target="_blank">Data</a>
     </td>
   </tr>
   <tr>
@@ -63,6 +64,7 @@
       64221
     </td>
     <td>
+      <a href="https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Tissue" target="_blank">Script</a>
     </td>
     <td>
       <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue">Data</a>
