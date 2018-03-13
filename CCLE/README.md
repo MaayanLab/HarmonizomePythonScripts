@@ -18,9 +18,6 @@
   </tr> 
   <tr>
     <td>
-      CCLE
-    </td>
-    <td>
       Cell Line
     </td>
       <td>
