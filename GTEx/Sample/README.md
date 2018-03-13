@@ -2,10 +2,7 @@
 <table>
   <tr>
     <th>
-      Resource
-    </th>
-    <th>
-      Data Set
+      Attribute
     </th>
     <th>
       Number Of Genes
@@ -15,9 +12,6 @@
     </th>
     <th>
       Number Of Statistically Significant Associations
-    </th>
-    <th>
-      Prossecing Script
     </th>
     <th>
       Processed Data
