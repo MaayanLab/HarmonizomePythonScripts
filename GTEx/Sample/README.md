@@ -19,19 +19,19 @@
   </tr>
   <tr>
     <td>
-      Tissue
+      Samples
     </td>
     <td>
       25577
     </td>
     <td>
-      53
+      8555
     </td>
     <td>
-      64221
+      10940561
     </td>
     <td>
-      <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue" target="_blank">Data</a>
+      <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FSample" target="_blank">Data</a>
     </td>
   </tr>
 </table>
