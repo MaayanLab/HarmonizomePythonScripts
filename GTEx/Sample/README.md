@@ -31,7 +31,7 @@
       64221
     </td>
     <td>
-      <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue" target=blanc_>Data</a>
+      <a href="http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue" target="_blank">Data</a>
     </td>
   </tr>
 </table>
