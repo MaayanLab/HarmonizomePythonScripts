@@ -97,6 +97,6 @@
 
 
 | Resource | Data Set | Number Of Genes | Number Of Attributes | Number Of Statistically Significant Associations | Prossecing Script | Processed Data |
-|------|----|------|------|----|------|--|
-| A | B | C |
+|-|-|-|-|-|-|-|
+| GTEx | Sample | 25577 | 8555 | 10940561 | [Script]("https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Sample") |
 | 1 | 2 | 3 |
