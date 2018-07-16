@@ -96,7 +96,7 @@
 </table>
 
 
-| This | Is | Test |
-|------|----|------|
+| Resource | Data Set | Number Of Genes | Number Of Attributes | Number Of Statistically Significant Associations | Prossecing Script | Processed Data |
+|------|----|------|------|----|------|--|
 | A | B | C |
 | 1 | 2 | 3 |
