@@ -99,3 +99,4 @@
 | Resource | Data Set | Number Of Genes | Number Of Attributes | Number Of Statistically Significant Associations | Prossecing Script | Processed Data |
 |-|-|-|-|-|-|-|
 | GTEx <td row=2> | Sample | 25577 | 8555 | 10940561 | [ GTEx Sample Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Sample) | [ GTEx Sample Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FSample) |
+| | Tissue | 25577 | 53 | 64221 | [ GTEx Tissue Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Tissue) | [ GTEx Tissue Data](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue) |
