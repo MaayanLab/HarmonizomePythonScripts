@@ -31,6 +31,5 @@
 | ClinVar | ClinVar | 1952 | 2934 | 6663 | [ ClinVar Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/ClinVar/ClinVar.ipynb) | [ ClinVar Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FClinVar) |
 | CMAP | CMAP | 11801 | 200 | 142745 | [ CMAP Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/cmap/cmap.ipynb) | [ CMAP Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FCMAP) |
 | CORUM | CORUM | 3753 | 2752 | 11280 | [ CORUM Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/CORUM/CORUM.ipynb) | [ CORUM Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FCORUM) |
-
 | GTEx | Sample | 25577 | 8555 | 10940561 | [ GTEx Sample Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Sample) | [ GTEx Sample Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FSample) |
 | GTEx | Tissue | 25577 | 53 | 64221 | [ GTEx Tissue Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/tree/master/GTEx/Tissue) | [ GTEx Tissue Data](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FGTEx%2FTissue) | 
