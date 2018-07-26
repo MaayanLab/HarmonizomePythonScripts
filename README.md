@@ -3,6 +3,9 @@
 #### All Processed Data Can Be Accesed Via: <br/> http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE
 <br>  
 
+#### The file containing all utility functions necessary for the running of the scripts can be found here: <br/> [ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)
+<br>  
+
 | Resource | Data Set | Number Of Genes | Number Of Attributes | Number Of Statistically Significant Associations | Prossecing Script | Processed Data |
 |-|-|-|-|----|-|-|
 | [ARCHS4](https://amp.pharm.mssm.edu/archs4/) | Human Cell Line | 23956 | 127 | 608457 | [ ARCHS4 HCL Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/ARCHS4/Human%20Cell%20Lines/ARCHS4%20(Human%20Cell%20Lines).ipynb) | [ ARCHS4 HCL Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FARCHS4%2FHuman%20Cell%20Line) |
