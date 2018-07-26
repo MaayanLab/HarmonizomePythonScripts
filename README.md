@@ -1,6 +1,6 @@
 # HarmonizomePythonScripts
 
-#### All Processed Data Can Be Accesed Via: [ Porcessed Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE)    
+#### All processed data can be accesed via: [ Porcessed Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE)    
 
 
 #### The file containing all utility functions required to run the scripts can be found here: [ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)  
