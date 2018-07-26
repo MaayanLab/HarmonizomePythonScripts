@@ -1,9 +1,11 @@
 # HarmonizomePythonScripts
 
-#### All Processed Data Can Be Accesed Via: <br/> http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE
-<br>  
-#### The file containing all utility functions necessary for the running of the scripts can be found here: <br/> [ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)
-<br>  
+#### All Processed Data Can Be Accesed Via:    
+[ Porcessed Data ] (http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE)    
+
+
+#### The file containing all utility functions necessary for the running of the scripts can be found here:   
+[ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)  
 
 | Resource | Data Set | Number Of Genes | Number Of Attributes | Number Of Statistically Significant Associations | Prossecing Script | Processed Data |
 |-|-|-|-|----|-|-|
