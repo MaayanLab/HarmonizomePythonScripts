@@ -513,7 +513,7 @@ def createBinaryMatrix(inputDF, ppi=False):
 
         attributes = list(set(inputDF.iloc[:,1].unique().tolist()))
 
-        matrix = pd.DataFrame(index=genes, columns=attributes, data=0)
+        matrix = pd.DataFrame(index=genes, columns=attributes, data=0.0)
 
         for i, gene in enumerate(genes):
 
@@ -522,12 +522,9 @@ def createBinaryMatrix(inputDF, ppi=False):
             sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
             sys.stdout.flush()
 
-            lst = inputDF[inputDF.iloc[:,0] == gene].iloc[:,1].tolist()
-            lst = set(lst)
-            lst.discard(gene)
-            lst = list(lst)
+            lst = inputDF.loc[(inputDF.iloc[:,0] == gene), inputDF.columns[1]].values.tolist()
 
-            matrix.loc[gene, lst] = 1
+            matrix.at[gene, lst] = 1
 
         return(matrix)
 
