@@ -7,7 +7,11 @@
 
 #### The file containing the gene symbol mapping (mapping all gene symbols to up to date human symbols) required to run the scirpt cna be found here: [ Gene Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/mappingFile_2017.txt)  
 
-#### The file containing the gene ID to symbol mapping (mapping all Entrez Gene IDs to gene symbols) required to run the scirpt cna be found here: [ Gene ID to Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/GeneSymbolAndIDS_2017.txt)     
+#### The file containing the gene ID to symbol mapping (mapping all Entrez Gene IDs to gene symbols) required to run the scirpt cna be found here: [ Gene ID to Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/GeneSymbolAndIDS_2017.txt)  
+
+Number of Resources: 41
+
+Number of Datasets: 116  
 
 <br>
 
