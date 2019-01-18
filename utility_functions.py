@@ -113,7 +113,7 @@ def quantileNormalize(inputDF):
     df.columns = attributes
     return df
 
-mappingDF = pd.read_csv('/Users/moshesilverstein/Documents/Harmonizome/mappingFile_2017.txt', sep='\t', header=None, index_col=0)
+mappingDF = pd.read_csv('/Users/maayan/sigsets/Harmonizome/HarmonizomePythonScripts/mappingFile_2017.txt', sep='\t', header=None, index_col=0)
 
 def mapgenesymbols(inputDF):
 
@@ -126,7 +126,7 @@ def mapgenesymbols(inputDF):
 
         progressPercent = ((i+1)/len(inputDF.index))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
         sys.stdout.flush()
 
         if inputDF.loc[index, inputDF.columns[0]] in mappingDF.index:
@@ -140,6 +140,36 @@ def mapgenesymbols(inputDF):
 
     inputDF.dropna(inplace=True, subset=[inputDF.columns[0]])
     inputDF.set_index(inputDF.columns[0], inplace=True)
+
+
+mappingDFHMR_updated = pd.read_csv('/Users/maayan/sigsets/Harmonizome/Data/mappingFileHMR_2019.tsv', sep='\t', header=None, index_col=[0,1]).sort_index(level=[0,1])
+
+def mapgenesymbols_updated(inputDF, taxon_id=9606):
+
+    inputDF.reset_index(inplace=True)
+
+
+    lst1 = []
+
+    for i, index in enumerate(inputDF.index):
+
+        progressPercent = ((i+1)/len(inputDF.index))*100
+        if i%1000 == 0:
+            sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
+            sys.stdout.flush()
+
+        if (taxon_id, inputDF.loc[index, inputDF.columns[0]]) in mappingDFHMR_updated.index:
+            lst1.append(mappingDFHMR_updated.loc[(taxon_id, inputDF.loc[index, inputDF.columns[0]]), 2][0])
+        else:
+            lst1.append(np.nan)
+
+
+    inputDF[inputDF.columns[0]] = lst1
+
+
+    inputDF.dropna(inplace=True, subset=[inputDF.columns[0]])
+    inputDF.set_index(inputDF.columns[0], inplace=True)
+
 
 def createTertiaryMatrix(inputDF):
 
@@ -185,7 +215,7 @@ def createTertiaryMatrix(inputDF):
     #
     #     progressPercent = ((i+1)/len(inputDF.columns))*100
     #
-    #     sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+    #     sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
     #     sys.stdout.flush()
     #
     #
@@ -253,7 +283,7 @@ def createUpGeneSetLib(inputDF, path, name, details=None):
 
         progressPercent = ((i+1)/len(inputDF.columns))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
         index = inputDF[inputDF[col] == 1].index
@@ -284,7 +314,7 @@ def createDownGeneSetLib(inputDF, path, name, details=None):
 
         progressPercent = ((i+1)/len(inputDF.columns))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
         index = inputDF[inputDF[col] == -1].index
@@ -318,7 +348,7 @@ def createUpAttributeSetLib(inputDF, path, name):
 
         progressPercent = ((i+1)/len(inputDF.columns))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
         index = inputDF[inputDF[col] == 1].index
@@ -349,7 +379,7 @@ def createDownAttributeSetLib(inputDF, path, name):
 
         progressPercent = ((i+1)/len(inputDF.columns))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
         index = inputDF[inputDF[col] == -1].index
@@ -374,7 +404,7 @@ def createSimilarityMatrix(inputDF, metric):
     similarity_df = similarity_df.applymap(lambda x: 1-x)
     return(similarity_df)
 
-getGeneIDs = pd.read_csv('/Users/moshesilverstein/Documents/Harmonizome/GeneSymbolAndIDS_2017.txt', sep='\t', index_col=0)
+getGeneIDs = pd.read_csv('/Users/maayan/sigsets/Harmonizome/HarmonizomePythonScripts/GeneSymbolAndIDS_2017.txt', sep='\t', index_col=0)
 
 def createGeneList(inputDf):
 
@@ -387,11 +417,34 @@ def createGeneList(inputDf):
 
         progressPercent = ((i+1)/len(gene_list.index))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(gene_list.index)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(gene_list.index)))
         sys.stdout.flush()
 
         if gene_list.loc[index, 'GeneSym'] in getGeneIDs.index:
             gene_list.loc[index, 'GeneID'] = getGeneIDs.loc[gene_list.loc[index, 'GeneSym'], 'Entrez Gene ID(supplied by NCBI)']
+
+
+    return(gene_list)
+
+
+getGeneIDsHMR_updated = pd.read_csv('/Users/maayan/sigsets/Harmonizome/Data/GeneSymbolsAndIDSHMR_2019.tsv', sep='\t', index_col=[0,1]).sort_index(level=[0,1])
+
+def createGeneList_updated(inputDf, taxon_id=9606):
+
+
+    gene_list = pd.DataFrame(columns=['GeneSym', 'GeneID'])
+
+    gene_list['GeneSym'] = inputDf.index
+
+    for i,index in enumerate(gene_list.index):
+
+        progressPercent = ((i+1)/len(gene_list.index))*100
+
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(gene_list.index)))
+        sys.stdout.flush()
+
+        if (taxon_id, gene_list.loc[index, 'GeneSym']) in getGeneIDsHMR_updated.index:
+            gene_list.loc[index, 'GeneID'] = getGeneIDsHMR_updated.loc[(taxon_id, gene_list.loc[index, 'GeneSym']), 'Entrez Gene ID(supplied by NCBI)'][0]
 
 
     return(gene_list)
@@ -414,7 +467,7 @@ def createAttributeList(inputDF, metaData=pd.DataFrame()):
 
             progressPercent = ((i+1)/len(attribute_list.index))*100
 
-            sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(attribute_list.index)))
+            sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(attribute_list.index)))
             sys.stdout.flush()
 
             for col in attribute_list.columns:
@@ -457,7 +510,7 @@ def createGeneAttributeEdgeList(inputDF, attributelist, genelist, path, name):
 
         progressPercent = ((i+1)/len(inputDF.columns))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
         sys.stdout.flush()
 
         temp['GeneSym'] = inputDF[col].index
@@ -495,7 +548,7 @@ def createBinaryMatrix(inputDF, ppi=False):
 
             progressPercent = ((i+1)/len(genes))*100
 
-            sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
+            sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
             sys.stdout.flush()
 
             lst = inputDF[inputDF.iloc[:,0] == gene].iloc[:,1].tolist()
@@ -519,7 +572,7 @@ def createBinaryMatrix(inputDF, ppi=False):
 
             progressPercent = ((i+1)/len(genes))*100
 
-            sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
+            sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(genes)))
             sys.stdout.flush()
 
             lst = inputDF.loc[(inputDF.iloc[:,0] == gene), inputDF.columns[1]].values.tolist()
@@ -543,7 +596,7 @@ def createStandardizedMatrix(inputDF):
 
         progressPercent = ((i+1)/len(inputDF.index))*100
 
-        sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
+        sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.index)))
         sys.stdout.flush()
 
         ourECDF = ECDF(df.loc[index])
@@ -573,7 +626,7 @@ def createStandardizedMatrix(inputDF):
     #
     #     progressPercent = ((i+1)/len(inputDF.columns))*100
     #
-    #     sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+    #     sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
     #     sys.stdout.flush()
     #
     #     positiveAssociation = np.abs(df[df[col] > 0][col].values.tolist())
@@ -629,7 +682,7 @@ def removeAndImpute(inputDF):
 #
 #             progressPercent = ((i+1)/len(inputDF.columns))*100
 #
-#             sys.stdout.write("Progeres: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
+#             sys.stdout.write("Progress: %d%%  %d Out of %d   \r" % (progressPercent, (i+1), len(inputDF.columns)))
 #             sys.stdout.flush()
 #
 #
