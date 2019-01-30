@@ -1,0 +1,280 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# SubCellBarcode "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Import necessary modules"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'/Users/Bioinformatician/Desktop/TamarPlitt'"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "os.chdir('/Users/Bioinformatician/Desktop/TamarPlitt')\n",
+    "os.getcwd()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Initialize results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "result_dataframe = pd.DataFrame()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Define cell lines"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "cell_lines = ['A431', 'MCF7', 'U251', 'H322', 'HCC827']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Doing A431\n",
+      "Doing MCF7\n",
+      "Doing U251\n",
+      "Doing H322\n",
+      "Doing HCC827\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Loop through cell line\n",
+    "for cell_line in cell_lines:\n",
+    "    \n",
+    "    # REport\n",
+    "    print('Doing '+cell_line)\n",
+    "    \n",
+    "    # Read the excel files \n",
+    "    neighborhood_dataframe= pd.read_excel(\"Neighborhood.\"+cell_line+\".xlsx\")\n",
+    "\n",
+    "    # Only keep  relevant columns \n",
+    "    neighborhood_dataframe = neighborhood_dataframe[[\"Protein\", \"Neighborhood.Class\", \"Compartment.Class\"]]\n",
+    "\n",
+    "    # Add a new column specifying the name of the cell line \n",
+    "    neighborhood_dataframe[\"Cell.Line\"]=cell_line\n",
+    "\n",
+    "    # Rearrange columns \n",
+    "    neighborhood_dataframe = neighborhood_dataframe[[\"Cell.Line\", \"Neighborhood.Class\", \"Compartment.Class\", \"Protein\"]]\n",
+    "    \n",
+    "    # Append \n",
+    "    result_dataframe = pd.concat([result_dataframe, neighborhood_dataframe])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Group Proteins by the Cell line, Neighborhood class, and Compartment class\n",
+    "grouped_dataframe = result_dataframe.groupby(['Cell.Line', 'Neighborhood.Class', 'Compartment.Class'])['Protein'].apply(lambda x:'    '.join(x), ).rename('Proteins').to_frame().reset_index()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Clean up the data "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Get counts of proteins per gene-set by creating a count variable \n",
+    "grouped_dataframe['TotalProteins'] = [len(x.split()) for x in grouped_dataframe['Proteins'].tolist()]\n",
+    "\n",
+    "# Drop gene-sets with less than 5 proteins\n",
+    "grouped_dataframe = grouped_dataframe[grouped_dataframe['TotalProteins'] > 4]\n",
+    "\n",
+    "# Drop the count variable \n",
+    "grouped_dataframe = grouped_dataframe.drop('TotalProteins', 1)\n",
+    "\n",
+    "# Create a new column for the PMID of the paper\n",
+    "grouped_dataframe['PMID']='30609389'\n",
+    "\n",
+    "# Concatenate the first four columns with an underscore \n",
+    "grouped_dataframe['ConcatColumns'] = grouped_dataframe.apply(lambda x:'%s_%s_%s_%s' % (x['Cell.Line'],x['Neighborhood.Class'],x['Compartment.Class'],x['PMID']), axis=1)\n",
+    "\n",
+    "# Rearrange columns \n",
+    "grouped_dataframe = grouped_dataframe[['ConcatColumns', 'Cell.Line', 'Neighborhood.Class', 'Compartment.Class', 'Proteins']]\n",
+    "\n",
+    "# Only keep relevant columns  \n",
+    "grouped_dataframe = grouped_dataframe[['ConcatColumns', 'Proteins']]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Save file as a txt file "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>ConcatColumns</th>\n",
+       "      <th>Proteins</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>A431_Cytosol_C1_30609389</td>\n",
+       "      <td>ABHD8    ACTB    ACTR3    ACTR3B    ADRM1    A...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>A431_Cytosol_C2_30609389</td>\n",
+       "      <td>AAR2    ABI1    ACTA1    ADD1    AFAP1L1    AH...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>A431_Cytosol_C3_30609389</td>\n",
+       "      <td>ARFGAP2    ARPP19    CARD16    CBL    CEP41   ...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>A431_Cytosol_C4_30609389</td>\n",
+       "      <td>AACS    AARS    ABRACL    ACYP1    ALDH1A3    ...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>A431_Cytosol_C5_30609389</td>\n",
+       "      <td>AASDHPPT    ABHD14B    ACAT2    ACSS2    ACTN1...</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "              ConcatColumns                                           Proteins\n",
+       "0  A431_Cytosol_C1_30609389  ABHD8    ACTB    ACTR3    ACTR3B    ADRM1    A...\n",
+       "1  A431_Cytosol_C2_30609389  AAR2    ABI1    ACTA1    ADD1    AFAP1L1    AH...\n",
+       "2  A431_Cytosol_C3_30609389  ARFGAP2    ARPP19    CARD16    CBL    CEP41   ...\n",
+       "3  A431_Cytosol_C4_30609389  AACS    AARS    ABRACL    ACYP1    ALDH1A3    ...\n",
+       "4  A431_Cytosol_C5_30609389  AASDHPPT    ABHD14B    ACAT2    ACSS2    ACTN1..."
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "grouped_dataframe.to_csv('subcellbarcode.txt', index=False, header=False, sep='\\t') \n",
+    "grouped_dataframe.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
