@@ -2,7 +2,7 @@ import json
 import requests
 from os import listdir
 from os.path import isfile, join
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 
 def download_interactions():
@@ -28,6 +28,17 @@ def extract_id_name(json):
     return id_name_dict
 
 
+def check_dups(proteins):
+    k_low = [k.lower() for k in proteins.keys()]
+    if len(k_low) - len(set(k_low)) > 0:
+        return [item for item, count in Counter(k_low).items() if count > 1]
+    return None
+
+
+def dup_term(dup, jk):
+    return jk[jk.index(dup.lower)]
+
+
 def main():
     # http://ec2-18-215-31-69.compute-1.amazonaws.com:8000/home/hp/?format=json
     hp_id_name = extract_id_name(json.load(open('human_proteins.json', 'r')))
@@ -37,7 +48,7 @@ def main():
     virus_id_name = extract_id_name(json.load(open('virus.json', 'r')))
 
     interaction_files = [f for f in listdir('interactions') if isfile(join('interactions', f))]
-    gmt = defaultdict(lambda: defaultdict(list))
+    gmt = defaultdict(lambda: defaultdict(set))
 
     # Iterate over viral protein - human protein interaction JSONs
     # Make a nested dictionary: virus[viral protein][gene1, gene2, ..., geneN]
@@ -48,14 +59,20 @@ def main():
             vp = vp_id_name[vp_interaction["viralprotein_id"]]
             hp = hp_id_name[vp_interaction["humanprotein_id"]]
             virus = virus_id_name[int(virus_id)]
-            gmt[virus][vp].append(hp)
+            # Case-insensitive check for duplicate terms. If found, use the first term name
+            gk = list(gmt[virus].keys())
+            if gk:
+                gk_low = [k.lower() for k in gk]
+                if vp.lower() in gk_low:
+                    vp = gk[gk_low.index(vp.lower())]
+            gmt[virus][vp].add(hp)
 
     # Flatten the dictionary
     gmt_plain = []
     for virus in sorted(gmt.keys()):
         for vp in gmt[virus]:
             if len(gmt[virus][vp]) >= 5:
-                term = '{0} {1}\t\t{2}'.format(virus, vp, '\t'.join(sorted(gmt[virus][vp])))
+                term = '{0} {1}\t\t{2}'.format(virus, vp, '\t'.join(sorted(list(gmt[virus][vp]))))
                 gmt_plain.append(term)
 
     with open('phipster.gmt', 'w') as phipster:
