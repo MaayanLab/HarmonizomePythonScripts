@@ -1,0 +1,69 @@
+# Creates the dictionaries and converts them to GMT files
+
+import pandas as pd
+
+old_url = 'http://lincs.hms.harvard.edu/db/datasets/20000/results?small+molecules=HMS_ID&output_type=.csv'
+
+df = []
+
+kinome_df = pd.read_excel('http://lincs.hms.harvard.edu/wordpress/wp-content/uploads/2013/11/HMS-LINCS_KinomeScan_Datasets_2018-01-18.xlsx')
+kinome_df['sm_hms_id'] = kinome_df['sm_hms_id'].str.replace(r'\D', '') #remove HMSL before the ID
+
+# retrieve the CSV file for the small molecules, 2-183
+for x in range(0, 181):  
+    hms_id_string = str(kinome_df.iloc[x]['sm_hms_id'])
+    new_url = old_url.replace("HMS_ID", hms_id_string) # fills in HMS_ID with the correct small molecule 
+    
+    data = pd.read_csv(new_url)
+    df.append(pd.DataFrame(data))
+
+# create dictionaries, one corresponding to each target affinity level 
+dict_1 = {}
+dict_2 = {}
+dict_3 = {} 
+
+# kinases are keys and small molecules are values 
+for sm in df:
+    for x in range(0, sm.shape[0] - 1):
+        kinase_name = sm.iloc[x]['HUGO Gene Symbol']
+        sm_name = sm.iloc[0]['HMSL Small Mol Name']
+        target_aff = sm.iloc[x]['Binding Class']
+        
+        if (target_aff == 1):
+            if (kinase_name in dict_1):
+                if (sm_name not in dict_1[kinase_name]): # make sure key, value not already in
+                    dict_1[kinase_name].append(sm_name)
+            else:
+                dict_1.setdefault(kinase_name, [])
+                dict_1[kinase_name].append(sm_name)
+        elif (target_aff == 2):
+            if (kinase_name in dict_2):
+                if (sm_name not in dict_2[kinase_name]):
+                    dict_2[kinase_name].append(sm_name)
+            else:
+                dict_2.setdefault(kinase_name, [])
+                dict_2[kinase_name].append(sm_name)
+        elif (target_aff == 3):
+            if (kinase_name in dict_3):
+                if (sm_name not in dict_3[kinase_name]):
+                    dict_3[kinase_name].append(sm_name)
+            else:
+                dict_3.setdefault(kinase_name, [])
+                dict_3[kinase_name].append(sm_name)
+        else:
+            continue 
+
+fw1 = open('dict1.gmt', 'w')
+for k, v in dict_1.items():
+    print(str(k) + '\t\t', '\t'.join(v), file = fw1)
+fw1.close()
+
+fw2 = open('dict2.gmt', 'w')
+for k, v in dict_2.items():
+    print(str(k) + '\t\t', '\t'.join(v), file = fw2)
+fw2.close()
+
+fw3 = open('dict3.gmt', 'w')
+for k, v in dict_3.items():
+    print(str(k) + '\t\t', '\t'.join(v), file = fw3)
+fw3.close()
