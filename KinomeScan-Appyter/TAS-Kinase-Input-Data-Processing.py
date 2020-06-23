@@ -1,4 +1,4 @@
-# Creates the dictionaries and converts them to GMT files
+# Creates the dictionaries using TAS data and converts them to GMT files
 
 import pandas as pd
 from collections import defaultdict
