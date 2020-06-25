@@ -1,0 +1,61 @@
+# Creates the dictionaries and converts them to GMT files
+
+import pandas as pd
+from collections import defaultdict
+import xlrd
+
+percentage_df = pd.DataFrame()
+kds_df = pd.DataFrame()
+
+print('Running...')
+
+kinome_df = pd.read_excel('http://lincs.hms.harvard.edu/wordpress/wp-content/uploads/2013/11/HMS-LINCS_KinomeScan_Datasets_2018-01-18.xlsx')
+
+# retrieve the CSV file for the small molecules, 2-183
+for csv_name in range(0, 182):  
+    dataset_id_string = str(kinome_df.iloc[csv_name]['dataset_id'])
+    url = 'http://lincs.hms.harvard.edu/db/datasets/{}/results?search=&output_type=.xlsx'.format(dataset_id_string)
+    data = pd.read_excel(url)
+    data_df = pd.DataFrame(data)
+    if '% Control' in data_df:
+        percentage_df = percentage_df.append(data_df.loc[data_df['% Control'] < 100.0]) # Only append the rows with % control < 100.0
+    elif 'Kd' in data_df:
+        data_df = data_df[data_df['Kd'].notna()] # remove all rows with no value
+        kds_df = kds_df.append(data_df)
+
+# create dictionaries  
+kds_levels = defaultdict(dict)
+percentage_levels = defaultdict(dict)
+
+# for small molecules with % Control. Keys are kinase names, values are dictionaries mapping each small molecule to its % Control
+for row in range(0, percentage_df.shape[0] - 1):
+    kinase_name = percentage_df.iloc[row]['Protein Name']
+    sm_name = percentage_df.iloc[row]['Small Molecule Name']
+    percentage = percentage_df.iloc[row]['% Control']
+    percentage_levels[kinase_name].update({sm_name: percentage})
+
+# for small molecules with Kd. Keys are kinase names, values are dictionaries mapping each small molecule to its Kd value
+for row in range(0, kds_df.shape[0] - 1):
+    kinase_name = kds_df.iloc[row]['Protein Name']
+    sm_name = kds_df.iloc[row]['Small Molecule Name']
+    kd = kds_df.iloc[row]['Kd']
+    kds_levels[kinase_name].update({sm_name: kd})
+    
+# Write into GMT file. Format: kinase_name\t\tsm_name,Kdor%Control\tsm_name2,Kdor%Control, etc
+fw1 = open('percentage_levels.gmt', 'w')
+for k, v in percentage_levels.items():
+    nesteddicts = ''
+    for key, value in v.items():
+        nesteddicts = nesteddicts + key + ',' + str(value) + '\t'
+    print(str(k) + '\t\t', nesteddicts, file = fw1)
+fw1.close()
+
+fw2 = open('kds_levels.gmt', 'w')
+for k, v in kds_levels.items():
+    nesteddicts = ''
+    for key, value in v.items():
+        nesteddicts = nesteddicts + key + ',' + str(value) + '\t'
+    print(str(k) + '\t\t', nesteddicts, file = fw2)
+fw2.close()
+    
+print('Done.')
