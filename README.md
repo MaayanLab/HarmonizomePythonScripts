@@ -1,13 +1,13 @@
 # HarmonizomePythonScripts
 
-#### All processed data can be accesed via: [ Porcessed Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE)    
+#### All processed data can be accesed via: [ Processed Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE)    
 
 
-#### The file containing all utility functions required to run the scripts can be found here: [ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)  
+#### The file containing all utility functions that are required to run the scripts can be found here: [ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)  
 
-#### The file containing the gene symbol mapping (mapping all gene symbols to up to date human symbols) required to run the scirpt cna be found here: [ Gene Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/mappingFile_2017.txt)  
+#### The file containing the gene symbol mapping (mapping all gene symbols to up-to-date human symbols) can be found here: [ Gene Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/mappingFile_2017.txt)  
 
-#### The file containing the gene ID to symbol mapping (mapping all Entrez Gene IDs to gene symbols) required to run the scirpt cna be found here: [ Gene ID to Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/GeneSymbolAndIDS_2017.txt)  
+#### The file containing the gene-ID-to-symbol mappings can be found here: [ Gene ID to Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/GeneSymbolAndIDS_2017.txt)  
 
 Number of Resources: 41
 
@@ -15,7 +15,7 @@ Number of Datasets: 116
 
 <br>
 
-| Resource | Data Set | Number Of Genes | Number Of Attributes | Number Of Statistically Significant Associations | Prossecing Script | Processed Data |
+| Resource | Data Set | Genes | Attributes | Statistically Significant Associations | Prossecing Script | Processed Data |
 |-|-|-|-|----|-|-|
 | [ARCHS4](https://amp.pharm.mssm.edu/archs4/) | Human Cell Line | 23956 | 127 | 608457 | [ ARCHS4 HCL Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/ARCHS4/Human%20Cell%20Lines/ARCHS4%20(Human%20Cell%20Lines).ipynb) | [ ARCHS4 HCL Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FARCHS4%2FHuman%20Cell%20Line) |
 | [ARCHS4](https://amp.pharm.mssm.edu/archs4/) | Human Tissue | 23169 | 108 | 500364 | [ ARCHS4 HT Script ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/ARCHS4/Human%20Tissue/ARCHS4%20(Human%20Tissue).ipynb) | [ ARCHS4 HT Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE?path=%2FARCHS4%2FHuman%20Tissue) |
