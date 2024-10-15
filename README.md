@@ -1,8 +1,5 @@
 # HarmonizomePythonScripts
 
-#### All processed data can be accessed via: [ Processed Data ](http://amp.pharm.mssm.edu/lincs-playground/index.php/s/wUd94XHhiCUw3hE)    
-
-
 #### The file containing all utility functions that are required to run the scripts can be found here: [ Utility Functions File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/utility_functions.py)  
 
 #### The file containing the gene symbol mapping (mapping all gene symbols to up-to-date human symbols) can be found here: [ Gene Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/mappingFile_2017.txt)  
