@@ -9,9 +9,9 @@
 
 #### The file containing the gene-ID-to-symbol mappings can be found here: [ Gene ID to Symbol Mapping File ](https://github.com/MaayanLab/HarmonizomePythonScripts/blob/master/GeneSymbolAndIDS_2017.txt)  
 
-Number of Resources: 41
+<b>Resources:</b> 41
 
-Number of Datasets: 116  
+<b>Datasets:</b> 116  
 
 <br>
 
