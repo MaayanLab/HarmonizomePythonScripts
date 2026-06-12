@@ -1,0 +1,123 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX Templates Journal Article
+% LaTeX Class
+% Version 2.0 (February 7, 2023)
+%
+% This class originates from:
+% https://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{ExcelAtFIT}
+\ExcelFinalCopy
+
+\hypersetup{
+	pdftitle={Paper Title},
+	pdfauthor={Author}
+  pdfkeywords={Keywords}
+}
+
+\lstset{ 
+	backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}; should come as last argument
+	basicstyle=\footnotesize\tt,        % the size of the fonts that are used for the code
+}
+
+\usepackage{float}
+
+\addbibresource{references.bib}
+
+\providecommand{\keywords}[1]
+{
+  \small	
+  \textbf{\textit{Keywords---}} #1
+}
+
+\ExcelYear{2026}
+
+\PaperTitle{(((title)))}
+
+\Authors{Axiom K. Playwright (AI Author)*}
+\affiliation{*%
+  {The Ma'ayan Laboratory, Mount Sinai Center for Bioinformatics, Department of Pharmacological Sciences, Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY 10029}}
+
+
+\Abstract{
+  (((abstract)))
+}
+
+\Keywords{CFDE, Gene Matrix Transpose, Gene Set, Enrichr, RummaGEO, GTEx, MoTrPAC, Metabolomics Workbench, Aging, Exercise, Metabolism}
+
+\begin{document}
+
+\startdocument
+\raggedbottom
+
+\section*{Introduction}\label{Introduction}
+
+Common Fund programs have generated many diverse and robust multiomics datasets in the past 20 years.
+However, knowledge contained in these datasets can be limited if only considered within the context of any individual dataset.
+To address this, we have converted Common Fund datasets from the Common Fund Data Ecosystem (CFDE) into gene set libraries  to combine multiple datasets at a time and investigate interesting overlapping features \autocite{CFDE}.
+Each combination of four gene sets (one from each library) is analyzed to identify signficant pairwise intersections and a robust 4-way intersecting gene set.
+
+For this report, we combined gene sets from the (((dataset_info.1.name))) \autocite{(((dataset_info.1.resource)))}, (((dataset_info.2.name))) \autocite{(((dataset_info.2.resource)))}, (((dataset_info.3.name))) \autocite{(((dataset_info.3.resource)))}, and (((dataset_info.4.name))) \autocite{(((dataset_info.4.resource)))} datasets.
+Among the top-ranked crossings, we identified an overlap with rank (((rank))) and a p-value of (((p_value))) warranting further investigation.
+(((introduction)))
+
+\section*{Methods and Results}\label{Methods and results}
+
+\subsection*{Dataset Processing}\label{Dataset Processing}
+
+Gene matrix transpose (GMT) files used for crossing were created for the Common Fund Data Ecosystem (CFDE) Workbench Data Portal \autocite{CFDE}.
+
+(((dataset_info.1.processing)))
+
+(((dataset_info.2.processing)))
+
+(((dataset_info.3.processing)))
+
+(((dataset_info.4.processing)))
+
+\subsection*{Intersecting Genes}\label{Intersecting Genes}
+Crossing results were ranked by hypergeometric test p-values computed from pairwise overlaps for each collection of gene sets.
+The intersection has a p-value of (((p_value))), a Jaccard index of (((jaccard))), and (((n_genes))) intesecting genes: (((intersecting_genes))).
+
+\begin{figure}[t]
+  \includegraphics[width=\linewidth]{figures/venn\_diagram.pdf}
+  \caption{A venn diagram of the crossed gene sets. Sizes of each set and 2-,3-, and 4-way intersection are labelled.}
+  \label{fig:venn}
+\end{figure}
+
+\subsection*{Enrichment Results}\label{Enrichment Results}
+
+The gene list derived from the crossing intersection was uploaded to Enrichr to explore functional enrichment \autocite{Enrichr}.
+
+The submission used the default background and queried the Gene Ontology Biological Processes 2025 \autocite{GO}, KEGG pathways 2026 \autocite{KEGG}, ChEA Transcription Factor Targets 2022 \autocite{ChEA}, and the GWAS Catalog Phenotypes 2025 \autocite{GWASCatalog} libraries.
+This allowed the platform to return a comprehensive set of over-represented terms associated with the intersecting genes and further inform the biological context.
+
+\begin{figure}[H]
+  \includegraphics[width=\columnwidth]{figures/enrichment_bar.pdf}
+  \caption{\textbf{Enriched Terms for Intersecting Gene Set.} Bar plots of the enriched terms from submitting the intersecting gene set to Enrichr \autocite{Enrichr} and querying agsinst four selected libraries. \textbf{A.} Terms from the GO Biological Processes 2025 library. \textbf{B.} Terms from the KEGG Pathways 2026 library. \textbf{C.} Terms from the ChEA Transcription Factor Targets 2022 library. \textbf{D.} Terms from the GWAS Catalog Phenotypes 2025 library.}
+  \label{fig:enrichment}
+\end{figure}
+
+\section*{Discussion}\label{Discussion}
+
+(((gene_summaries)))
+
+(((enrichment_results)))
+
+(((discussion)))
+
+\section*{Acknowledgements}\label{Acknowledgements}
+This project was funded by the NIH grant \href{https://reporter.nih.gov/search/SdeFoZSP2U2zRTjMZKFHlQ/project-details/11080094}{OT2OD036435}.
+The OpenAI gpt-oss-120b LLM was used to assist in writing the article.
+
+\printbibliography
+
+\end{document}
